@@ -2,8 +2,9 @@
 
 import pandas as pd
 import numpy as np
+import xgboost as xgb
 
-def load_data(scores=None):
+def load_data():
     """Load and process championship data."""
 
     scores = pd.read_csv('Datasets/combined_championship_seasons_2019-2025.csv') 
@@ -64,8 +65,7 @@ def add_elo_pregame(games, k=20, hfa=55.0, regress=0.75):
             expected_home = 1 / (1 + 10 ** ((ea - (eh + hfa)) / 400))
             actual_home = row['y_home_win']
             elo[home] = eh + k * (actual_home - expected_home)
-            elo[away] = ea + k * ((1 - actual_home) - (1 - expected_home))
-           
+            elo[away] = ea + k * ((1 - actual_home) - (1 - expected_home))       
     return g
 #Features to compute rolling statistics for
 FORM_FEATURES = ["win", "goals_for", "goals_against", "goal_difference"]
@@ -112,9 +112,46 @@ def add_rollups(hist, window=5):
         d[f"{feat}_l{window}_pre"] = g[feat].apply(lambda s: s.shift(1).rolling(window, min_periods=1).mean()).reset_index(level=[0, 1], drop=True)
 
     return d
+
+def build_training_matrix(games_elo, hist_roll, window = 5):
+
+    """Build training matrix from games with Elo and team history with rollups."""
+    played = games_elo[games_elo['y_home_win'].notna()].copy().sort_values(by=['Date', 'game_id'])
+    home_rows = hist_roll[hist_roll['is_home'] == 1].set_index('game_id')
+    away_rows = hist_roll[hist_roll['is_home'] == 0].set_index('game_id')
+
+    X = pd.DataFrame(index=played.index)
+
+    for feat in FORM_FEATURES:
+        for suffix in ['s2d_pre', f'l{window}_pre']:
+            col = f"{feat}_{suffix}"
+            X[f"{col}_diff"] = (
+                home_rows.loc[played['game_id'], col].values
+                - away_rows.loc[played['game_id'], col].values
+            )
+    X['rest_days_capped_diff'] = (
+        home_rows.loc[played['game_id'], 'rest_days_capped'].values
+        - away_rows.loc[played['game_id'], 'rest_days_capped'].values
+        )
+    X['elo_diff'] = (
+        played['home_elo_pre'].values
+        - played['away_elo_pre'].values
+    )
+    X['Season'] = played['Season'].values
+
+    y = played['y_home_win'].astype(float).values
+
+    meta = played[['game_id', 'Date', 'Home Team', 'Away Team', 'y_home_win']].copy()
+    return X, y, meta
+   
+
 GAMES = None
-GAMES = load_data(GAMES)
+GAMES = load_data()
 GAMES_ELO = add_elo_pregame(GAMES)
-TEAM_HIST = build_team_history(GAMES_ELO)   
+TEAM_HIST = build_team_history(GAMES_ELO)
 TEAM_HIST = add_rollups(TEAM_HIST, window=5)
-print(TEAM_HIST.head())
+X, y, META = build_training_matrix(GAMES_ELO, TEAM_HIST, window=5)
+
+print(X)
+print(y)
+print(META)
