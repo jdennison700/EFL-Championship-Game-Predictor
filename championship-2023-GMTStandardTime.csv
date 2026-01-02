@@ -1,0 +1,553 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,04/08/2023 20:00,Hillsborough Stadium,Sheffield Wednesday,Southampton,1 - 2
+2,1,05/08/2023 15:00,Ewood Park,Blackburn Rovers,West Bromwich Albion,2 - 1
+3,1,05/08/2023 15:00,Ashton Gate Stadium,Bristol City,Preston North End,1 - 1
+4,1,05/08/2023 15:00,Riverside Stadium,Middlesbrough,Millwall,0 - 1
+5,1,05/08/2023 15:00,Carrow Road,Norwich City,Hull City,2 - 1
+6,1,05/08/2023 15:00,Home Park,Plymouth Argyle,Huddersfield Town,3 - 1
+7,1,05/08/2023 15:00,Vicarage Road,Watford,Queens Park Rangers,4 - 0
+8,1,05/08/2023 15:00,bet365 Stadium,Stoke City,Rotherham United,4 - 1
+9,1,05/08/2023 15:00,Swansea.com Stadium,Swansea City,Birmingham City,1 - 1
+10,1,06/08/2023 12:00,King Power Stadium,Leicester City,Coventry City,2 - 1
+11,1,06/08/2023 14:30,Elland Road,Leeds United,Cardiff City,2 - 2
+12,1,06/08/2023 17:00,Stadium of Light,Sunderland,Ipswich Town,1 - 2
+15,2,12/08/2023 12:30,Coventry Building Society Arena,Coventry City,Middlesbrough,3 - 0
+13,2,12/08/2023 15:00,St Andrew's,Birmingham City,Leeds United,1 - 0
+14,2,12/08/2023 15:00,Cardiff City Stadium,Cardiff City,Queens Park Rangers,1 - 2
+16,2,12/08/2023 15:00,Kirklees Stadium,Huddersfield Town,Leicester City,0 - 1
+17,2,12/08/2023 15:00,MKM Stadium,Hull City,Sheffield Wednesday,4 - 2
+18,2,12/08/2023 15:00,Portman Road,Ipswich Town,Stoke City,2 - 0
+19,2,12/08/2023 15:00,The Den,Millwall,Bristol City,0 - 1
+20,2,12/08/2023 15:00,Deepdale,Preston North End,Sunderland,2 - 1
+21,2,12/08/2023 15:00,New York Stadium,Rotherham United,Blackburn Rovers,2 - 2
+22,2,12/08/2023 15:00,St Mary's Stadium,Southampton,Norwich City,4 - 4
+23,2,12/08/2023 15:00,Vicarage Road,Watford,Plymouth Argyle,0 - 0
+24,2,12/08/2023 15:00,The Hawthorns,West Bromwich Albion,Swansea City,3 - 2
+27,3,18/08/2023 20:00,Elland Road,Leeds United,West Bromwich Albion,1 - 1
+31,3,19/08/2023 12:30,Home Park,Plymouth Argyle,Southampton,1 - 2
+25,3,19/08/2023 15:00,Ewood Park,Blackburn Rovers,Hull City,1 - 2
+26,3,19/08/2023 15:00,Ashton Gate Stadium,Bristol City,Birmingham City,0 - 2
+28,3,19/08/2023 15:00,King Power Stadium,Leicester City,Cardiff City,2 - 1
+29,3,19/08/2023 15:00,Riverside Stadium,Middlesbrough,Huddersfield Town,1 - 1
+32,3,19/08/2023 15:00,Loftus Road,Queens Park Rangers,Ipswich Town,0 - 1
+33,3,19/08/2023 15:00,Hillsborough Stadium,Sheffield Wednesday,Preston North End,0 - 1
+34,3,19/08/2023 15:00,bet365 Stadium,Stoke City,Watford,1 - 0
+35,3,19/08/2023 15:00,Stadium of Light,Sunderland,Rotherham United,2 - 1
+36,3,19/08/2023 15:00,Swansea.com Stadium,Swansea City,Coventry City,1 - 1
+30,3,20/08/2023 12:00,Carrow Road,Norwich City,Millwall,3 - 1
+41,4,25/08/2023 19:30,MKM Stadium,Hull City,Bristol City,1 - 1
+37,4,26/08/2023 15:00,St Andrew's,Birmingham City,Plymouth Argyle,2 - 1
+38,4,26/08/2023 15:00,Cardiff City Stadium,Cardiff City,Sheffield Wednesday,2 - 1
+39,4,26/08/2023 15:00,Coventry Building Society Arena,Coventry City,Sunderland,0 - 0
+40,4,26/08/2023 15:00,Kirklees Stadium,Huddersfield Town,Norwich City,0 - 4
+42,4,26/08/2023 15:00,Portman Road,Ipswich Town,Leeds United,3 - 4
+43,4,26/08/2023 15:00,The Den,Millwall,Stoke City,1 - 0
+44,4,26/08/2023 15:00,Deepdale,Preston North End,Swansea City,2 - 1
+45,4,26/08/2023 15:00,New York Stadium,Rotherham United,Leicester City,1 - 2
+46,4,26/08/2023 15:00,St Mary's Stadium,Southampton,Queens Park Rangers,2 - 1
+48,4,26/08/2023 15:00,The Hawthorns,West Bromwich Albion,Middlesbrough,4 - 2
+47,4,27/08/2023 12:00,Vicarage Road,Watford,Blackburn Rovers,0 - 1
+49,5,02/09/2023 12:30,St Andrew's,Birmingham City,Millwall,1 - 1
+58,5,02/09/2023 12:30,Stadium of Light,Sunderland,Southampton,5 - 0
+59,5,02/09/2023 12:30,Swansea.com Stadium,Swansea City,Bristol City,1 - 2
+50,5,02/09/2023 15:00,Coventry Building Society Arena,Coventry City,Watford,3 - 3
+51,5,02/09/2023 15:00,Portman Road,Ipswich Town,Cardiff City,3 - 2
+52,5,02/09/2023 15:00,Elland Road,Leeds United,Sheffield Wednesday,0 - 0
+53,5,02/09/2023 15:00,King Power Stadium,Leicester City,Hull City,0 - 1
+54,5,02/09/2023 15:00,Riverside Stadium,Middlesbrough,Queens Park Rangers,0 - 2
+55,5,02/09/2023 15:00,Home Park,Plymouth Argyle,Blackburn Rovers,3 - 0
+56,5,02/09/2023 15:00,New York Stadium,Rotherham United,Norwich City,2 - 1
+57,5,02/09/2023 15:00,bet365 Stadium,Stoke City,Preston North End,0 - 2
+60,5,02/09/2023 15:00,The Hawthorns,West Bromwich Albion,Huddersfield Town,1 - 2
+65,6,15/09/2023 19:45,MKM Stadium,Hull City,Coventry City,1 - 1
+71,6,15/09/2023 20:00,St Mary's Stadium,Southampton,Leicester City,1 - 4
+61,6,16/09/2023 15:00,Ewood Park,Blackburn Rovers,Middlesbrough,2 - 1
+62,6,16/09/2023 15:00,Ashton Gate Stadium,Bristol City,West Bromwich Albion,0 - 0
+64,6,16/09/2023 15:00,Kirklees Stadium,Huddersfield Town,Rotherham United,2 - 0
+67,6,16/09/2023 15:00,Carrow Road,Norwich City,Stoke City,1 - 0
+68,6,16/09/2023 15:00,Deepdale,Preston North End,Plymouth Argyle,2 - 1
+69,6,16/09/2023 15:00,Loftus Road,Queens Park Rangers,Sunderland,1 - 3
+70,6,16/09/2023 15:00,Hillsborough Stadium,Sheffield Wednesday,Ipswich Town,0 - 1
+72,6,16/09/2023 15:00,Vicarage Road,Watford,Birmingham City,2 - 0
+63,6,16/09/2023 19:45,Cardiff City Stadium,Cardiff City,Swansea City,2 - 0
+66,6,17/09/2023 12:00,The Den,Millwall,Leeds United,0 - 3
+73,7,19/09/2023 19:45,Ashton Gate Stadium,Bristol City,Plymouth Argyle,4 - 1
+74,7,19/09/2023 19:45,Cardiff City Stadium,Cardiff City,Coventry City,3 - 2
+75,7,19/09/2023 19:45,Deepdale,Preston North End,Birmingham City,2 - 1
+76,7,19/09/2023 19:45,Loftus Road,Queens Park Rangers,Swansea City,1 - 1
+78,7,19/09/2023 19:45,St Mary's Stadium,Southampton,Ipswich Town,0 - 1
+77,7,19/09/2023 20:00,Hillsborough Stadium,Sheffield Wednesday,Middlesbrough,1 - 1
+79,7,20/09/2023 19:45,Ewood Park,Blackburn Rovers,Sunderland,1 - 3
+80,7,20/09/2023 19:45,Kirklees Stadium,Huddersfield Town,Stoke City,2 - 2
+81,7,20/09/2023 19:45,MKM Stadium,Hull City,Leeds United,0 - 0
+82,7,20/09/2023 19:45,The Den,Millwall,Rotherham United,3 - 0
+84,7,20/09/2023 19:45,Vicarage Road,Watford,West Bromwich Albion,2 - 2
+83,7,20/09/2023 20:00,Carrow Road,Norwich City,Leicester City,0 - 2
+85,8,22/09/2023 20:00,St Andrew's,Birmingham City,Queens Park Rangers,0 - 0
+87,8,23/09/2023 15:00,Portman Road,Ipswich Town,Blackburn Rovers,4 - 3
+88,8,23/09/2023 15:00,Elland Road,Leeds United,Watford,3 - 0
+89,8,23/09/2023 15:00,King Power Stadium,Leicester City,Bristol City,1 - 0
+90,8,23/09/2023 15:00,Riverside Stadium,Middlesbrough,Southampton,2 - 1
+91,8,23/09/2023 15:00,Home Park,Plymouth Argyle,Norwich City,6 - 2
+92,8,23/09/2023 15:00,New York Stadium,Rotherham United,Preston North End,1 - 1
+95,8,23/09/2023 15:00,Swansea.com Stadium,Swansea City,Sheffield Wednesday,3 - 0
+96,8,23/09/2023 15:00,The Hawthorns,West Bromwich Albion,Millwall,0 - 0
+93,8,24/09/2023 12:00,bet365 Stadium,Stoke City,Hull City,1 - 3
+94,8,24/09/2023 15:00,Stadium of Light,Sunderland,Cardiff City,0 - 1
+86,8,25/09/2023 20:00,Coventry Building Society Arena,Coventry City,Huddersfield Town,1 - 1
+106,9,29/09/2023 20:00,Hillsborough Stadium,Sheffield Wednesday,Sunderland,0 - 3
+107,9,30/09/2023 12:30,St Mary's Stadium,Southampton,Leeds United,3 - 1
+98,9,30/09/2023 15:00,Ashton Gate Stadium,Bristol City,Stoke City,2 - 3
+99,9,30/09/2023 15:00,Cardiff City Stadium,Cardiff City,Rotherham United,2 - 0
+100,9,30/09/2023 15:00,Kirklees Stadium,Huddersfield Town,Ipswich Town,1 - 1
+101,9,30/09/2023 15:00,MKM Stadium,Hull City,Plymouth Argyle,1 - 1
+102,9,30/09/2023 15:00,The Den,Millwall,Swansea City,0 - 3
+103,9,30/09/2023 15:00,Carrow Road,Norwich City,Birmingham City,2 - 0
+104,9,30/09/2023 15:00,Deepdale,Preston North End,West Bromwich Albion,0 - 4
+105,9,30/09/2023 15:00,Loftus Road,Queens Park Rangers,Coventry City,1 - 3
+108,9,30/09/2023 15:00,Vicarage Road,Watford,Middlesbrough,2 - 3
+97,9,01/10/2023 12:00,Ewood Park,Blackburn Rovers,Leicester City,1 - 4
+109,10,03/10/2023 19:45,St Andrew's,Birmingham City,Huddersfield Town,4 - 1
+110,10,03/10/2023 19:45,Portman Road,Ipswich Town,Hull City,3 - 0
+111,10,03/10/2023 19:45,Riverside Stadium,Middlesbrough,Cardiff City,2 - 0
+112,10,03/10/2023 19:45,Home Park,Plymouth Argyle,Millwall,0 - 2
+113,10,03/10/2023 20:00,bet365 Stadium,Stoke City,Southampton,0 - 1
+114,10,03/10/2023 20:00,The Hawthorns,West Bromwich Albion,Sheffield Wednesday,1 - 0
+115,10,04/10/2023 19:45,Coventry Building Society Arena,Coventry City,Blackburn Rovers,1 - 0
+116,10,04/10/2023 19:45,Elland Road,Leeds United,Queens Park Rangers,1 - 0
+117,10,04/10/2023 19:45,King Power Stadium,Leicester City,Preston North End,3 - 0
+119,10,04/10/2023 19:45,Stadium of Light,Sunderland,Watford,2 - 0
+120,10,04/10/2023 19:45,Swansea.com Stadium,Swansea City,Norwich City,2 - 1
+118,10,04/10/2023 20:00,New York Stadium,Rotherham United,Bristol City,1 - 2
+121,11,06/10/2023 20:00,St Andrew's,Birmingham City,West Bromwich Albion,3 - 1
+132,11,07/10/2023 12:30,Stadium of Light,Sunderland,Middlesbrough,0 - 4
+122,11,07/10/2023 15:00,Cardiff City Stadium,Cardiff City,Watford,1 - 1
+123,11,07/10/2023 15:00,Coventry Building Society Arena,Coventry City,Norwich City,1 - 1
+124,11,07/10/2023 15:00,Portman Road,Ipswich Town,Preston North End,4 - 2
+125,11,07/10/2023 15:00,Elland Road,Leeds United,Bristol City,2 - 1
+126,11,07/10/2023 15:00,King Power Stadium,Leicester City,Stoke City,2 - 0
+127,11,07/10/2023 15:00,The Den,Millwall,Hull City,2 - 2
+128,11,07/10/2023 15:00,Home Park,Plymouth Argyle,Swansea City,1 - 3
+129,11,07/10/2023 15:00,Loftus Road,Queens Park Rangers,Blackburn Rovers,0 - 4
+130,11,07/10/2023 15:00,Hillsborough Stadium,Sheffield Wednesday,Huddersfield Town,0 - 0
+131,11,07/10/2023 15:00,St Mary's Stadium,Southampton,Rotherham United,1 - 1
+139,12,21/10/2023 12:30,Deepdale,Preston North End,Millwall,1 - 1
+133,12,21/10/2023 15:00,Ewood Park,Blackburn Rovers,Cardiff City,1 - 0
+134,12,21/10/2023 15:00,Ashton Gate Stadium,Bristol City,Coventry City,1 - 0
+135,12,21/10/2023 15:00,Kirklees Stadium,Huddersfield Town,Queens Park Rangers,2 - 1
+136,12,21/10/2023 15:00,MKM Stadium,Hull City,Southampton,1 - 2
+137,12,21/10/2023 15:00,Riverside Stadium,Middlesbrough,Birmingham City,1 - 0
+138,12,21/10/2023 15:00,Carrow Road,Norwich City,Leeds United,2 - 3
+141,12,21/10/2023 15:00,bet365 Stadium,Stoke City,Sunderland,2 - 1
+142,12,21/10/2023 15:00,Swansea.com Stadium,Swansea City,Leicester City,1 - 3
+143,12,21/10/2023 15:00,Vicarage Road,Watford,Sheffield Wednesday,1 - 0
+144,12,21/10/2023 15:00,The Hawthorns,West Bromwich Albion,Plymouth Argyle,0 - 0
+140,12,07/11/2023 20:00,New York Stadium,Rotherham United,Ipswich Town,2 - 2
+145,13,24/10/2023 19:45,Kirklees Stadium,Huddersfield Town,Cardiff City,0 - 4
+146,13,24/10/2023 19:45,King Power Stadium,Leicester City,Sunderland,1 - 0
+147,13,24/10/2023 19:45,The Den,Millwall,Blackburn Rovers,1 - 2
+148,13,24/10/2023 19:45,Carrow Road,Norwich City,Middlesbrough,1 - 2
+149,13,24/10/2023 19:45,Swansea.com Stadium,Swansea City,Watford,0 - 1
+150,13,24/10/2023 20:00,The Hawthorns,West Bromwich Albion,Queens Park Rangers,2 - 0
+151,13,25/10/2023 19:45,St Andrew's,Birmingham City,Hull City,0 - 2
+152,13,25/10/2023 19:45,Ashton Gate Stadium,Bristol City,Ipswich Town,0 - 1
+153,13,25/10/2023 19:45,Home Park,Plymouth Argyle,Sheffield Wednesday,3 - 0
+154,13,25/10/2023 19:45,Deepdale,Preston North End,Southampton,2 - 2
+155,13,25/10/2023 19:45,New York Stadium,Rotherham United,Coventry City,2 - 0
+156,13,25/10/2023 20:00,bet365 Stadium,Stoke City,Leeds United,1 - 0
+162,14,28/10/2023 12:30,Elland Road,Leeds United,Huddersfield Town,4 - 1
+166,14,28/10/2023 12:30,St Mary's Stadium,Southampton,Birmingham City,3 - 1
+157,14,28/10/2023 15:00,Ewood Park,Blackburn Rovers,Swansea City,0 - 1
+158,14,28/10/2023 15:00,Cardiff City Stadium,Cardiff City,Bristol City,2 - 0
+160,14,28/10/2023 15:00,MKM Stadium,Hull City,Preston North End,1 - 0
+161,14,28/10/2023 15:00,Portman Road,Ipswich Town,Plymouth Argyle,3 - 2
+163,14,28/10/2023 15:00,Riverside Stadium,Middlesbrough,Stoke City,0 - 2
+164,14,28/10/2023 15:00,Loftus Road,Queens Park Rangers,Leicester City,1 - 2
+167,14,28/10/2023 15:00,Stadium of Light,Sunderland,Norwich City,3 - 1
+168,14,28/10/2023 15:00,Vicarage Road,Watford,Millwall,2 - 2
+165,14,29/10/2023 13:00,Hillsborough Stadium,Sheffield Wednesday,Rotherham United,2 - 0
+159,14,30/10/2023 20:00,Coventry Building Society Arena,Coventry City,West Bromwich Albion,0 - 2
+172,15,03/11/2023 20:00,King Power Stadium,Leicester City,Leeds United,0 - 1
+169,15,04/11/2023 15:00,St Andrew's,Birmingham City,Ipswich Town,2 - 2
+170,15,04/11/2023 15:00,Ashton Gate Stadium,Bristol City,Sheffield Wednesday,1 - 0
+171,15,04/11/2023 15:00,Kirklees Stadium,Huddersfield Town,Watford,0 - 0
+173,15,04/11/2023 15:00,The Den,Millwall,Southampton,0 - 1
+175,15,04/11/2023 15:00,Home Park,Plymouth Argyle,Middlesbrough,3 - 3
+176,15,04/11/2023 15:00,Deepdale,Preston North End,Coventry City,3 - 2
+177,15,04/11/2023 15:00,New York Stadium,Rotherham United,Queens Park Rangers,1 - 1
+178,15,04/11/2023 15:00,bet365 Stadium,Stoke City,Cardiff City,0 - 0
+179,15,04/11/2023 15:00,Swansea.com Stadium,Swansea City,Sunderland,0 - 0
+180,15,04/11/2023 15:00,The Hawthorns,West Bromwich Albion,Hull City,3 - 1
+174,15,05/11/2023 12:00,Carrow Road,Norwich City,Blackburn Rovers,1 - 3
+181,16,10/11/2023 20:00,Ewood Park,Blackburn Rovers,Preston North End,1 - 2
+191,16,11/11/2023 12:30,Stadium of Light,Sunderland,Birmingham City,3 - 1
+182,16,11/11/2023 15:00,Cardiff City Stadium,Cardiff City,Norwich City,2 - 3
+183,16,11/11/2023 15:00,Coventry Building Society Arena,Coventry City,Stoke City,0 - 0
+184,16,11/11/2023 15:00,MKM Stadium,Hull City,Huddersfield Town,1 - 0
+185,16,11/11/2023 15:00,Portman Road,Ipswich Town,Swansea City,3 - 2
+186,16,11/11/2023 15:00,Elland Road,Leeds United,Plymouth Argyle,2 - 1
+187,16,11/11/2023 15:00,Riverside Stadium,Middlesbrough,Leicester City,1 - 0
+188,16,11/11/2023 15:00,Loftus Road,Queens Park Rangers,Bristol City,0 - 0
+189,16,11/11/2023 15:00,Hillsborough Stadium,Sheffield Wednesday,Millwall,0 - 4
+190,16,11/11/2023 15:00,St Mary's Stadium,Southampton,West Bromwich Albion,2 - 1
+192,16,11/11/2023 15:00,Vicarage Road,Watford,Rotherham United,5 - 0
+201,17,24/11/2023 20:00,New York Stadium,Rotherham United,Leeds United,1 - 1
+193,17,25/11/2023 15:00,St Andrew's,Birmingham City,Sheffield Wednesday,2 - 1
+194,17,25/11/2023 15:00,Ashton Gate Stadium,Bristol City,Middlesbrough,3 - 2
+195,17,25/11/2023 15:00,Kirklees Stadium,Huddersfield Town,Southampton,1 - 1
+196,17,25/11/2023 15:00,King Power Stadium,Leicester City,Watford,2 - 0
+197,17,25/11/2023 15:00,The Den,Millwall,Coventry City,0 - 3
+198,17,25/11/2023 15:00,Carrow Road,Norwich City,Queens Park Rangers,1 - 0
+199,17,25/11/2023 15:00,Home Park,Plymouth Argyle,Sunderland,2 - 0
+200,17,25/11/2023 15:00,Deepdale,Preston North End,Cardiff City,1 - 2
+202,17,25/11/2023 15:00,bet365 Stadium,Stoke City,Blackburn Rovers,0 - 3
+203,17,25/11/2023 15:00,Swansea.com Stadium,Swansea City,Hull City,2 - 2
+204,17,25/11/2023 17:30,The Hawthorns,West Bromwich Albion,Ipswich Town,2 - 0
+205,18,28/11/2023 19:45,Cardiff City Stadium,Cardiff City,West Bromwich Albion,0 - 1
+206,18,28/11/2023 19:45,Coventry Building Society Arena,Coventry City,Plymouth Argyle,1 - 0
+207,18,28/11/2023 19:45,MKM Stadium,Hull City,Rotherham United,4 - 1
+208,18,28/11/2023 19:45,Riverside Stadium,Middlesbrough,Preston North End,4 - 0
+209,18,28/11/2023 19:45,Loftus Road,Queens Park Rangers,Stoke City,4 - 2
+210,18,28/11/2023 20:00,Vicarage Road,Watford,Norwich City,3 - 2
+211,18,29/11/2023 19:45,Ewood Park,Blackburn Rovers,Birmingham City,4 - 2
+213,18,29/11/2023 19:45,Elland Road,Leeds United,Swansea City,3 - 1
+214,18,29/11/2023 19:45,Hillsborough Stadium,Sheffield Wednesday,Leicester City,1 - 1
+215,18,29/11/2023 19:45,St Mary's Stadium,Southampton,Bristol City,1 - 0
+216,18,29/11/2023 19:45,Stadium of Light,Sunderland,Huddersfield Town,1 - 2
+212,18,29/11/2023 20:00,Portman Road,Ipswich Town,Millwall,3 - 1
+224,19,01/12/2023 20:00,Deepdale,Preston North End,Queens Park Rangers,0 - 2
+228,19,02/12/2023 12:30,The Hawthorns,West Bromwich Albion,Leicester City,1 - 2
+217,19,02/12/2023 15:00,St Andrew's,Birmingham City,Rotherham United,0 - 0
+219,19,02/12/2023 15:00,MKM Stadium,Hull City,Watford,1 - 2
+220,19,02/12/2023 15:00,Portman Road,Ipswich Town,Coventry City,2 - 1
+221,19,02/12/2023 15:00,Elland Road,Leeds United,Middlesbrough,3 - 2
+222,19,02/12/2023 15:00,The Den,Millwall,Sunderland,1 - 1
+223,19,02/12/2023 15:00,Home Park,Plymouth Argyle,Stoke City,2 - 1
+225,19,02/12/2023 15:00,Hillsborough Stadium,Sheffield Wednesday,Blackburn Rovers,3 - 1
+226,19,02/12/2023 15:00,St Mary's Stadium,Southampton,Cardiff City,2 - 0
+227,19,02/12/2023 15:00,Swansea.com Stadium,Swansea City,Huddersfield Town,1 - 1
+218,19,03/12/2023 13:30,Ashton Gate Stadium,Bristol City,Norwich City,1 - 2
+231,20,08/12/2023 20:00,Coventry Building Society Arena,Coventry City,Birmingham City,2 - 0
+229,20,09/12/2023 12:30,Ewood Park,Blackburn Rovers,Leeds United,0 - 2
+239,20,09/12/2023 12:30,Stadium of Light,Sunderland,West Bromwich Albion,2 - 1
+230,20,09/12/2023 15:00,Cardiff City Stadium,Cardiff City,Millwall,1 - 0
+232,20,09/12/2023 15:00,Kirklees Stadium,Huddersfield Town,Bristol City,1 - 1
+233,20,09/12/2023 15:00,King Power Stadium,Leicester City,Plymouth Argyle,4 - 0
+234,20,09/12/2023 15:00,Riverside Stadium,Middlesbrough,Ipswich Town,0 - 2
+235,20,09/12/2023 15:00,Carrow Road,Norwich City,Preston North End,0 - 0
+236,20,09/12/2023 15:00,Loftus Road,Queens Park Rangers,Hull City,2 - 0
+237,20,09/12/2023 15:00,New York Stadium,Rotherham United,Swansea City,1 - 2
+238,20,09/12/2023 15:00,bet365 Stadium,Stoke City,Sheffield Wednesday,0 - 1
+240,20,09/12/2023 15:00,Vicarage Road,Watford,Southampton,1 - 1
+241,21,12/12/2023 19:45,Ewood Park,Blackburn Rovers,Bristol City,2 - 1
+242,21,12/12/2023 19:45,Kirklees Stadium,Huddersfield Town,Preston North End,1 - 3
+243,21,12/12/2023 19:45,New York Stadium,Rotherham United,West Bromwich Albion,0 - 2
+244,21,12/12/2023 19:45,bet365 Stadium,Stoke City,Swansea City,1 - 1
+246,21,12/12/2023 19:45,Vicarage Road,Watford,Ipswich Town,1 - 2
+245,21,12/12/2023 20:00,Stadium of Light,Sunderland,Leeds United,1 - 0
+247,21,13/12/2023 19:45,Cardiff City Stadium,Cardiff City,Birmingham City,0 - 1
+248,21,13/12/2023 19:45,Coventry Building Society Arena,Coventry City,Southampton,1 - 1
+249,21,13/12/2023 19:45,King Power Stadium,Leicester City,Millwall,3 - 2
+251,21,13/12/2023 19:45,Carrow Road,Norwich City,Sheffield Wednesday,3 - 1
+252,21,13/12/2023 19:45,Loftus Road,Queens Park Rangers,Plymouth Argyle,0 - 0
+250,21,13/12/2023 20:00,Riverside Stadium,Middlesbrough,Hull City,1 - 2
+256,22,16/12/2023 12:30,Portman Road,Ipswich Town,Norwich City,2 - 2
+254,22,16/12/2023 15:00,Ashton Gate Stadium,Bristol City,Sunderland,1 - 0
+255,22,16/12/2023 15:00,MKM Stadium,Hull City,Cardiff City,3 - 0
+257,22,16/12/2023 15:00,Elland Road,Leeds United,Coventry City,1 - 1
+258,22,16/12/2023 15:00,The Den,Millwall,Huddersfield Town,1 - 1
+259,22,16/12/2023 15:00,Home Park,Plymouth Argyle,Rotherham United,3 - 2
+260,22,16/12/2023 15:00,Deepdale,Preston North End,Watford,1 - 5
+261,22,16/12/2023 15:00,Hillsborough Stadium,Sheffield Wednesday,Queens Park Rangers,2 - 1
+262,22,16/12/2023 15:00,St Mary's Stadium,Southampton,Blackburn Rovers,4 - 0
+263,22,16/12/2023 15:00,Swansea.com Stadium,Swansea City,Middlesbrough,1 - 2
+264,22,17/12/2023 12:00,The Hawthorns,West Bromwich Albion,Stoke City,1 - 1
+253,22,18/12/2023 20:00,St Andrew's,Birmingham City,Leicester City,2 - 3
+266,23,22/12/2023 19:45,Ashton Gate Stadium,Bristol City,Hull City,3 - 2
+276,23,22/12/2023 19:45,Swansea.com Stadium,Swansea City,Preston North End,2 - 1
+267,23,23/12/2023 12:30,Elland Road,Leeds United,Ipswich Town,4 - 0
+265,23,23/12/2023 15:00,Ewood Park,Blackburn Rovers,Watford,1 - 2
+268,23,23/12/2023 15:00,King Power Stadium,Leicester City,Rotherham United,3 - 0
+269,23,23/12/2023 15:00,Riverside Stadium,Middlesbrough,West Bromwich Albion,1 - 0
+270,23,23/12/2023 15:00,Carrow Road,Norwich City,Huddersfield Town,2 - 0
+271,23,23/12/2023 15:00,Home Park,Plymouth Argyle,Birmingham City,3 - 3
+272,23,23/12/2023 15:00,Loftus Road,Queens Park Rangers,Southampton,0 - 1
+273,23,23/12/2023 15:00,Hillsborough Stadium,Sheffield Wednesday,Cardiff City,1 - 2
+274,23,23/12/2023 15:00,bet365 Stadium,Stoke City,Millwall,0 - 0
+275,23,23/12/2023 15:00,Stadium of Light,Sunderland,Coventry City,0 - 3
+284,24,26/12/2023 12:30,Deepdale,Preston North End,Leeds United,2 - 1
+283,24,26/12/2023 13:00,The Den,Millwall,Queens Park Rangers,2 - 0
+278,24,26/12/2023 15:00,Cardiff City Stadium,Cardiff City,Plymouth Argyle,2 - 2
+279,24,26/12/2023 15:00,Coventry Building Society Arena,Coventry City,Sheffield Wednesday,2 - 0
+280,24,26/12/2023 15:00,Kirklees Stadium,Huddersfield Town,Blackburn Rovers,3 - 0
+281,24,26/12/2023 15:00,MKM Stadium,Hull City,Sunderland,0 - 1
+285,24,26/12/2023 15:00,New York Stadium,Rotherham United,Middlesbrough,1 - 0
+286,24,26/12/2023 15:00,St Mary's Stadium,Southampton,Swansea City,5 - 0
+287,24,26/12/2023 15:00,Vicarage Road,Watford,Bristol City,1 - 4
+288,24,26/12/2023 15:00,The Hawthorns,West Bromwich Albion,Norwich City,1 - 0
+277,24,26/12/2023 17:15,St Andrew's,Birmingham City,Stoke City,1 - 3
+282,24,26/12/2023 19:45,Portman Road,Ipswich Town,Leicester City,1 - 1
+298,25,29/12/2023 18:00,St Mary's Stadium,Southampton,Plymouth Argyle,2 - 1
+289,25,29/12/2023 19:45,St Andrew's,Birmingham City,Bristol City,0 - 0
+290,25,29/12/2023 19:45,Cardiff City Stadium,Cardiff City,Leicester City,0 - 2
+291,25,29/12/2023 19:45,Coventry Building Society Arena,Coventry City,Swansea City,2 - 2
+292,25,29/12/2023 19:45,Kirklees Stadium,Huddersfield Town,Middlesbrough,1 - 2
+293,25,29/12/2023 19:45,MKM Stadium,Hull City,Blackburn Rovers,3 - 2
+294,25,29/12/2023 19:45,Portman Road,Ipswich Town,Queens Park Rangers,0 - 0
+295,25,29/12/2023 19:45,The Den,Millwall,Norwich City,1 - 0
+296,25,29/12/2023 19:45,Deepdale,Preston North End,Sheffield Wednesday,0 - 1
+297,25,29/12/2023 19:45,New York Stadium,Rotherham United,Sunderland,1 - 1
+299,25,29/12/2023 19:45,Vicarage Road,Watford,Stoke City,1 - 1
+300,25,29/12/2023 20:15,The Hawthorns,West Bromwich Albion,Leeds United,1 - 0
+311,26,01/01/2024 12:30,Stadium of Light,Sunderland,Preston North End,2 - 0
+301,26,01/01/2024 15:00,Ewood Park,Blackburn Rovers,Rotherham United,2 - 2
+302,26,01/01/2024 15:00,Ashton Gate Stadium,Bristol City,Millwall,0 - 1
+303,26,01/01/2024 15:00,Elland Road,Leeds United,Birmingham City,3 - 0
+304,26,01/01/2024 15:00,King Power Stadium,Leicester City,Huddersfield Town,4 - 1
+305,26,01/01/2024 15:00,Riverside Stadium,Middlesbrough,Coventry City,1 - 3
+306,26,01/01/2024 15:00,Carrow Road,Norwich City,Southampton,1 - 1
+307,26,01/01/2024 15:00,Home Park,Plymouth Argyle,Watford,3 - 3
+308,26,01/01/2024 15:00,Loftus Road,Queens Park Rangers,Cardiff City,1 - 2
+310,26,01/01/2024 15:00,bet365 Stadium,Stoke City,Ipswich Town,0 - 0
+312,26,01/01/2024 15:00,Swansea.com Stadium,Swansea City,West Bromwich Albion,1 - 0
+309,26,01/01/2024 17:15,Hillsborough Stadium,Sheffield Wednesday,Hull City,3 - 1
+317,27,12/01/2024 20:00,MKM Stadium,Hull City,Norwich City,1 - 2
+315,27,13/01/2024 12:30,Coventry Building Society Arena,Coventry City,Leicester City,3 - 1
+313,27,13/01/2024 15:00,St Andrew's,Birmingham City,Swansea City,2 - 2
+314,27,13/01/2024 15:00,Cardiff City Stadium,Cardiff City,Leeds United,0 - 3
+316,27,13/01/2024 15:00,Kirklees Stadium,Huddersfield Town,Plymouth Argyle,1 - 1
+320,27,13/01/2024 15:00,Deepdale,Preston North End,Bristol City,2 - 0
+321,27,13/01/2024 15:00,New York Stadium,Rotherham United,Stoke City,0 - 1
+322,27,13/01/2024 15:00,St Mary's Stadium,Southampton,Sheffield Wednesday,4 - 0
+324,27,13/01/2024 15:00,The Hawthorns,West Bromwich Albion,Blackburn Rovers,4 - 1
+319,27,13/01/2024 15:15,The Den,Millwall,Middlesbrough,1 - 3
+318,27,13/01/2024 17:30,Portman Road,Ipswich Town,Sunderland,2 - 1
+323,27,14/01/2024 12:00,Loftus Road,Queens Park Rangers,Watford,1 - 2
+335,28,19/01/2024 20:00,Stadium of Light,Sunderland,Hull City,0 - 1
+336,28,20/01/2024 12:30,Swansea.com Stadium,Swansea City,Southampton,1 - 3
+325,28,20/01/2024 15:00,Ewood Park,Blackburn Rovers,Huddersfield Town,1 - 1
+326,28,20/01/2024 15:00,Ashton Gate Stadium,Bristol City,Watford,1 - 1
+329,28,20/01/2024 15:00,Riverside Stadium,Middlesbrough,Rotherham United,1 - 1
+330,28,20/01/2024 15:00,Carrow Road,Norwich City,West Bromwich Albion,2 - 0
+331,28,20/01/2024 15:00,Home Park,Plymouth Argyle,Cardiff City,3 - 1
+332,28,20/01/2024 15:00,Loftus Road,Queens Park Rangers,Millwall,2 - 0
+333,28,20/01/2024 15:00,Hillsborough Stadium,Sheffield Wednesday,Coventry City,1 - 2
+334,28,20/01/2024 15:00,bet365 Stadium,Stoke City,Birmingham City,1 - 2
+327,28,21/01/2024 12:00,Elland Road,Leeds United,Preston North End,2 - 1
+328,28,22/01/2024 20:00,King Power Stadium,Leicester City,Ipswich Town,1 - 1
+341,29,24/01/2024 19:45,Elland Road,Leeds United,Norwich City,1 - 0
+337,29,27/01/2024 15:00,St Andrew's,Birmingham City,Middlesbrough,
+343,29,27/01/2024 15:00,The Den,Millwall,Preston North End,1 - 1
+348,29,27/01/2024 15:00,Stadium of Light,Sunderland,Stoke City,3 - 1
+345,29,28/01/2024 13:30,Loftus Road,Queens Park Rangers,Huddersfield Town,1 - 1
+339,29,30/01/2024 19:45,Coventry Building Society Arena,Coventry City,Bristol City,2 - 2
+342,29,30/01/2024 19:45,King Power Stadium,Leicester City,Swansea City,3 - 1
+346,29,31/01/2024 19:45,Hillsborough Stadium,Sheffield Wednesday,Watford,0 - 0
+338,29,20/02/2024 19:45,Cardiff City Stadium,Cardiff City,Blackburn Rovers,0 - 0
+340,29,20/02/2024 19:45,Portman Road,Ipswich Town,Rotherham United,4 - 3
+344,29,20/02/2024 19:45,Home Park,Plymouth Argyle,West Bromwich Albion,0 - 3
+347,29,20/02/2024 19:45,St Mary's Stadium,Southampton,Hull City,1 - 2
+350,30,02/02/2024 20:00,Ashton Gate Stadium,Bristol City,Leeds United,0 - 1
+349,30,03/02/2024 15:00,Ewood Park,Blackburn Rovers,Queens Park Rangers,1 - 2
+351,30,03/02/2024 15:00,Kirklees Stadium,Huddersfield Town,Sheffield Wednesday,4 - 0
+352,30,03/02/2024 15:00,MKM Stadium,Hull City,Millwall,1 - 0
+354,30,03/02/2024 15:00,Carrow Road,Norwich City,Coventry City,2 - 1
+355,30,03/02/2024 15:00,Deepdale,Preston North End,Ipswich Town,3 - 2
+356,30,03/02/2024 15:00,New York Stadium,Rotherham United,Southampton,0 - 2
+357,30,03/02/2024 15:00,bet365 Stadium,Stoke City,Leicester City,0 - 5
+358,30,03/02/2024 15:00,Swansea.com Stadium,Swansea City,Plymouth Argyle,0 - 1
+359,30,03/02/2024 15:00,Vicarage Road,Watford,Cardiff City,0 - 1
+360,30,03/02/2024 15:00,The Hawthorns,West Bromwich Albion,Birmingham City,1 - 0
+353,30,04/02/2024 12:00,Riverside Stadium,Middlesbrough,Sunderland,1 - 1
+369,31,09/02/2024 20:00,Hillsborough Stadium,Sheffield Wednesday,Birmingham City,2 - 0
+365,31,10/02/2024 12:30,Portman Road,Ipswich Town,West Bromwich Albion,2 - 2
+361,31,10/02/2024 15:00,Ewood Park,Blackburn Rovers,Stoke City,3 - 1
+362,31,10/02/2024 15:00,Cardiff City Stadium,Cardiff City,Preston North End,0 - 2
+364,31,10/02/2024 15:00,MKM Stadium,Hull City,Swansea City,0 - 1
+366,31,10/02/2024 15:00,Elland Road,Leeds United,Rotherham United,3 - 0
+367,31,10/02/2024 15:00,Riverside Stadium,Middlesbrough,Bristol City,1 - 2
+368,31,10/02/2024 15:00,Loftus Road,Queens Park Rangers,Norwich City,2 - 2
+370,31,10/02/2024 15:00,St Mary's Stadium,Southampton,Huddersfield Town,5 - 3
+371,31,10/02/2024 15:00,Stadium of Light,Sunderland,Plymouth Argyle,3 - 1
+372,31,10/02/2024 15:00,Vicarage Road,Watford,Leicester City,1 - 2
+363,31,11/02/2024 12:00,Coventry Building Society Arena,Coventry City,Millwall,2 - 1
+373,32,13/02/2024 19:45,St Andrew's,Birmingham City,Blackburn Rovers,1 - 0
+375,32,13/02/2024 19:45,King Power Stadium,Leicester City,Sheffield Wednesday,2 - 0
+376,32,13/02/2024 19:45,Carrow Road,Norwich City,Watford,4 - 2
+377,32,13/02/2024 19:45,New York Stadium,Rotherham United,Hull City,1 - 2
+378,32,13/02/2024 19:45,Swansea.com Stadium,Swansea City,Leeds United,0 - 4
+374,32,13/02/2024 20:00,Ashton Gate Stadium,Bristol City,Southampton,3 - 1
+384,32,13/02/2024 20:00,The Hawthorns,West Bromwich Albion,Cardiff City,2 - 0
+379,32,14/02/2024 19:45,Kirklees Stadium,Huddersfield Town,Sunderland,1 - 0
+381,32,14/02/2024 19:45,Home Park,Plymouth Argyle,Coventry City,2 - 2
+382,32,14/02/2024 19:45,Deepdale,Preston North End,Middlesbrough,2 - 1
+383,32,14/02/2024 19:45,bet365 Stadium,Stoke City,Queens Park Rangers,1 - 0
+380,32,14/02/2024 20:00,The Den,Millwall,Ipswich Town,0 - 4
+396,33,16/02/2024 20:00,The Hawthorns,West Bromwich Albion,Southampton,0 - 2
+391,33,17/02/2024 12:30,Home Park,Plymouth Argyle,Leeds United,0 - 2
+385,33,17/02/2024 15:00,St Andrew's,Birmingham City,Sunderland,2 - 1
+386,33,17/02/2024 15:00,Ashton Gate Stadium,Bristol City,Queens Park Rangers,0 - 1
+387,33,17/02/2024 15:00,Kirklees Stadium,Huddersfield Town,Hull City,1 - 2
+388,33,17/02/2024 15:00,King Power Stadium,Leicester City,Middlesbrough,1 - 2
+389,33,17/02/2024 15:00,The Den,Millwall,Sheffield Wednesday,0 - 2
+390,33,17/02/2024 15:00,Carrow Road,Norwich City,Cardiff City,4 - 1
+392,33,17/02/2024 15:00,Deepdale,Preston North End,Blackburn Rovers,2 - 2
+393,33,17/02/2024 15:00,New York Stadium,Rotherham United,Watford,0 - 1
+394,33,17/02/2024 15:00,bet365 Stadium,Stoke City,Coventry City,0 - 1
+395,33,17/02/2024 15:00,Swansea.com Stadium,Swansea City,Ipswich Town,1 - 2
+399,34,23/02/2024 19:45,Coventry Building Society Arena,Coventry City,Preston North End,0 - 3
+402,34,23/02/2024 20:00,Elland Road,Leeds United,Leicester City,3 - 1
+400,34,24/02/2024 12:30,MKM Stadium,Hull City,West Bromwich Albion,1 - 1
+397,34,24/02/2024 15:00,Ewood Park,Blackburn Rovers,Norwich City,1 - 1
+398,34,24/02/2024 15:00,Cardiff City Stadium,Cardiff City,Stoke City,2 - 1
+401,34,24/02/2024 15:00,Portman Road,Ipswich Town,Birmingham City,3 - 1
+403,34,24/02/2024 15:00,Riverside Stadium,Middlesbrough,Plymouth Argyle,0 - 2
+404,34,24/02/2024 15:00,Loftus Road,Queens Park Rangers,Rotherham United,2 - 1
+405,34,24/02/2024 15:00,Hillsborough Stadium,Sheffield Wednesday,Bristol City,2 - 1
+406,34,24/02/2024 15:00,St Mary's Stadium,Southampton,Millwall,1 - 2
+407,34,24/02/2024 15:00,Stadium of Light,Sunderland,Swansea City,1 - 2
+408,34,24/02/2024 15:00,Vicarage Road,Watford,Huddersfield Town,1 - 2
+420,35,01/03/2024 20:00,The Hawthorns,West Bromwich Albion,Coventry City,2 - 1
+410,35,02/03/2024 12:30,Ashton Gate Stadium,Bristol City,Cardiff City,0 - 1
+411,35,02/03/2024 12:30,Kirklees Stadium,Huddersfield Town,Leeds United,1 - 1
+409,35,02/03/2024 15:00,St Andrew's,Birmingham City,Southampton,3 - 4
+412,35,02/03/2024 15:00,King Power Stadium,Leicester City,Queens Park Rangers,1 - 2
+413,35,02/03/2024 15:00,The Den,Millwall,Watford,1 - 0
+414,35,02/03/2024 15:00,Carrow Road,Norwich City,Sunderland,1 - 0
+415,35,02/03/2024 15:00,Home Park,Plymouth Argyle,Ipswich Town,0 - 2
+416,35,02/03/2024 15:00,Deepdale,Preston North End,Hull City,0 - 0
+417,35,02/03/2024 15:00,New York Stadium,Rotherham United,Sheffield Wednesday,0 - 1
+418,35,02/03/2024 15:00,bet365 Stadium,Stoke City,Middlesbrough,2 - 0
+419,35,02/03/2024 15:00,Swansea.com Stadium,Swansea City,Blackburn Rovers,2 - 1
+421,36,05/03/2024 19:45,Ewood Park,Blackburn Rovers,Millwall,1 - 1
+422,36,05/03/2024 19:45,Coventry Building Society Arena,Coventry City,Rotherham United,5 - 0
+425,36,05/03/2024 19:45,Elland Road,Leeds United,Stoke City,1 - 0
+426,36,05/03/2024 19:45,Stadium of Light,Sunderland,Leicester City,0 - 1
+430,36,05/03/2024 19:45,Hillsborough Stadium,Sheffield Wednesday,Plymouth Argyle,1 - 0
+424,36,05/03/2024 20:00,Portman Road,Ipswich Town,Bristol City,3 - 2
+427,36,06/03/2024 19:45,Cardiff City Stadium,Cardiff City,Huddersfield Town,1 - 0
+428,36,06/03/2024 19:45,Riverside Stadium,Middlesbrough,Norwich City,3 - 1
+432,36,06/03/2024 19:45,Vicarage Road,Watford,Swansea City,1 - 1
+429,36,06/03/2024 20:00,Loftus Road,Queens Park Rangers,West Bromwich Albion,2 - 2
+423,36,12/03/2024 19:45,MKM Stadium,Hull City,Birmingham City,1 - 1
+431,36,16/04/2024 20:00,St Mary's Stadium,Southampton,Preston North End,3 - 0
+442,37,08/03/2024 20:00,Hillsborough Stadium,Sheffield Wednesday,Leeds United,0 - 2
+435,37,09/03/2024 12:30,Cardiff City Stadium,Cardiff City,Ipswich Town,2 - 1
+433,37,09/03/2024 15:00,Ewood Park,Blackburn Rovers,Plymouth Argyle,1 - 1
+437,37,09/03/2024 15:00,MKM Stadium,Hull City,Leicester City,2 - 2
+438,37,09/03/2024 15:00,The Den,Millwall,Birmingham City,1 - 0
+439,37,09/03/2024 15:00,Carrow Road,Norwich City,Rotherham United,5 - 0
+440,37,09/03/2024 15:00,Deepdale,Preston North End,Stoke City,1 - 2
+441,37,09/03/2024 15:00,Loftus Road,Queens Park Rangers,Middlesbrough,0 - 2
+443,37,09/03/2024 15:00,St Mary's Stadium,Southampton,Sunderland,4 - 2
+444,37,09/03/2024 15:00,Vicarage Road,Watford,Coventry City,1 - 2
+436,37,10/03/2024 12:00,Kirklees Stadium,Huddersfield Town,West Bromwich Albion,1 - 4
+434,37,10/03/2024 12:30,Ashton Gate Stadium,Bristol City,Swansea City,1 - 0
+455,38,16/03/2024 12:30,Swansea.com Stadium,Swansea City,Cardiff City,2 - 0
+445,38,16/03/2024 15:00,St Andrew's,Birmingham City,Watford,0 - 1
+447,38,16/03/2024 15:00,Portman Road,Ipswich Town,Sheffield Wednesday,6 - 0
+450,38,16/03/2024 15:00,Riverside Stadium,Middlesbrough,Blackburn Rovers,0 - 0
+451,38,16/03/2024 15:00,Home Park,Plymouth Argyle,Preston North End,0 - 1
+452,38,16/03/2024 15:00,New York Stadium,Rotherham United,Huddersfield Town,0 - 0
+453,38,16/03/2024 15:00,bet365 Stadium,Stoke City,Norwich City,0 - 3
+454,38,16/03/2024 15:00,Stadium of Light,Sunderland,Queens Park Rangers,0 - 0
+456,38,16/03/2024 15:00,The Hawthorns,West Bromwich Albion,Bristol City,2 - 0
+448,38,17/03/2024 15:00,Elland Road,Leeds United,Millwall,2 - 0
+449,38,23/04/2024 20:00,King Power Stadium,Leicester City,Southampton,5 - 0
+446,38,24/04/2024 19:45,Coventry Building Society Arena,Coventry City,Hull City,2 - 3
+458,39,29/03/2024 12:30,Ashton Gate Stadium,Bristol City,Leicester City,1 - 0
+462,39,29/03/2024 13:00,The Den,Millwall,West Bromwich Albion,1 - 1
+459,39,29/03/2024 15:00,Cardiff City Stadium,Cardiff City,Sunderland,0 - 2
+460,39,29/03/2024 15:00,Kirklees Stadium,Huddersfield Town,Coventry City,1 - 3
+461,39,29/03/2024 15:00,MKM Stadium,Hull City,Stoke City,0 - 2
+463,39,29/03/2024 15:00,Carrow Road,Norwich City,Plymouth Argyle,2 - 1
+464,39,29/03/2024 15:00,Deepdale,Preston North End,Rotherham United,3 - 0
+465,39,29/03/2024 15:00,Loftus Road,Queens Park Rangers,Birmingham City,2 - 1
+466,39,29/03/2024 15:00,Hillsborough Stadium,Sheffield Wednesday,Swansea City,1 - 1
+467,39,29/03/2024 15:00,St Mary's Stadium,Southampton,Middlesbrough,1 - 1
+457,39,29/03/2024 17:30,Ewood Park,Blackburn Rovers,Ipswich Town,0 - 1
+468,39,29/03/2024 20:00,Vicarage Road,Watford,Leeds United,2 - 2
+473,40,01/04/2024 12:30,King Power Stadium,Leicester City,Norwich City,3 - 1
+469,40,01/04/2024 15:00,St Andrew's,Birmingham City,Preston North End,1 - 0
+470,40,01/04/2024 15:00,Coventry Building Society Arena,Coventry City,Cardiff City,1 - 2
+474,40,01/04/2024 15:00,Riverside Stadium,Middlesbrough,Sheffield Wednesday,2 - 0
+475,40,01/04/2024 15:00,Home Park,Plymouth Argyle,Bristol City,0 - 1
+476,40,01/04/2024 15:00,New York Stadium,Rotherham United,Millwall,2 - 1
+477,40,01/04/2024 15:00,bet365 Stadium,Stoke City,Huddersfield Town,1 - 1
+478,40,01/04/2024 15:00,Stadium of Light,Sunderland,Blackburn Rovers,1 - 5
+479,40,01/04/2024 15:00,Swansea.com Stadium,Swansea City,Queens Park Rangers,0 - 1
+480,40,01/04/2024 15:00,The Hawthorns,West Bromwich Albion,Watford,2 - 2
+471,40,01/04/2024 17:30,Portman Road,Ipswich Town,Southampton,3 - 2
+472,40,01/04/2024 20:00,Elland Road,Leeds United,Hull City,3 - 1
+489,41,05/04/2024 20:00,New York Stadium,Rotherham United,Plymouth Argyle,0 - 1
+487,41,06/04/2024 12:30,Carrow Road,Norwich City,Ipswich Town,1 - 0
+481,41,06/04/2024 15:00,Ewood Park,Blackburn Rovers,Southampton,0 - 0
+482,41,06/04/2024 15:00,Cardiff City Stadium,Cardiff City,Hull City,1 - 3
+483,41,06/04/2024 15:00,Coventry Building Society Arena,Coventry City,Leeds United,2 - 1
+484,41,06/04/2024 15:00,Kirklees Stadium,Huddersfield Town,Millwall,1 - 0
+485,41,06/04/2024 15:00,King Power Stadium,Leicester City,Birmingham City,2 - 1
+486,41,06/04/2024 15:00,Riverside Stadium,Middlesbrough,Swansea City,2 - 0
+488,41,06/04/2024 15:00,Loftus Road,Queens Park Rangers,Sheffield Wednesday,0 - 2
+490,41,06/04/2024 15:00,bet365 Stadium,Stoke City,West Bromwich Albion,2 - 2
+491,41,06/04/2024 15:00,Stadium of Light,Sunderland,Bristol City,0 - 0
+492,41,06/04/2024 15:00,Vicarage Road,Watford,Preston North End,0 - 0
+494,42,09/04/2024 19:45,The Den,Millwall,Leicester City,1 - 0
+495,42,09/04/2024 19:45,Home Park,Plymouth Argyle,Queens Park Rangers,1 - 1
+496,42,09/04/2024 19:45,Deepdale,Preston North End,Huddersfield Town,4 - 1
+497,42,09/04/2024 19:45,Hillsborough Stadium,Sheffield Wednesday,Norwich City,2 - 2
+498,42,09/04/2024 19:45,St Mary's Stadium,Southampton,Coventry City,2 - 1
+493,42,09/04/2024 20:00,Elland Road,Leeds United,Sunderland,0 - 0
+499,42,10/04/2024 19:45,St Andrew's,Birmingham City,Cardiff City,0 - 1
+500,42,10/04/2024 19:45,Ashton Gate Stadium,Bristol City,Blackburn Rovers,5 - 0
+502,42,10/04/2024 19:45,Portman Road,Ipswich Town,Watford,0 - 0
+501,42,10/04/2024 20:00,MKM Stadium,Hull City,Middlesbrough,2 - 2
+503,42,10/04/2024 20:00,Swansea.com Stadium,Swansea City,Stoke City,3 - 0
+504,42,10/04/2024 20:00,The Hawthorns,West Bromwich Albion,Rotherham United,2 - 0
+511,43,12/04/2024 20:00,Home Park,Plymouth Argyle,Leicester City,1 - 0
+509,43,13/04/2024 12:30,Elland Road,Leeds United,Blackburn Rovers,0 - 1
+505,43,13/04/2024 15:00,St Andrew's,Birmingham City,Coventry City,3 - 0
+506,43,13/04/2024 15:00,Ashton Gate Stadium,Bristol City,Huddersfield Town,1 - 1
+507,43,13/04/2024 15:00,MKM Stadium,Hull City,Queens Park Rangers,3 - 0
+508,43,13/04/2024 15:00,Portman Road,Ipswich Town,Middlesbrough,1 - 1
+510,43,13/04/2024 15:00,The Den,Millwall,Cardiff City,3 - 1
+512,43,13/04/2024 15:00,Deepdale,Preston North End,Norwich City,0 - 1
+513,43,13/04/2024 15:00,Hillsborough Stadium,Sheffield Wednesday,Stoke City,1 - 1
+514,43,13/04/2024 15:00,St Mary's Stadium,Southampton,Watford,3 - 2
+515,43,13/04/2024 15:00,Swansea.com Stadium,Swansea City,Rotherham United,1 - 0
+516,43,13/04/2024 15:00,The Hawthorns,West Bromwich Albion,Sunderland,0 - 1
+521,44,20/04/2024 12:30,King Power Stadium,Leicester City,West Bromwich Albion,2 - 1
+518,44,20/04/2024 15:00,Cardiff City Stadium,Cardiff City,Southampton,2 - 1
+520,44,20/04/2024 15:00,Kirklees Stadium,Huddersfield Town,Swansea City,0 - 4
+523,44,20/04/2024 15:00,Carrow Road,Norwich City,Bristol City,1 - 1
+525,44,20/04/2024 15:00,New York Stadium,Rotherham United,Birmingham City,0 - 0
+526,44,20/04/2024 15:00,bet365 Stadium,Stoke City,Plymouth Argyle,3 - 0
+527,44,20/04/2024 15:00,Stadium of Light,Sunderland,Millwall,0 - 1
+528,44,20/04/2024 15:00,Vicarage Road,Watford,Hull City,0 - 0
+524,44,20/04/2024 17:15,Loftus Road,Queens Park Rangers,Preston North End,1 - 0
+517,44,21/04/2024 12:30,Ewood Park,Blackburn Rovers,Sheffield Wednesday,1 - 3
+522,44,22/04/2024 20:00,Riverside Stadium,Middlesbrough,Leeds United,3 - 4
+519,44,30/04/2024 20:00,Coventry Building Society Arena,Coventry City,Ipswich Town,1 - 2
+537,45,26/04/2024 20:00,Loftus Road,Queens Park Rangers,Leeds United,4 - 0
+529,45,27/04/2024 15:00,Ewood Park,Blackburn Rovers,Coventry City,0 - 0
+530,45,27/04/2024 15:00,Ashton Gate Stadium,Bristol City,Rotherham United,2 - 0
+531,45,27/04/2024 15:00,Cardiff City Stadium,Cardiff City,Middlesbrough,1 - 4
+532,45,27/04/2024 15:00,Kirklees Stadium,Huddersfield Town,Birmingham City,1 - 1
+534,45,27/04/2024 15:00,The Den,Millwall,Plymouth Argyle,1 - 0
+535,45,27/04/2024 15:00,Carrow Road,Norwich City,Swansea City,2 - 2
+538,45,27/04/2024 15:00,Hillsborough Stadium,Sheffield Wednesday,West Bromwich Albion,3 - 0
+539,45,27/04/2024 15:00,St Mary's Stadium,Southampton,Stoke City,0 - 1
+540,45,27/04/2024 15:00,Vicarage Road,Watford,Sunderland,1 - 0
+533,45,27/04/2024 20:00,MKM Stadium,Hull City,Ipswich Town,3 - 3
+536,45,29/04/2024 20:00,Deepdale,Preston North End,Leicester City,0 - 3
+541,46,04/05/2024 12:30,St Andrew's,Birmingham City,Norwich City,1 - 0
+542,46,04/05/2024 12:30,Coventry Building Society Arena,Coventry City,Queens Park Rangers,1 - 2
+543,46,04/05/2024 12:30,Portman Road,Ipswich Town,Huddersfield Town,2 - 0
+544,46,04/05/2024 12:30,Elland Road,Leeds United,Southampton,1 - 2
+545,46,04/05/2024 12:30,King Power Stadium,Leicester City,Blackburn Rovers,0 - 2
+546,46,04/05/2024 12:30,Riverside Stadium,Middlesbrough,Watford,3 - 1
+547,46,04/05/2024 12:30,Home Park,Plymouth Argyle,Hull City,1 - 0
+548,46,04/05/2024 12:30,New York Stadium,Rotherham United,Cardiff City,5 - 2
+549,46,04/05/2024 12:30,bet365 Stadium,Stoke City,Bristol City,4 - 0
+550,46,04/05/2024 12:30,Stadium of Light,Sunderland,Sheffield Wednesday,0 - 2
+551,46,04/05/2024 12:30,Swansea.com Stadium,Swansea City,Millwall,0 - 1
+552,46,04/05/2024 12:30,The Hawthorns,West Bromwich Albion,Preston North End,3 - 0
