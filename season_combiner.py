@@ -1,6 +1,10 @@
-import pandas as pd
+"""
+Combine multiple CSV files representing different seasons of a championship into a single CSV file.
+"""
+
 import glob
 import re
+import pandas as pd
 
 # Find all CSV files that follow the pattern
 csv_files = glob.glob('championship-*-GMTStandardTime.csv')
@@ -13,12 +17,12 @@ for file in csv_files:
     if match:
         year = match.group(1)
         # Often seasons are referred to as 2019/20, but for now I'll use the start year
-        season_label = f"{year}"
+        SEASON_LABEL = f"{year}"
     else:
-        season_label = "Unknown"
-    
+        SEASON_LABEL = "Unknown"
+
     temp_df = pd.read_csv(file)
-    temp_df['Season'] = season_label
+    temp_df['Season'] = SEASON_LABEL
     all_dfs.append(temp_df)
 
 if all_dfs:
