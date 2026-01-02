@@ -2,6 +2,8 @@
 
 import pandas as pd
 import numpy as np
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import log_loss
 
 def load_data():
     """Load and process championship data."""
@@ -149,13 +151,51 @@ def build_training_matrix(games_elo, hist_roll, window = 5):
     meta = played[['game_id', 'Date', 'Home Team', 'Away Team', 'y_home_win']].copy()
     return X, y, meta
 
+def train_logistic_model(X, y, meta):
 
-GAMES = None
-GAMES = load_data()
-GAMES_ELO = add_elo_pregame(GAMES)
-TEAM_HIST = build_team_history(GAMES_ELO)
-TEAM_HIST = add_rollups(TEAM_HIST, window=5)
-X, y, META = build_training_matrix(GAMES_ELO, TEAM_HIST, window=5)
+  # Remove rows with any NaN values
+    valid_mask = X.notna().all(axis=1)
+    
+    X = X[valid_mask]
+    y = y[valid_mask]
+    meta = meta[valid_mask]
 
-training_df = pd.concat([X, pd.Series(y, name='y')], axis=1)
-print(training_df.corr(numeric_only=True)['y'].sort_values(ascending=False))
+    train_mask = X['Season'] <= 2023
+    X_train = X[train_mask].drop(columns=['Season'])
+    y_train = y[train_mask]
+
+    test_mask = X['Season'] >= 2024
+    X_test = X[test_mask].drop(columns=['Season'])
+    y_test = y[test_mask]
+
+    model = LogisticRegression()
+    model.fit(X_train, y_train)
+
+    y_probs = model.predict_proba(X_test)[:, 1]
+
+    importance = pd.DataFrame({
+    'Feature': X_train.columns,
+    'Weight': model.coef_[0]
+})
+    return model, y_probs, y_test, meta, importance
+
+def main():
+    games = load_data()
+    games_elo = add_elo_pregame(games)
+    team_hist = build_team_history(games_elo)
+    team_hist = add_rollups(team_hist, window=5)
+
+    X, y, meta = build_training_matrix(games_elo, team_hist, window=5)
+
+    model, probs, y_true, meta, feature_importance = train_logistic_model(X, y, meta)
+
+    test_meta = meta[X['Season'] >= 2024].copy()
+    test_meta['win_prob'] = probs
+
+    print(test_meta.sort_values('win_prob', ascending=False).head(50))
+    print(f"Log Loss: {log_loss(y_true, probs):.4f}")
+    print(feature_importance.sort_values('Weight', ascending=False))
+
+
+if __name__ == "__main__":
+    main()
