@@ -2,12 +2,11 @@
 
 import pandas as pd
 import numpy as np
-import xgboost as xgb
 
 def load_data():
     """Load and process championship data."""
 
-    scores = pd.read_csv('Datasets/combined_championship_seasons_2019-2025.csv') 
+    scores = pd.read_csv('Datasets/combined_championship_seasons_2019-2025.csv')
 
     scores['Date'] = pd.to_datetime(scores['Date'], dayfirst=True)
     scores[['HomeScore', 'AwayScore']] = (
@@ -30,6 +29,11 @@ def load_data():
         played & (scores['HomeScore'] == scores['AwayScore']),
         'y_home_win'
     ] = 0.5
+    scores["y_home_win_binary"] = np.where(
+    played & (scores["HomeScore"] > scores["AwayScore"]),
+    1,
+    0
+)
     scores = scores.sort_values(by=['Date']).reset_index(drop=True)
     scores["game_id"] = (np.arange(len(scores), dtype =int))
 
@@ -50,7 +54,7 @@ def add_elo_pregame(games, k=20, hfa=55.0, regress=0.75):
             last_season = season
         if season != last_season:
             for team in elo:
-                elo[team] = regress * 1500.0 + (1 - regress) * elo[team]   
+                elo[team] = regress * 1500.0 + (1 - regress) * elo[team]
             last_season = season
 
         home = row['Home Team']
@@ -65,7 +69,7 @@ def add_elo_pregame(games, k=20, hfa=55.0, regress=0.75):
             expected_home = 1 / (1 + 10 ** ((ea - (eh + hfa)) / 400))
             actual_home = row['y_home_win']
             elo[home] = eh + k * (actual_home - expected_home)
-            elo[away] = ea + k * ((1 - actual_home) - (1 - expected_home))       
+            elo[away] = ea + k * ((1 - actual_home) - (1 - expected_home))
     return g
 #Features to compute rolling statistics for
 FORM_FEATURES = ["win", "goals_for", "goals_against", "goal_difference"]
@@ -120,6 +124,7 @@ def build_training_matrix(games_elo, hist_roll, window = 5):
     home_rows = hist_roll[hist_roll['is_home'] == 1].set_index('game_id')
     away_rows = hist_roll[hist_roll['is_home'] == 0].set_index('game_id')
 
+    played.reset_index(drop=True, inplace=True)
     X = pd.DataFrame(index=played.index)
 
     for feat in FORM_FEATURES:
@@ -139,11 +144,11 @@ def build_training_matrix(games_elo, hist_roll, window = 5):
     )
     X['Season'] = played['Season'].values
 
-    y = played['y_home_win'].astype(float).values
+    y = played['y_home_win_binary'].astype(float).values
 
     meta = played[['game_id', 'Date', 'Home Team', 'Away Team', 'y_home_win']].copy()
     return X, y, meta
-   
+
 
 GAMES = None
 GAMES = load_data()
@@ -152,6 +157,5 @@ TEAM_HIST = build_team_history(GAMES_ELO)
 TEAM_HIST = add_rollups(TEAM_HIST, window=5)
 X, y, META = build_training_matrix(GAMES_ELO, TEAM_HIST, window=5)
 
-print(X)
-print(y)
-print(META)
+training_df = pd.concat([X, pd.Series(y, name='y')], axis=1)
+print(training_df.corr(numeric_only=True)['y'].sort_values(ascending=False))
