@@ -7,7 +7,7 @@ import re
 import pandas as pd
 
 # Find all CSV files that follow the pattern
-csv_files = glob.glob('championship-*-GMTStandardTime.csv')
+csv_files = glob.glob('Datasets/championship-*-GMTStandardTime.csv')
 
 all_dfs = []
 
@@ -33,3 +33,7 @@ if all_dfs:
     print(f"Total rows: {len(combined_df)}")
 else:
     print("No matching CSV files found.")
+
+df = pd.read_csv('combined_championship_seasons_2019-2025.csv')
+
+unque_seasons = df['Season'].unique()

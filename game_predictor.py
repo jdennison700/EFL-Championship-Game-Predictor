@@ -6,7 +6,7 @@ import numpy as np
 def load_data(scores=None):
     """Load and process championship data."""
 
-    scores = pd.read_csv('combined_championship_seasons_2019-2025.csv') 
+    scores = pd.read_csv('Datasets/combined_championship_seasons_2019-2025.csv') 
 
     scores['Date'] = pd.to_datetime(scores['Date'], dayfirst=True)
     scores[['HomeScore', 'AwayScore']] = (
