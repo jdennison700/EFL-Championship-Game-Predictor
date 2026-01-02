@@ -16,9 +16,15 @@ def load_data(scores=None):
         scores['HomeScore'].notna()
         & scores['AwayScore'].notna()
     )
-    scores["y_home_win"] = np.where( # 1 if home win, 0 if away win, 0.5 if draw
-    played & (scores['HomeScore'] > scores['AwayScore']).astype(float),  1.0, 0.0
+    scores["y_home_win"] = np.where(  # 1 if home win, 0 if away win, 0.5 if draw
+        played & (scores['HomeScore'] > scores['AwayScore']),
+        1.0,
+        np.nan,
     )
+    scores.loc[
+        played & (scores['HomeScore'] < scores['AwayScore']),
+        'y_home_win'
+    ] = 0.0
     scores.loc[
         played & (scores['HomeScore'] == scores['AwayScore']),
         'y_home_win'
