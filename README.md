@@ -43,7 +43,6 @@ python game_predictor.py
 
 The script will output:
 *   Log Loss score for completed games.
-*   Feature importance weights.
 
 ### 3. Interactive Mode
 After the model trains, the script enters an interactive loop:
