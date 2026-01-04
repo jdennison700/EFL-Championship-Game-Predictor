@@ -27,13 +27,13 @@ for file in csv_files:
 
 if all_dfs:
     combined_df = pd.concat(all_dfs, ignore_index=True)
-    combined_df.to_csv('combined_championship_seasons_2019-2025.csv', index=False)
+    combined_df.to_csv('Datasets/combined_championship_seasons_2019-2025.csv', index = False)
     print("Combined CSV created successfully.")
     print(combined_df.head())
     print(f"Total rows: {len(combined_df)}")
 else:
     print("No matching CSV files found.")
 
-df = pd.read_csv('combined_championship_seasons_2019-2025.csv')
+df = pd.read_csv('Datasets/combined_championship_seasons_2019-2025.csv')
 
 unque_seasons = df['Season'].unique()
