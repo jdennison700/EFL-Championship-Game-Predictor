@@ -4,9 +4,13 @@ import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import log_loss
+import season_combiner
 
 def load_data():
     """Load and process championship data."""
+
+    season_combiner.get_latest_2025_data()
+    season_combiner.make_combined_csv()
 
     scores = pd.read_csv('Datasets/combined_championship_seasons_2019-2025.csv')
 
