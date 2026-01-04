@@ -291,14 +291,9 @@ def main():
 
     # Separate upcoming games from played games
     upcoming_mask = test_meta['y_home_win'].isna()
-    
-    print("Upcoming Game Predictions:")
-    print(test_meta[upcoming_mask][['Date', 'Home Team', 'Away Team', 'win_prob']].sort_values('win_prob', ascending=False))
 
     if not test_meta[~upcoming_mask].empty:
         print(f"\nLog Loss (Completed Games): {log_loss(y_true[~upcoming_mask], probs[~upcoming_mask]):.4f}")
-    
-    print(feature_importance.sort_values('Weight', ascending=False))
 
     # Start interactive mode
     predict_interactive(model, current_elo, team_hist, test_meta[upcoming_mask], window=5)
