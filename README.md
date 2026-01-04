@@ -14,7 +14,7 @@ This project uses a **Logistic Regression** model trained on historical data (20
 ## Files
 
 *   `game_predictor.py`: The main application. It handles data loading, feature engineering, model training, evaluation, and the interactive prediction loop.
-*   `season_combiner.py`: A utility script to merge individual season CSV files (e.g., `championship-2019-GMTStandardTime.csv`) into a single master dataset.
+*   `season_combiner.py`: A utility script to merge individual season CSV files (e.g., `championship-2019-GMTStandardTime.csv`) into a single master dataset. Uses Selenium to download the latest 2025 season results.
 *   `Datasets/`: Directory containing the raw CSV data files.
 
 ## Prerequisites
@@ -26,15 +26,7 @@ This project uses a **Logistic Regression** model trained on historical data (20
 
 ## Usage
 
-### 1. Data Preparation
-Ensure the raw season CSV files are in the `Datasets/` folder. Run the combiner to generate the master dataset:
-
-```bash
-python season_combiner.py
-```
-This generates `Datasets/combined_championship_seasons_2019-2025.csv`.
-
-### 2. Training and Prediction
+### 1. Training and Prediction
 Run the main script to train the model and view evaluation metrics:
 
 ```bash
@@ -44,7 +36,7 @@ python game_predictor.py
 The script will output:
 *   Log Loss score for completed games.
 
-### 3. Interactive Mode
+### 2. Interactive Mode
 After the model trains, the script enters an interactive loop:
 
 *   **Specific Matchup**: Enter a `Home Team` and `Away Team` to get a win probability and current Elo ratings.
