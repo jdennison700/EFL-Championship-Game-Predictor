@@ -45,7 +45,7 @@ def load_data():
 
     return scores
 
-def add_elo_pregame(games, k=20, hfa=55.0, regress=0.75):
+def add_elo_pregame(games, k=15, hfa=55, regress=0.6):
     """Add pre-game Elo ratings to each game."""
     g = games.sort_values(by=["Date", "game_id"]).copy()
     g['home_elo_pre'] = np.nan
