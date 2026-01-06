@@ -1,0 +1,558 @@
+Match Number,Date,Home Team,Home Score,Away Score,Away Team
+1,2010-08-06 19:45:00,Norwich City,2,3,Watford
+2,2010-08-07 15:00:00,Bristol City,0,3,Millwall
+3,2010-08-07 15:00:00,Burnley,1,0,Nottingham Forest
+4,2010-08-07 15:00:00,Coventry City,2,0,Portsmouth
+5,2010-08-07 15:00:00,Crystal Palace,3,2,Leicester City
+6,2010-08-07 15:00:00,Hull City,2,0,Swansea City
+7,2010-08-07 15:00:00,Middlesbrough,1,3,Ipswich Town
+8,2010-08-07 15:00:00,Preston North End,0,2,Doncaster Rovers
+9,2010-08-07 15:00:00,Queens Park Rangers,4,0,Barnsley
+10,2010-08-07 15:00:00,Reading,1,2,Scunthorpe United
+11,2010-08-07 17:15:00,Leeds United,1,2,Derby County
+12,2010-08-08 12:35:00,Cardiff City,1,1,Sheffield United
+13,2010-08-14 15:00:00,Barnsley,1,0,Crystal Palace
+14,2010-08-14 15:00:00,Derby County,1,2,Cardiff City
+15,2010-08-14 15:00:00,Doncaster Rovers,1,1,Bristol City
+16,2010-08-14 15:00:00,Ipswich Town,1,1,Burnley
+17,2010-08-14 15:00:00,Leicester City,0,0,Middlesbrough
+18,2010-08-14 15:00:00,Millwall,4,0,Hull City
+19,2010-08-14 15:00:00,Portsmouth,1,1,Reading
+20,2010-08-14 15:00:00,Scunthorpe United,0,1,Norwich City
+21,2010-08-14 15:00:00,Sheffield United,0,3,Queens Park Rangers
+22,2010-08-14 15:00:00,Swansea City,4,0,Preston North End
+23,2010-08-14 15:00:00,Watford,2,2,Coventry City
+24,2010-08-15 13:15:00,Nottingham Forest,1,1,Leeds United
+25,2010-08-21 12:15:00,Coventry City,2,1,Derby County
+26,2010-08-21 12:30:00,Leeds United,3,1,Millwall
+27,2010-08-21 15:00:00,Bristol City,3,3,Barnsley
+28,2010-08-21 15:00:00,Burnley,3,0,Leicester City
+29,2010-08-21 15:00:00,Cardiff City,4,0,Doncaster Rovers
+30,2010-08-21 15:00:00,Crystal Palace,1,2,Ipswich Town
+31,2010-08-21 15:00:00,Hull City,0,0,Watford
+32,2010-08-21 15:00:00,Norwich City,2,0,Swansea City
+33,2010-08-21 15:00:00,Preston North End,1,0,Portsmouth
+34,2010-08-21 15:00:00,Queens Park Rangers,2,0,Scunthorpe United
+35,2010-08-21 15:00:00,Reading,1,1,Nottingham Forest
+36,2010-08-22 13:15:00,Middlesbrough,1,0,Sheffield United
+37,2010-08-28 15:00:00,Barnsley,2,0,Middlesbrough
+38,2010-08-28 15:00:00,Derby County,2,2,Queens Park Rangers
+39,2010-08-28 15:00:00,Doncaster Rovers,3,1,Hull City
+40,2010-08-28 15:00:00,Ipswich Town,2,0,Bristol City
+41,2010-08-28 15:00:00,Millwall,3,1,Coventry City
+42,2010-08-28 15:00:00,Nottingham Forest,1,1,Norwich City
+43,2010-08-28 15:00:00,Portsmouth,0,2,Cardiff City
+44,2010-08-28 15:00:00,Scunthorpe United,3,0,Crystal Palace
+45,2010-08-28 15:00:00,Sheffield United,1,0,Preston North End
+46,2010-08-28 15:00:00,Swansea City,1,0,Burnley
+47,2010-08-28 15:00:00,Watford,0,1,Leeds United
+48,2010-08-28 17:20:00,Leicester City,1,2,Reading
+49,2010-09-11 12:30:00,Coventry City,1,1,Leicester City
+50,2010-09-11 13:00:00,Derby County,0,1,Sheffield United
+51,2010-09-11 15:00:00,Cardiff City,2,0,Hull City
+52,2010-09-11 15:00:00,Leeds United,2,1,Swansea City
+53,2010-09-11 15:00:00,Norwich City,2,1,Barnsley
+54,2010-09-11 15:00:00,Nottingham Forest,1,1,Millwall
+55,2010-09-11 15:00:00,Portsmouth,0,0,Ipswich Town
+56,2010-09-11 15:00:00,Queens Park Rangers,3,0,Middlesbrough
+57,2010-09-11 15:00:00,Reading,3,0,Crystal Palace
+58,2010-09-11 15:00:00,Scunthorpe United,0,2,Bristol City
+59,2010-09-11 15:00:00,Watford,2,2,Doncaster Rovers
+60,2010-09-11 17:15:00,Burnley,4,3,Preston North End
+61,2010-09-14 19:45:00,Barnsley,5,2,Leeds United
+62,2010-09-14 19:45:00,Bristol City,0,2,Watford
+63,2010-09-14 19:45:00,Doncaster Rovers,3,1,Norwich City
+64,2010-09-14 19:45:00,Hull City,2,0,Derby County
+65,2010-09-14 19:45:00,Ipswich Town,0,3,Queens Park Rangers
+66,2010-09-14 19:45:00,Leicester City,2,1,Cardiff City
+67,2010-09-14 19:45:00,Middlesbrough,2,1,Burnley
+68,2010-09-14 19:45:00,Millwall,0,0,Reading
+69,2010-09-14 19:45:00,Preston North End,1,2,Nottingham Forest
+70,2010-09-14 19:45:00,Sheffield United,0,4,Scunthorpe United
+71,2010-09-14 19:45:00,Swansea City,2,1,Coventry City
+72,2010-09-14 20:00:00,Crystal Palace,4,1,Portsmouth
+73,2010-09-17 19:45:00,Doncaster Rovers,0,0,Leeds United
+74,2010-09-18 15:00:00,Barnsley,1,1,Derby County
+75,2010-09-18 15:00:00,Bristol City,1,2,Coventry City
+76,2010-09-18 15:00:00,Crystal Palace,0,0,Burnley
+77,2010-09-18 15:00:00,Ipswich Town,2,0,Cardiff City
+78,2010-09-18 15:00:00,Leicester City,0,2,Queens Park Rangers
+79,2010-09-18 15:00:00,Middlesbrough,3,1,Reading
+80,2010-09-18 15:00:00,Millwall,1,6,Watford
+81,2010-09-18 15:00:00,Preston North End,0,1,Norwich City
+82,2010-09-18 15:00:00,Sheffield United,1,0,Portsmouth
+83,2010-09-18 15:00:00,Swansea City,2,0,Scunthorpe United
+84,2010-09-18 17:20:00,Hull City,0,0,Nottingham Forest
+85,2010-09-24 19:45:00,Portsmouth,6,1,Leicester City
+86,2010-09-25 12:00:00,Cardiff City,2,1,Millwall
+87,2010-09-25 15:00:00,Burnley,0,0,Bristol City
+88,2010-09-25 15:00:00,Coventry City,1,2,Preston North End
+89,2010-09-25 15:00:00,Derby County,5,0,Crystal Palace
+90,2010-09-25 15:00:00,Leeds United,1,0,Sheffield United
+91,2010-09-25 15:00:00,Norwich City,0,2,Hull City
+92,2010-09-25 15:00:00,Nottingham Forest,3,1,Swansea City
+93,2010-09-25 15:00:00,Queens Park Rangers,3,0,Doncaster Rovers
+94,2010-09-25 15:00:00,Reading,3,0,Barnsley
+95,2010-09-25 15:00:00,Scunthorpe United,1,1,Ipswich Town
+96,2010-09-25 15:00:00,Watford,3,1,Middlesbrough
+97,2010-09-28 19:45:00,Burnley,4,0,Hull City
+98,2010-09-28 19:45:00,Cardiff City,0,0,Crystal Palace
+99,2010-09-28 19:45:00,Coventry City,2,1,Doncaster Rovers
+100,2010-09-28 19:45:00,Derby County,3,1,Middlesbrough
+101,2010-09-28 19:45:00,Leeds United,4,6,Preston North End
+102,2010-09-28 19:45:00,Norwich City,4,3,Leicester City
+103,2010-09-28 19:45:00,Nottingham Forest,1,1,Sheffield United
+104,2010-09-28 19:45:00,Portsmouth,3,1,Bristol City
+105,2010-09-28 19:45:00,Scunthorpe United,0,0,Barnsley
+106,2010-09-28 19:45:00,Watford,2,3,Swansea City
+107,2010-09-28 20:00:00,Queens Park Rangers,0,0,Millwall
+108,2010-09-28 20:00:00,Reading,1,0,Ipswich Town
+109,2010-10-02 15:00:00,Barnsley,1,2,Cardiff City
+110,2010-10-02 15:00:00,Bristol City,0,3,Norwich City
+111,2010-10-02 15:00:00,Crystal Palace,1,2,Queens Park Rangers
+112,2010-10-02 15:00:00,Doncaster Rovers,1,1,Nottingham Forest
+113,2010-10-02 15:00:00,Hull City,0,0,Coventry City
+114,2010-10-02 15:00:00,Ipswich Town,2,1,Leeds United
+115,2010-10-02 15:00:00,Leicester City,3,1,Scunthorpe United
+116,2010-10-02 15:00:00,Middlesbrough,2,2,Portsmouth
+117,2010-10-02 15:00:00,Millwall,1,1,Burnley
+118,2010-10-02 15:00:00,Preston North End,1,1,Reading
+119,2010-10-02 15:00:00,Sheffield United,0,1,Watford
+120,2010-10-02 15:00:00,Swansea City,0,0,Derby County
+121,2010-10-16 12:00:00,Cardiff City,3,2,Bristol City
+122,2010-10-16 12:00:00,Scunthorpe United,1,3,Doncaster Rovers
+123,2010-10-16 15:00:00,Barnsley,3,1,Nottingham Forest
+124,2010-10-16 15:00:00,Crystal Palace,0,1,Millwall
+125,2010-10-16 15:00:00,Derby County,3,0,Preston North End
+126,2010-10-16 15:00:00,Ipswich Town,1,2,Coventry City
+127,2010-10-16 15:00:00,Leicester City,1,1,Hull City
+128,2010-10-16 15:00:00,Portsmouth,3,2,Watford
+129,2010-10-16 15:00:00,Queens Park Rangers,0,0,Norwich City
+130,2010-10-16 15:00:00,Reading,0,1,Swansea City
+131,2010-10-16 15:00:00,Sheffield United,3,3,Burnley
+132,2010-10-16 17:20:00,Middlesbrough,1,2,Leeds United
+133,2010-10-19 19:45:00,Bristol City,1,0,Reading
+134,2010-10-19 19:45:00,Burnley,3,0,Barnsley
+135,2010-10-19 19:45:00,Coventry City,1,2,Cardiff City
+136,2010-10-19 19:45:00,Doncaster Rovers,2,3,Derby County
+137,2010-10-19 19:45:00,Hull City,0,1,Sheffield United
+138,2010-10-19 19:45:00,Leeds United,1,2,Leicester City
+139,2010-10-19 19:45:00,Millwall,0,1,Portsmouth
+140,2010-10-19 19:45:00,Norwich City,1,2,Crystal Palace
+141,2010-10-19 19:45:00,Nottingham Forest,1,0,Middlesbrough
+142,2010-10-19 19:45:00,Preston North End,2,3,Scunthorpe United
+143,2010-10-19 19:45:00,Swansea City,0,0,Queens Park Rangers
+144,2010-10-19 19:45:00,Watford,2,1,Ipswich Town
+145,2010-10-22 19:45:00,Bristol City,1,1,Queens Park Rangers
+146,2010-10-23 15:00:00,Burnley,0,4,Reading
+147,2010-10-23 15:00:00,Coventry City,3,0,Barnsley
+148,2010-10-23 15:00:00,Hull City,1,2,Portsmouth
+149,2010-10-23 15:00:00,Millwall,2,0,Derby County
+150,2010-10-23 15:00:00,Norwich City,1,0,Middlesbrough
+151,2010-10-23 15:00:00,Nottingham Forest,2,0,Ipswich Town
+152,2010-10-23 15:00:00,Preston North End,4,3,Crystal Palace
+153,2010-10-23 15:00:00,Swansea City,2,0,Leicester City
+154,2010-10-23 15:00:00,Watford,0,2,Scunthorpe United
+155,2010-10-23 17:15:00,Doncaster Rovers,2,0,Sheffield United
+156,2010-10-25 19:45:00,Leeds United,0,4,Cardiff City
+157,2010-10-30 15:00:00,Cardiff City,3,1,Norwich City
+158,2010-10-30 15:00:00,Crystal Palace,0,3,Swansea City
+159,2010-10-30 15:00:00,Derby County,4,1,Watford
+160,2010-10-30 15:00:00,Ipswich Town,2,0,Millwall
+161,2010-10-30 15:00:00,Leicester City,1,0,Preston North End
+162,2010-10-30 15:00:00,Middlesbrough,1,2,Bristol City
+163,2010-10-30 15:00:00,Portsmouth,2,1,Nottingham Forest
+164,2010-10-30 15:00:00,Queens Park Rangers,1,1,Burnley
+165,2010-10-30 15:00:00,Reading,4,3,Doncaster Rovers
+166,2010-10-30 15:00:00,Scunthorpe United,1,4,Leeds United
+167,2010-10-30 15:00:00,Sheffield United,0,1,Coventry City
+168,2010-10-30 17:20:00,Barnsley,1,1,Hull City
+169,2010-11-06 15:00:00,Barnsley,0,2,Leicester City
+170,2010-11-06 15:00:00,Bristol City,1,1,Preston North End
+171,2010-11-06 15:00:00,Coventry City,2,3,Leeds United
+172,2010-11-06 15:00:00,Doncaster Rovers,2,1,Millwall
+173,2010-11-06 15:00:00,Hull City,0,1,Scunthorpe United
+174,2010-11-06 15:00:00,Middlesbrough,2,1,Crystal Palace
+175,2010-11-06 15:00:00,Norwich City,2,2,Burnley
+176,2010-11-06 15:00:00,Queens Park Rangers,3,1,Reading
+177,2010-11-06 15:00:00,Sheffield United,1,2,Ipswich Town
+178,2010-11-06 15:00:00,Watford,1,1,Nottingham Forest
+179,2010-11-06 17:20:00,Derby County,2,0,Portsmouth
+180,2010-11-07 13:10:00,Cardiff City,0,1,Swansea City
+181,2010-11-09 19:45:00,Burnley,1,1,Doncaster Rovers
+182,2010-11-09 19:45:00,Ipswich Town,0,2,Derby County
+183,2010-11-09 19:45:00,Leeds United,2,2,Hull City
+184,2010-11-09 19:45:00,Millwall,1,1,Norwich City
+185,2010-11-09 19:45:00,Nottingham Forest,2,1,Coventry City
+186,2010-11-09 19:45:00,Portsmouth,1,1,Queens Park Rangers
+187,2010-11-09 19:45:00,Preston North End,1,2,Barnsley
+188,2010-11-09 19:45:00,Scunthorpe United,0,2,Middlesbrough
+189,2010-11-09 20:00:00,Crystal Palace,3,2,Watford
+190,2010-11-10 19:45:00,Leicester City,2,2,Sheffield United
+191,2010-11-10 19:45:00,Swansea City,0,1,Bristol City
+192,2010-11-10 20:00:00,Reading,1,1,Cardiff City
+193,2010-11-12 19:45:00,Preston North End,0,2,Hull City
+194,2010-11-13 15:00:00,Burnley,3,2,Watford
+195,2010-11-13 15:00:00,Crystal Palace,2,0,Coventry City
+196,2010-11-13 15:00:00,Ipswich Town,1,3,Barnsley
+197,2010-11-13 15:00:00,Leeds United,3,1,Bristol City
+198,2010-11-13 15:00:00,Leicester City,2,0,Derby County
+199,2010-11-13 15:00:00,Millwall,0,1,Sheffield United
+200,2010-11-13 15:00:00,Nottingham Forest,0,0,Queens Park Rangers
+201,2010-11-13 15:00:00,Portsmouth,2,3,Doncaster Rovers
+202,2010-11-13 15:00:00,Scunthorpe United,2,4,Cardiff City
+203,2010-11-13 17:20:00,Reading,3,3,Norwich City
+204,2010-11-14 15:00:00,Swansea City,1,0,Middlesbrough
+205,2010-11-20 15:00:00,Barnsley,1,0,Portsmouth
+206,2010-11-20 15:00:00,Bristol City,2,0,Leicester City
+207,2010-11-20 15:00:00,Cardiff City,0,2,Nottingham Forest
+208,2010-11-20 15:00:00,Coventry City,1,0,Burnley
+209,2010-11-20 15:00:00,Derby County,3,2,Scunthorpe United
+210,2010-11-20 15:00:00,Doncaster Rovers,1,1,Swansea City
+211,2010-11-20 15:00:00,Hull City,1,0,Ipswich Town
+212,2010-11-20 15:00:00,Middlesbrough,0,1,Millwall
+213,2010-11-20 15:00:00,Norwich City,1,1,Leeds United
+214,2010-11-20 15:00:00,Queens Park Rangers,3,1,Preston North End
+215,2010-11-20 15:00:00,Watford,1,1,Reading
+216,2010-11-20 17:20:00,Sheffield United,3,2,Crystal Palace
+217,2010-11-26 19:45:00,Swansea City,1,2,Portsmouth
+218,2010-11-27 15:00:00,Barnsley,0,0,Watford
+219,2010-11-27 15:00:00,Bristol City,3,0,Sheffield United
+220,2010-11-27 15:00:00,Crystal Palace,1,0,Doncaster Rovers
+221,2010-11-27 15:00:00,Middlesbrough,2,2,Hull City
+222,2010-11-27 15:00:00,Preston North End,0,0,Millwall
+223,2010-11-27 15:00:00,Queens Park Rangers,2,1,Cardiff City
+224,2010-11-27 15:00:00,Reading,0,0,Leeds United
+225,2010-11-27 15:00:00,Scunthorpe United,0,2,Coventry City
+226,2010-11-27 17:20:00,Burnley,2,1,Derby County
+227,2010-11-28 13:15:00,Norwich City,4,1,Ipswich Town
+228,2010-11-29 19:45:00,Leicester City,1,0,Nottingham Forest
+229,2010-12-04 12:45:00,Ipswich Town,1,3,Swansea City
+230,2010-12-04 15:00:00,Cardiff City,1,1,Preston North End
+231,2010-12-04 15:00:00,Coventry City,1,0,Middlesbrough
+232,2010-12-04 15:00:00,Derby County,1,2,Norwich City
+233,2010-12-04 15:00:00,Leeds United,2,1,Crystal Palace
+234,2010-12-04 15:00:00,Watford,3,2,Leicester City
+235,2010-12-04 17:20:00,Millwall,3,0,Scunthorpe United
+236,2010-12-10 19:45:00,Queens Park Rangers,1,3,Watford
+237,2010-12-10 19:45:00,Swansea City,1,1,Millwall
+238,2010-12-11 15:00:00,Barnsley,1,0,Sheffield United
+239,2010-12-11 15:00:00,Bristol City,2,0,Derby County
+240,2010-12-11 15:00:00,Burnley,2,3,Leeds United
+241,2010-12-11 15:00:00,Leicester City,5,1,Doncaster Rovers
+242,2010-12-11 15:00:00,Middlesbrough,1,0,Cardiff City
+243,2010-12-11 15:00:00,Norwich City,0,2,Portsmouth
+244,2010-12-11 15:00:00,Preston North End,1,0,Ipswich Town
+245,2010-12-11 15:00:00,Reading,0,0,Coventry City
+246,2010-12-11 17:20:00,Crystal Palace,0,0,Hull City
+247,2010-12-17 19:45:00,Doncaster Rovers,2,1,Middlesbrough
+248,2010-12-18 15:00:00,Coventry City,1,2,Norwich City
+249,2010-12-18 15:00:00,Derby County,1,2,Reading
+250,2010-12-18 15:00:00,Hull City,2,0,Bristol City
+251,2010-12-18 15:00:00,Leeds United,2,0,Queens Park Rangers
+252,2010-12-18 15:00:00,Nottingham Forest,3,0,Crystal Palace
+253,2010-12-18 15:00:00,Sheffield United,1,0,Swansea City
+254,2010-12-18 17:20:00,Ipswich Town,3,0,Leicester City
+255,2010-12-26 13:00:00,Portsmouth,1,1,Millwall
+256,2010-12-26 13:00:00,Queens Park Rangers,4,0,Swansea City
+257,2010-12-26 15:00:00,Barnsley,1,2,Burnley
+258,2010-12-26 15:00:00,Cardiff City,2,0,Coventry City
+259,2010-12-26 15:00:00,Leicester City,2,2,Leeds United
+260,2010-12-26 15:00:00,Reading,4,1,Bristol City
+261,2010-12-26 15:00:00,Sheffield United,2,3,Hull City
+262,2010-12-28 12:15:00,Coventry City,0,2,Queens Park Rangers
+263,2010-12-28 15:00:00,Bristol City,1,1,Crystal Palace
+264,2010-12-28 15:00:00,Burnley,0,2,Scunthorpe United
+265,2010-12-28 15:00:00,Hull City,1,1,Reading
+266,2010-12-28 15:00:00,Leeds United,3,3,Portsmouth
+267,2010-12-28 15:00:00,Millwall,2,0,Leicester City
+268,2010-12-28 15:00:00,Norwich City,4,2,Sheffield United
+269,2010-12-28 15:00:00,Preston North End,1,3,Middlesbrough
+270,2010-12-28 15:00:00,Swansea City,1,0,Barnsley
+271,2010-12-28 15:00:00,Watford,4,1,Cardiff City
+272,2010-12-29 19:45:00,Nottingham Forest,5,2,Derby County
+273,2011-01-01 13:00:00,Leeds United,1,1,Middlesbrough
+274,2011-01-01 13:30:00,Millwall,3,0,Crystal Palace
+275,2011-01-01 15:00:00,Bristol City,3,0,Cardiff City
+276,2011-01-01 15:00:00,Burnley,4,2,Sheffield United
+277,2011-01-01 15:00:00,Coventry City,1,1,Ipswich Town
+278,2011-01-01 15:00:00,Doncaster Rovers,3,0,Scunthorpe United
+279,2011-01-01 15:00:00,Hull City,0,1,Leicester City
+280,2011-01-01 15:00:00,Norwich City,1,0,Queens Park Rangers
+281,2011-01-01 15:00:00,Nottingham Forest,2,2,Barnsley
+282,2011-01-01 15:00:00,Preston North End,1,2,Derby County
+283,2011-01-01 15:00:00,Swansea City,1,0,Reading
+284,2011-01-01 17:20:00,Watford,3,0,Portsmouth
+285,2011-01-03 15:00:00,Barnsley,2,1,Coventry City
+286,2011-01-03 15:00:00,Crystal Palace,1,0,Preston North End
+287,2011-01-03 15:00:00,Derby County,0,0,Millwall
+288,2011-01-03 15:00:00,Ipswich Town,0,1,Nottingham Forest
+289,2011-01-03 15:00:00,Leicester City,2,1,Swansea City
+290,2011-01-03 15:00:00,Middlesbrough,1,1,Norwich City
+291,2011-01-03 15:00:00,Portsmouth,2,3,Hull City
+292,2011-01-03 15:00:00,Queens Park Rangers,2,2,Bristol City
+293,2011-01-03 15:00:00,Reading,2,1,Burnley
+294,2011-01-03 15:00:00,Scunthorpe United,1,2,Watford
+295,2011-01-03 15:00:00,Sheffield United,2,2,Doncaster Rovers
+296,2011-01-04 19:45:00,Cardiff City,2,1,Leeds United
+297,2011-01-15 12:45:00,Swansea City,3,0,Crystal Palace
+298,2011-01-15 15:00:00,Bristol City,0,4,Middlesbrough
+299,2011-01-15 15:00:00,Burnley,0,0,Queens Park Rangers
+300,2011-01-15 15:00:00,Coventry City,0,0,Sheffield United
+301,2011-01-15 15:00:00,Doncaster Rovers,0,3,Reading
+302,2011-01-15 15:00:00,Hull City,2,0,Barnsley
+303,2011-01-15 15:00:00,Leeds United,4,0,Scunthorpe United
+304,2011-01-15 15:00:00,Millwall,2,1,Ipswich Town
+305,2011-01-15 15:00:00,Norwich City,1,1,Cardiff City
+306,2011-01-15 15:00:00,Nottingham Forest,2,1,Portsmouth
+307,2011-01-15 15:00:00,Preston North End,1,1,Leicester City
+308,2011-01-15 15:00:00,Watford,3,0,Derby County
+309,2011-01-22 13:00:00,Derby County,0,1,Nottingham Forest
+310,2011-01-22 15:00:00,Barnsley,1,1,Swansea City
+311,2011-01-22 15:00:00,Cardiff City,4,2,Watford
+312,2011-01-22 15:00:00,Crystal Palace,0,0,Bristol City
+313,2011-01-22 15:00:00,Ipswich Town,3,2,Doncaster Rovers
+314,2011-01-22 15:00:00,Leicester City,4,2,Millwall
+315,2011-01-22 15:00:00,Middlesbrough,1,1,Preston North End
+316,2011-01-22 15:00:00,Portsmouth,2,2,Leeds United
+317,2011-01-22 15:00:00,Reading,1,1,Hull City
+318,2011-01-22 15:00:00,Sheffield United,1,2,Norwich City
+319,2011-01-22 17:20:00,Scunthorpe United,0,0,Burnley
+320,2011-01-23 13:15:00,Queens Park Rangers,2,1,Coventry City
+321,2011-01-25 19:45:00,Doncaster Rovers,0,2,Barnsley
+322,2011-01-25 19:45:00,Nottingham Forest,1,0,Bristol City
+323,2011-01-25 19:45:00,Portsmouth,1,2,Burnley
+324,2011-01-28 19:45:00,Millwall,2,0,Barnsley
+325,2011-01-29 15:00:00,Crystal Palace,0,0,Norwich City
+326,2011-01-29 15:00:00,Hull City,0,0,Queens Park Rangers
+327,2011-02-01 19:45:00,Barnsley,2,0,Preston North End
+328,2011-02-01 19:45:00,Bristol City,0,2,Swansea City
+329,2011-02-01 19:45:00,Cardiff City,2,2,Reading
+330,2011-02-01 19:45:00,Coventry City,1,2,Nottingham Forest
+331,2011-02-01 19:45:00,Derby County,1,2,Ipswich Town
+332,2011-02-01 19:45:00,Doncaster Rovers,1,0,Burnley
+333,2011-02-01 19:45:00,Hull City,2,2,Leeds United
+334,2011-02-01 19:45:00,Middlesbrough,2,0,Scunthorpe United
+335,2011-02-01 19:45:00,Norwich City,2,1,Millwall
+336,2011-02-01 19:45:00,Sheffield United,0,1,Leicester City
+337,2011-02-01 19:45:00,Watford,1,1,Crystal Palace
+338,2011-02-01 20:00:00,Queens Park Rangers,2,0,Portsmouth
+339,2011-02-04 19:45:00,Reading,0,1,Queens Park Rangers
+340,2011-02-05 15:00:00,Burnley,2,1,Norwich City
+341,2011-02-05 15:00:00,Crystal Palace,1,0,Middlesbrough
+342,2011-02-05 15:00:00,Ipswich Town,3,0,Sheffield United
+343,2011-02-05 15:00:00,Leeds United,1,0,Coventry City
+344,2011-02-05 15:00:00,Leicester City,4,1,Barnsley
+345,2011-02-05 15:00:00,Millwall,1,0,Doncaster Rovers
+346,2011-02-05 15:00:00,Nottingham Forest,1,0,Watford
+347,2011-02-05 15:00:00,Portsmouth,1,1,Derby County
+348,2011-02-05 15:00:00,Preston North End,0,4,Bristol City
+349,2011-02-05 15:00:00,Scunthorpe United,1,5,Hull City
+350,2011-02-06 13:15:00,Swansea City,0,1,Cardiff City
+351,2011-02-12 15:00:00,Barnsley,1,1,Ipswich Town
+352,2011-02-12 15:00:00,Bristol City,0,2,Leeds United
+353,2011-02-12 15:00:00,Cardiff City,1,0,Scunthorpe United
+354,2011-02-12 15:00:00,Coventry City,2,1,Crystal Palace
+355,2011-02-12 15:00:00,Doncaster Rovers,0,2,Portsmouth
+356,2011-02-12 15:00:00,Hull City,1,0,Preston North End
+357,2011-02-12 15:00:00,Middlesbrough,3,4,Swansea City
+358,2011-02-12 15:00:00,Norwich City,2,1,Reading
+359,2011-02-12 15:00:00,Sheffield United,1,1,Millwall
+360,2011-02-12 15:00:00,Watford,1,3,Burnley
+361,2011-02-12 17:20:00,Derby County,0,2,Leicester City
+362,2011-02-13 13:15:00,Queens Park Rangers,1,1,Nottingham Forest
+363,2011-02-15 19:45:00,Cardiff City,1,1,Burnley
+364,2011-02-15 19:45:00,Doncaster Rovers,0,6,Ipswich Town
+365,2011-02-15 19:45:00,Sheffield United,1,1,Reading
+366,2011-02-15 19:45:00,Watford,2,2,Preston North End
+367,2011-02-16 19:45:00,Scunthorpe United,1,0,Nottingham Forest
+368,2011-02-18 19:45:00,Leicester City,2,1,Bristol City
+369,2011-02-19 15:00:00,Crystal Palace,1,0,Sheffield United
+370,2011-02-19 15:00:00,Ipswich Town,1,1,Hull City
+371,2011-02-19 15:00:00,Leeds United,2,2,Norwich City
+372,2011-02-19 15:00:00,Millwall,2,3,Middlesbrough
+373,2011-02-19 15:00:00,Nottingham Forest,2,1,Cardiff City
+374,2011-02-19 15:00:00,Portsmouth,1,0,Barnsley
+375,2011-02-19 15:00:00,Preston North End,1,1,Queens Park Rangers
+376,2011-02-19 15:00:00,Reading,1,1,Watford
+377,2011-02-19 15:00:00,Scunthorpe United,0,0,Derby County
+378,2011-02-19 15:00:00,Swansea City,3,0,Doncaster Rovers
+379,2011-02-22 19:45:00,Cardiff City,2,0,Leicester City
+380,2011-02-22 19:45:00,Coventry City,0,1,Swansea City
+381,2011-02-22 19:45:00,Derby County,0,1,Hull City
+382,2011-02-22 19:45:00,Leeds United,3,3,Barnsley
+383,2011-02-22 19:45:00,Norwich City,1,1,Doncaster Rovers
+384,2011-02-22 19:45:00,Nottingham Forest,2,2,Preston North End
+385,2011-02-22 19:45:00,Portsmouth,1,0,Crystal Palace
+386,2011-02-22 19:45:00,Scunthorpe United,3,2,Sheffield United
+387,2011-02-22 19:45:00,Watford,1,3,Bristol City
+388,2011-02-22 20:00:00,Queens Park Rangers,2,0,Ipswich Town
+389,2011-02-22 20:00:00,Reading,2,1,Millwall
+390,2011-02-26 12:45:00,Swansea City,3,0,Leeds United
+391,2011-02-26 15:00:00,Barnsley,0,2,Norwich City
+392,2011-02-26 15:00:00,Bristol City,2,0,Scunthorpe United
+393,2011-02-26 15:00:00,Crystal Palace,3,3,Reading
+394,2011-02-26 15:00:00,Doncaster Rovers,1,1,Watford
+395,2011-02-26 15:00:00,Hull City,0,2,Cardiff City
+396,2011-02-26 15:00:00,Ipswich Town,0,2,Portsmouth
+397,2011-02-26 15:00:00,Leicester City,1,1,Coventry City
+398,2011-02-26 15:00:00,Middlesbrough,0,3,Queens Park Rangers
+399,2011-02-26 15:00:00,Millwall,0,0,Nottingham Forest
+400,2011-02-26 15:00:00,Preston North End,1,2,Burnley
+401,2011-02-26 15:00:00,Sheffield United,0,1,Derby County
+402,2011-03-01 19:45:00,Derby County,1,3,Doncaster Rovers
+403,2011-03-01 19:45:00,Middlesbrough,1,1,Nottingham Forest
+404,2011-03-01 19:45:00,Portsmouth,2,0,Scunthorpe United
+405,2011-03-05 15:00:00,Burnley,1,0,Crystal Palace
+406,2011-03-05 15:00:00,Coventry City,1,4,Bristol City
+407,2011-03-05 15:00:00,Derby County,0,0,Barnsley
+408,2011-03-05 15:00:00,Leeds United,5,2,Doncaster Rovers
+409,2011-03-05 15:00:00,Norwich City,1,1,Preston North End
+410,2011-03-05 15:00:00,Nottingham Forest,0,1,Hull City
+411,2011-03-05 15:00:00,Portsmouth,1,0,Sheffield United
+412,2011-03-05 15:00:00,Queens Park Rangers,1,0,Leicester City
+413,2011-03-05 15:00:00,Reading,5,2,Middlesbrough
+414,2011-03-05 15:00:00,Scunthorpe United,1,0,Swansea City
+415,2011-03-05 15:00:00,Watford,1,0,Millwall
+416,2011-03-05 17:20:00,Cardiff City,0,2,Ipswich Town
+417,2011-03-08 19:45:00,Barnsley,2,1,Scunthorpe United
+418,2011-03-08 19:45:00,Bristol City,2,1,Portsmouth
+419,2011-03-08 19:45:00,Doncaster Rovers,1,1,Coventry City
+420,2011-03-08 19:45:00,Hull City,0,1,Burnley
+421,2011-03-08 19:45:00,Ipswich Town,1,3,Reading
+422,2011-03-08 19:45:00,Leicester City,2,3,Norwich City
+423,2011-03-08 19:45:00,Middlesbrough,2,1,Derby County
+424,2011-03-08 19:45:00,Millwall,2,0,Queens Park Rangers
+425,2011-03-08 19:45:00,Preston North End,1,2,Leeds United
+426,2011-03-08 19:45:00,Sheffield United,2,1,Nottingham Forest
+427,2011-03-08 19:45:00,Swansea City,1,1,Watford
+428,2011-03-08 20:00:00,Crystal Palace,1,0,Cardiff City
+429,2011-03-12 15:00:00,Burnley,0,3,Millwall
+430,2011-03-12 15:00:00,Coventry City,0,1,Hull City
+431,2011-03-12 15:00:00,Derby County,2,1,Swansea City
+432,2011-03-12 15:00:00,Leeds United,0,0,Ipswich Town
+433,2011-03-12 15:00:00,Nottingham Forest,0,0,Doncaster Rovers
+434,2011-03-12 15:00:00,Portsmouth,0,0,Middlesbrough
+435,2011-03-12 15:00:00,Queens Park Rangers,2,1,Crystal Palace
+436,2011-03-12 15:00:00,Scunthorpe United,0,3,Leicester City
+437,2011-03-12 15:00:00,Watford,3,0,Sheffield United
+438,2011-03-13 15:00:00,Cardiff City,2,2,Barnsley
+439,2011-03-14 19:45:00,Norwich City,3,1,Bristol City
+440,2011-03-15 19:45:00,Burnley,2,2,Coventry City
+441,2011-03-15 19:45:00,Ipswich Town,0,3,Watford
+442,2011-03-15 19:45:00,Scunthorpe United,0,3,Preston North End
+443,2011-03-19 13:00:00,Sheffield United,2,0,Leeds United
+444,2011-03-19 15:00:00,Barnsley,0,1,Reading
+445,2011-03-19 15:00:00,Bristol City,2,0,Burnley
+446,2011-03-19 15:00:00,Crystal Palace,2,2,Derby County
+447,2011-03-19 15:00:00,Doncaster Rovers,0,1,Queens Park Rangers
+448,2011-03-19 15:00:00,Hull City,1,1,Norwich City
+449,2011-03-19 15:00:00,Ipswich Town,2,0,Scunthorpe United
+450,2011-03-19 15:00:00,Leicester City,0,1,Portsmouth
+451,2011-03-19 15:00:00,Middlesbrough,2,1,Watford
+452,2011-03-19 15:00:00,Millwall,3,3,Cardiff City
+453,2011-03-19 15:00:00,Preston North End,2,1,Coventry City
+454,2011-03-19 15:00:00,Swansea City,3,2,Nottingham Forest
+455,2011-04-02 12:45:00,Leeds United,4,1,Nottingham Forest
+456,2011-04-02 13:00:00,Hull City,0,1,Millwall
+457,2011-04-02 15:00:00,Bristol City,1,0,Doncaster Rovers
+458,2011-04-02 15:00:00,Burnley,1,2,Ipswich Town
+459,2011-04-02 15:00:00,Cardiff City,4,1,Derby County
+460,2011-04-02 15:00:00,Coventry City,2,0,Watford
+461,2011-04-02 15:00:00,Crystal Palace,2,1,Barnsley
+462,2011-04-02 15:00:00,Middlesbrough,3,3,Leicester City
+463,2011-04-02 15:00:00,Norwich City,6,0,Scunthorpe United
+464,2011-04-02 15:00:00,Preston North End,2,1,Swansea City
+465,2011-04-02 15:00:00,Reading,2,0,Portsmouth
+466,2011-04-04 19:45:00,Queens Park Rangers,3,0,Sheffield United
+467,2011-04-05 20:00:00,Reading,2,1,Preston North End
+468,2011-04-09 15:00:00,Barnsley,4,2,Bristol City
+469,2011-04-09 15:00:00,Derby County,2,2,Coventry City
+470,2011-04-09 15:00:00,Doncaster Rovers,1,3,Cardiff City
+471,2011-04-09 15:00:00,Ipswich Town,2,1,Crystal Palace
+472,2011-04-09 15:00:00,Leicester City,4,0,Burnley
+473,2011-04-09 15:00:00,Millwall,3,2,Leeds United
+474,2011-04-09 15:00:00,Nottingham Forest,3,4,Reading
+475,2011-04-09 15:00:00,Portsmouth,1,1,Preston North End
+476,2011-04-09 15:00:00,Scunthorpe United,4,1,Queens Park Rangers
+477,2011-04-09 15:00:00,Sheffield United,1,2,Middlesbrough
+478,2011-04-09 15:00:00,Watford,1,2,Hull City
+479,2011-04-09 17:20:00,Swansea City,3,0,Norwich City
+480,2011-04-12 19:45:00,Barnsley,0,1,Queens Park Rangers
+481,2011-04-12 19:45:00,Derby County,2,1,Leeds United
+482,2011-04-12 19:45:00,Doncaster Rovers,1,1,Preston North End
+483,2011-04-12 19:45:00,Ipswich Town,3,3,Middlesbrough
+484,2011-04-12 19:45:00,Leicester City,1,1,Crystal Palace
+485,2011-04-12 19:45:00,Millwall,0,0,Bristol City
+486,2011-04-12 19:45:00,Nottingham Forest,2,0,Burnley
+487,2011-04-12 19:45:00,Portsmouth,0,3,Coventry City
+488,2011-04-12 19:45:00,Scunthorpe United,0,2,Reading
+489,2011-04-12 19:45:00,Sheffield United,0,2,Cardiff City
+490,2011-04-12 19:45:00,Swansea City,1,1,Hull City
+491,2011-04-12 19:45:00,Watford,2,2,Norwich City
+492,2011-04-15 19:45:00,Norwich City,2,1,Nottingham Forest
+493,2011-04-16 15:00:00,Bristol City,0,1,Ipswich Town
+494,2011-04-16 15:00:00,Burnley,2,1,Swansea City
+495,2011-04-16 15:00:00,Cardiff City,3,0,Portsmouth
+496,2011-04-16 15:00:00,Coventry City,2,1,Millwall
+497,2011-04-16 15:00:00,Crystal Palace,1,2,Scunthorpe United
+498,2011-04-16 15:00:00,Hull City,3,1,Doncaster Rovers
+499,2011-04-16 15:00:00,Leeds United,2,2,Watford
+500,2011-04-16 15:00:00,Middlesbrough,1,1,Barnsley
+501,2011-04-16 15:00:00,Preston North End,3,1,Sheffield United
+502,2011-04-16 15:00:00,Reading,3,1,Leicester City
+503,2011-04-18 19:45:00,Queens Park Rangers,0,0,Derby County
+504,2011-04-19 19:45:00,Burnley,3,1,Middlesbrough
+505,2011-04-21 19:45:00,Ipswich Town,1,5,Norwich City
+506,2011-04-22 15:00:00,Coventry City,1,1,Scunthorpe United
+507,2011-04-22 15:00:00,Doncaster Rovers,0,0,Crystal Palace
+508,2011-04-22 17:15:00,Nottingham Forest,3,2,Leicester City
+509,2011-04-22 19:45:00,Leeds United,0,0,Reading
+510,2011-04-23 12:45:00,Cardiff City,2,2,Queens Park Rangers
+511,2011-04-23 15:00:00,Derby County,2,4,Burnley
+512,2011-04-23 15:00:00,Hull City,2,4,Middlesbrough
+513,2011-04-23 15:00:00,Portsmouth,0,0,Swansea City
+514,2011-04-23 15:00:00,Sheffield United,3,2,Bristol City
+515,2011-04-23 15:00:00,Watford,1,0,Barnsley
+516,2011-04-23 17:20:00,Millwall,4,0,Preston North End
+517,2011-04-25 15:00:00,Barnsley,2,2,Doncaster Rovers
+518,2011-04-25 15:00:00,Bristol City,2,3,Nottingham Forest
+519,2011-04-25 15:00:00,Burnley,1,1,Portsmouth
+520,2011-04-25 15:00:00,Crystal Palace,1,0,Leeds United
+521,2011-04-25 15:00:00,Leicester City,4,2,Watford
+522,2011-04-25 15:00:00,Middlesbrough,2,1,Coventry City
+523,2011-04-25 15:00:00,Norwich City,3,2,Derby County
+524,2011-04-25 15:00:00,Preston North End,0,1,Cardiff City
+525,2011-04-25 15:00:00,Queens Park Rangers,1,1,Hull City
+526,2011-04-25 15:00:00,Reading,2,3,Sheffield United
+527,2011-04-25 15:00:00,Scunthorpe United,1,2,Millwall
+528,2011-04-25 15:00:00,Swansea City,4,1,Ipswich Town
+529,2011-04-30 12:45:00,Leeds United,1,0,Burnley
+530,2011-04-30 15:00:00,Coventry City,0,0,Reading
+531,2011-04-30 15:00:00,Derby County,0,2,Bristol City
+532,2011-04-30 15:00:00,Doncaster Rovers,1,1,Leicester City
+533,2011-04-30 15:00:00,Hull City,1,1,Crystal Palace
+534,2011-04-30 15:00:00,Ipswich Town,2,1,Preston North End
+535,2011-04-30 15:00:00,Millwall,0,2,Swansea City
+536,2011-04-30 15:00:00,Nottingham Forest,5,1,Scunthorpe United
+537,2011-04-30 15:00:00,Sheffield United,2,2,Barnsley
+538,2011-04-30 15:00:00,Watford,0,2,Queens Park Rangers
+539,2011-05-02 17:15:00,Cardiff City,0,3,Middlesbrough
+540,2011-05-02 19:45:00,Portsmouth,0,1,Norwich City
+541,2011-05-07 12:45:00,Barnsley,1,0,Millwall
+542,2011-05-07 12:45:00,Bristol City,3,0,Hull City
+543,2011-05-07 12:45:00,Burnley,1,1,Cardiff City
+544,2011-05-07 12:45:00,Crystal Palace,0,3,Nottingham Forest
+545,2011-05-07 12:45:00,Leicester City,4,2,Ipswich Town
+546,2011-05-07 12:45:00,Middlesbrough,3,0,Doncaster Rovers
+547,2011-05-07 12:45:00,Norwich City,2,2,Coventry City
+548,2011-05-07 12:45:00,Preston North End,3,1,Watford
+549,2011-05-07 12:45:00,Queens Park Rangers,1,2,Leeds United
+550,2011-05-07 12:45:00,Reading,2,1,Derby County
+551,2011-05-07 12:45:00,Scunthorpe United,1,1,Portsmouth
+552,2011-05-07 12:45:00,Swansea City,4,0,Sheffield United
+553,2011-05-12 19:45:00,Nottingham Forest,0,0,Swansea City
+554,2011-05-13 19:45:00,Reading,0,0,Cardiff City
+555,2011-05-16 19:45:00,Swansea City,3,1,Nottingham Forest
+556,2011-05-17 19:45:00,Cardiff City,0,3,Reading
+557,2011-05-30 15:00:00,Reading,2,4,Swansea City

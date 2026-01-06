@@ -1,0 +1,558 @@
+Match Number,Date,Home Team,Home Score,Away Score,Away Team
+1,2014-08-08 19:45:00,Blackburn Rovers,1,1,Cardiff City
+2,2014-08-09 15:00:00,Brentford,1,1,Charlton Athletic
+3,2014-08-09 15:00:00,Brighton & Hove Albion,0,1,Sheffield Wednesday
+4,2014-08-09 15:00:00,Derby County,1,0,Rotherham United
+5,2014-08-09 15:00:00,Huddersfield Town,0,4,AFC Bournemouth
+6,2014-08-09 15:00:00,Middlesbrough,2,0,Birmingham City
+7,2014-08-09 15:00:00,Millwall,2,0,Leeds United
+8,2014-08-09 15:00:00,Nottingham Forest,2,0,Blackpool
+9,2014-08-09 15:00:00,Watford,3,0,Bolton Wanderers
+10,2014-08-09 15:00:00,Wigan Athletic,2,2,Reading
+11,2014-08-09 17:15:00,Ipswich Town,2,1,Fulham
+12,2014-08-10 16:00:00,Wolverhampton Wanderers,1,0,Norwich City
+13,2014-08-16 12:15:00,Leeds United,1,0,Middlesbrough
+14,2014-08-16 15:00:00,AFC Bournemouth,1,0,Brentford
+15,2014-08-16 15:00:00,Birmingham City,1,0,Brighton & Hove Albion
+16,2014-08-16 15:00:00,Blackpool,1,2,Blackburn Rovers
+17,2014-08-16 15:00:00,Bolton Wanderers,2,2,Nottingham Forest
+18,2014-08-16 15:00:00,Cardiff City,3,1,Huddersfield Town
+19,2014-08-16 15:00:00,Charlton Athletic,2,1,Wigan Athletic
+20,2014-08-16 15:00:00,Fulham,0,1,Millwall
+21,2014-08-16 15:00:00,Norwich City,3,0,Watford
+22,2014-08-16 15:00:00,Reading,1,0,Ipswich Town
+23,2014-08-16 15:00:00,Rotherham United,1,0,Wolverhampton Wanderers
+24,2014-08-16 15:00:00,Sheffield Wednesday,0,0,Derby County
+25,2014-08-19 19:45:00,AFC Bournemouth,1,2,Nottingham Forest
+26,2014-08-19 19:45:00,Birmingham City,2,2,Ipswich Town
+27,2014-08-19 19:45:00,Blackpool,1,2,Brentford
+28,2014-08-19 19:45:00,Cardiff City,1,0,Wigan Athletic
+29,2014-08-19 19:45:00,Charlton Athletic,3,2,Derby County
+30,2014-08-19 19:45:00,Leeds United,0,2,Brighton & Hove Albion
+31,2014-08-19 19:45:00,Norwich City,3,1,Blackburn Rovers
+32,2014-08-19 19:45:00,Rotherham United,0,2,Watford
+33,2014-08-19 19:45:00,Sheffield Wednesday,1,1,Millwall
+34,2014-08-19 20:00:00,Bolton Wanderers,1,2,Middlesbrough
+35,2014-08-19 20:00:00,Reading,1,2,Huddersfield Town
+36,2014-08-20 20:00:00,Fulham,0,1,Wolverhampton Wanderers
+37,2014-08-23 12:15:00,Ipswich Town,0,1,Norwich City
+38,2014-08-23 15:00:00,Blackburn Rovers,3,2,AFC Bournemouth
+39,2014-08-23 15:00:00,Brentford,1,1,Birmingham City
+40,2014-08-23 15:00:00,Brighton & Hove Albion,2,1,Bolton Wanderers
+41,2014-08-23 15:00:00,Derby County,5,1,Fulham
+42,2014-08-23 15:00:00,Huddersfield Town,1,1,Charlton Athletic
+43,2014-08-23 15:00:00,Middlesbrough,2,3,Sheffield Wednesday
+44,2014-08-23 15:00:00,Millwall,0,1,Rotherham United
+45,2014-08-23 15:00:00,Nottingham Forest,4,0,Reading
+46,2014-08-23 15:00:00,Watford,4,1,Leeds United
+47,2014-08-23 15:00:00,Wigan Athletic,1,0,Blackpool
+48,2014-08-23 15:00:00,Wolverhampton Wanderers,1,0,Cardiff City
+49,2014-08-30 12:15:00,Sheffield Wednesday,0,1,Nottingham Forest
+50,2014-08-30 15:00:00,Brighton & Hove Albion,2,2,Charlton Athletic
+51,2014-08-30 15:00:00,Derby County,1,1,Ipswich Town
+52,2014-08-30 15:00:00,Fulham,1,1,Cardiff City
+53,2014-08-30 15:00:00,Leeds United,1,0,Bolton Wanderers
+54,2014-08-30 15:00:00,Middlesbrough,0,1,Reading
+55,2014-08-30 15:00:00,Millwall,2,1,Blackpool
+56,2014-08-30 15:00:00,Norwich City,1,1,AFC Bournemouth
+57,2014-08-30 15:00:00,Rotherham United,0,2,Brentford
+58,2014-08-30 15:00:00,Watford,4,2,Huddersfield Town
+59,2014-08-30 15:00:00,Wigan Athletic,4,0,Birmingham City
+60,2014-08-30 15:00:00,Wolverhampton Wanderers,3,1,Blackburn Rovers
+61,2014-09-13 12:15:00,Birmingham City,1,1,Leeds United
+62,2014-09-13 15:00:00,AFC Bournemouth,1,1,Rotherham United
+63,2014-09-13 15:00:00,Blackburn Rovers,3,1,Wigan Athletic
+64,2014-09-13 15:00:00,Blackpool,0,0,Wolverhampton Wanderers
+65,2014-09-13 15:00:00,Bolton Wanderers,0,0,Sheffield Wednesday
+66,2014-09-13 15:00:00,Brentford,3,2,Brighton & Hove Albion
+67,2014-09-13 15:00:00,Cardiff City,2,4,Norwich City
+68,2014-09-13 15:00:00,Charlton Athletic,1,0,Watford
+69,2014-09-13 15:00:00,Huddersfield Town,1,2,Middlesbrough
+70,2014-09-13 15:00:00,Ipswich Town,2,0,Millwall
+71,2014-09-13 15:00:00,Reading,3,0,Fulham
+72,2014-09-14 13:15:00,Nottingham Forest,1,1,Derby County
+73,2014-09-16 19:45:00,AFC Bournemouth,1,3,Leeds United
+74,2014-09-16 19:45:00,Birmingham City,0,2,Sheffield Wednesday
+75,2014-09-16 19:45:00,Blackpool,0,1,Watford
+76,2014-09-16 19:45:00,Brentford,0,3,Norwich City
+77,2014-09-16 19:45:00,Cardiff City,0,1,Middlesbrough
+78,2014-09-16 19:45:00,Charlton Athletic,1,1,Wolverhampton Wanderers
+79,2014-09-16 19:45:00,Huddersfield Town,0,0,Wigan Athletic
+80,2014-09-16 19:45:00,Ipswich Town,2,0,Brighton & Hove Albion
+81,2014-09-16 20:00:00,Bolton Wanderers,3,2,Rotherham United
+82,2014-09-16 20:00:00,Reading,3,2,Millwall
+83,2014-09-17 19:45:00,Blackburn Rovers,2,3,Derby County
+84,2014-09-17 19:45:00,Nottingham Forest,5,3,Fulham
+85,2014-09-20 12:15:00,Watford,1,1,AFC Bournemouth
+86,2014-09-20 15:00:00,Brighton & Hove Albion,0,0,Blackpool
+87,2014-09-20 15:00:00,Derby County,2,2,Cardiff City
+88,2014-09-20 15:00:00,Fulham,0,1,Blackburn Rovers
+89,2014-09-20 15:00:00,Leeds United,3,0,Huddersfield Town
+90,2014-09-20 15:00:00,Middlesbrough,4,0,Brentford
+91,2014-09-20 15:00:00,Millwall,0,0,Nottingham Forest
+92,2014-09-20 15:00:00,Norwich City,2,2,Birmingham City
+93,2014-09-20 15:00:00,Rotherham United,1,1,Charlton Athletic
+94,2014-09-20 15:00:00,Sheffield Wednesday,1,0,Reading
+95,2014-09-20 15:00:00,Wolverhampton Wanderers,1,0,Bolton Wanderers
+96,2014-09-22 19:45:00,Wigan Athletic,1,2,Ipswich Town
+97,2014-09-27 15:00:00,AFC Bournemouth,2,0,Wigan Athletic
+98,2014-09-27 15:00:00,Birmingham City,1,2,Fulham
+99,2014-09-27 15:00:00,Blackburn Rovers,2,2,Watford
+100,2014-09-27 15:00:00,Blackpool,1,3,Norwich City
+101,2014-09-27 15:00:00,Bolton Wanderers,0,2,Derby County
+102,2014-09-27 15:00:00,Brentford,2,0,Leeds United
+103,2014-09-27 15:00:00,Cardiff City,2,1,Sheffield Wednesday
+104,2014-09-27 15:00:00,Charlton Athletic,0,0,Middlesbrough
+105,2014-09-27 15:00:00,Huddersfield Town,2,1,Millwall
+106,2014-09-27 15:00:00,Ipswich Town,2,0,Rotherham United
+107,2014-09-27 15:00:00,Nottingham Forest,0,0,Brighton & Hove Albion
+108,2014-09-28 13:15:00,Reading,3,3,Wolverhampton Wanderers
+109,2014-09-30 19:45:00,Brighton & Hove Albion,1,1,Cardiff City
+110,2014-09-30 19:45:00,Derby County,2,0,AFC Bournemouth
+111,2014-09-30 19:45:00,Middlesbrough,1,1,Blackpool
+112,2014-09-30 19:45:00,Millwall,1,3,Birmingham City
+113,2014-09-30 19:45:00,Norwich City,0,1,Charlton Athletic
+114,2014-09-30 19:45:00,Rotherham United,2,0,Blackburn Rovers
+115,2014-09-30 19:45:00,Sheffield Wednesday,1,1,Ipswich Town
+116,2014-09-30 19:45:00,Watford,2,1,Brentford
+117,2014-09-30 19:45:00,Wigan Athletic,0,0,Nottingham Forest
+118,2014-10-01 19:45:00,Leeds United,0,0,Reading
+119,2014-10-01 19:45:00,Wolverhampton Wanderers,1,3,Huddersfield Town
+120,2014-10-01 20:00:00,Fulham,4,0,Bolton Wanderers
+121,2014-10-03 19:45:00,Blackpool,1,0,Cardiff City
+122,2014-10-04 12:15:00,Leeds United,1,1,Sheffield Wednesday
+123,2014-10-04 15:00:00,Blackburn Rovers,0,0,Huddersfield Town
+124,2014-10-04 15:00:00,Bolton Wanderers,1,2,AFC Bournemouth
+125,2014-10-04 15:00:00,Brentford,3,1,Reading
+126,2014-10-04 15:00:00,Charlton Athletic,1,1,Birmingham City
+127,2014-10-04 15:00:00,Derby County,0,0,Millwall
+128,2014-10-04 15:00:00,Middlesbrough,2,0,Fulham
+129,2014-10-04 15:00:00,Norwich City,1,1,Rotherham United
+130,2014-10-04 15:00:00,Watford,1,1,Brighton & Hove Albion
+131,2014-10-04 15:00:00,Wolverhampton Wanderers,2,2,Wigan Athletic
+132,2014-10-05 15:00:00,Nottingham Forest,2,2,Ipswich Town
+133,2014-10-17 19:45:00,Rotherham United,2,1,Leeds United
+134,2014-10-18 12:15:00,Cardiff City,2,1,Nottingham Forest
+135,2014-10-18 15:00:00,AFC Bournemouth,1,0,Charlton Athletic
+136,2014-10-18 15:00:00,Birmingham City,0,1,Bolton Wanderers
+137,2014-10-18 15:00:00,Brighton & Hove Albion,1,2,Middlesbrough
+138,2014-10-18 15:00:00,Fulham,1,0,Norwich City
+139,2014-10-18 15:00:00,Huddersfield Town,4,2,Blackpool
+140,2014-10-18 15:00:00,Ipswich Town,1,1,Blackburn Rovers
+141,2014-10-18 15:00:00,Millwall,3,3,Wolverhampton Wanderers
+142,2014-10-18 15:00:00,Reading,0,3,Derby County
+143,2014-10-18 15:00:00,Sheffield Wednesday,0,3,Watford
+144,2014-10-18 15:00:00,Wigan Athletic,0,0,Brentford
+145,2014-10-21 19:45:00,AFC Bournemouth,3,0,Reading
+146,2014-10-21 19:45:00,Blackburn Rovers,1,0,Birmingham City
+147,2014-10-21 19:45:00,Blackpool,0,1,Derby County
+148,2014-10-21 19:45:00,Brentford,0,0,Sheffield Wednesday
+149,2014-10-21 19:45:00,Cardiff City,3,1,Ipswich Town
+150,2014-10-21 19:45:00,Charlton Athletic,2,1,Bolton Wanderers
+151,2014-10-21 19:45:00,Huddersfield Town,1,1,Brighton & Hove Albion
+152,2014-10-21 19:45:00,Norwich City,1,1,Leeds United
+153,2014-10-21 19:45:00,Rotherham United,3,3,Fulham
+154,2014-10-21 19:45:00,Watford,2,2,Nottingham Forest
+155,2014-10-21 19:45:00,Wigan Athletic,0,0,Millwall
+156,2014-10-21 19:45:00,Wolverhampton Wanderers,2,0,Middlesbrough
+157,2014-10-24 19:45:00,Fulham,3,0,Charlton Athletic
+158,2014-10-25 12:15:00,Millwall,1,0,Cardiff City
+159,2014-10-25 15:00:00,Birmingham City,0,8,AFC Bournemouth
+160,2014-10-25 15:00:00,Bolton Wanderers,3,1,Brentford
+161,2014-10-25 15:00:00,Brighton & Hove Albion,1,1,Rotherham United
+162,2014-10-25 15:00:00,Derby County,1,2,Wigan Athletic
+163,2014-10-25 15:00:00,Ipswich Town,2,2,Huddersfield Town
+164,2014-10-25 15:00:00,Leeds United,1,2,Wolverhampton Wanderers
+165,2014-10-25 15:00:00,Middlesbrough,1,1,Watford
+166,2014-10-25 15:00:00,Nottingham Forest,1,3,Blackburn Rovers
+167,2014-10-25 15:00:00,Reading,3,0,Blackpool
+168,2014-10-25 15:00:00,Sheffield Wednesday,0,0,Norwich City
+169,2014-10-31 19:45:00,Norwich City,2,1,Bolton Wanderers
+170,2014-11-01 12:15:00,Wolverhampton Wanderers,0,0,Birmingham City
+171,2014-11-01 15:00:00,Blackburn Rovers,3,1,Reading
+172,2014-11-01 15:00:00,Blackpool,0,2,Ipswich Town
+173,2014-11-01 15:00:00,Brentford,2,1,Derby County
+174,2014-11-01 15:00:00,Cardiff City,3,1,Leeds United
+175,2014-11-01 15:00:00,Charlton Athletic,1,1,Sheffield Wednesday
+176,2014-11-01 15:00:00,Huddersfield Town,3,0,Nottingham Forest
+177,2014-11-01 15:00:00,Rotherham United,0,3,Middlesbrough
+178,2014-11-01 15:00:00,Watford,3,1,Millwall
+179,2014-11-01 15:00:00,Wigan Athletic,3,3,Fulham
+180,2014-11-01 17:15:00,AFC Bournemouth,3,2,Brighton & Hove Albion
+181,2014-11-04 19:45:00,Birmingham City,2,1,Watford
+182,2014-11-04 19:45:00,Brighton & Hove Albion,1,0,Wigan Athletic
+183,2014-11-04 19:45:00,Derby County,3,2,Huddersfield Town
+184,2014-11-04 19:45:00,Ipswich Town,2,1,Wolverhampton Wanderers
+185,2014-11-04 19:45:00,Leeds United,2,2,Charlton Athletic
+186,2014-11-04 19:45:00,Middlesbrough,4,0,Norwich City
+187,2014-11-04 19:45:00,Millwall,2,2,Blackburn Rovers
+188,2014-11-04 19:45:00,Sheffield Wednesday,0,2,AFC Bournemouth
+189,2014-11-04 20:00:00,Bolton Wanderers,3,0,Cardiff City
+190,2014-11-04 20:00:00,Reading,3,0,Rotherham United
+191,2014-11-05 19:45:00,Nottingham Forest,1,3,Brentford
+192,2014-11-05 20:00:00,Fulham,2,2,Blackpool
+193,2014-11-07 20:00:00,Bolton Wanderers,3,1,Wigan Athletic
+194,2014-11-08 12:15:00,Derby County,5,0,Wolverhampton Wanderers
+195,2014-11-08 15:00:00,Birmingham City,0,0,Cardiff City
+196,2014-11-08 15:00:00,Brighton & Hove Albion,1,1,Blackburn Rovers
+197,2014-11-08 15:00:00,Fulham,3,1,Huddersfield Town
+198,2014-11-08 15:00:00,Ipswich Town,1,0,Watford
+199,2014-11-08 15:00:00,Leeds United,3,1,Blackpool
+200,2014-11-08 15:00:00,Middlesbrough,0,0,AFC Bournemouth
+201,2014-11-08 15:00:00,Millwall,2,3,Brentford
+202,2014-11-08 15:00:00,Nottingham Forest,2,1,Norwich City
+203,2014-11-08 15:00:00,Reading,0,1,Charlton Athletic
+204,2014-11-08 15:00:00,Sheffield Wednesday,0,0,Rotherham United
+205,2014-11-21 19:45:00,Brentford,2,1,Fulham
+206,2014-11-21 19:45:00,Cardiff City,2,1,Reading
+207,2014-11-22 12:15:00,Huddersfield Town,0,0,Sheffield Wednesday
+208,2014-11-22 15:00:00,AFC Bournemouth,2,2,Ipswich Town
+209,2014-11-22 15:00:00,Blackburn Rovers,2,1,Leeds United
+210,2014-11-22 15:00:00,Blackpool,1,1,Bolton Wanderers
+211,2014-11-22 15:00:00,Charlton Athletic,0,0,Millwall
+212,2014-11-22 15:00:00,Norwich City,3,3,Brighton & Hove Albion
+213,2014-11-22 15:00:00,Rotherham United,0,1,Birmingham City
+214,2014-11-22 15:00:00,Watford,1,2,Derby County
+215,2014-11-22 15:00:00,Wigan Athletic,1,1,Middlesbrough
+216,2014-11-22 15:00:00,Wolverhampton Wanderers,0,3,Nottingham Forest
+217,2014-11-29 12:15:00,Charlton Athletic,0,1,Ipswich Town
+218,2014-11-29 15:00:00,AFC Bournemouth,2,2,Millwall
+219,2014-11-29 15:00:00,Birmingham City,2,1,Nottingham Forest
+220,2014-11-29 15:00:00,Bolton Wanderers,1,0,Huddersfield Town
+221,2014-11-29 15:00:00,Brentford,4,0,Wolverhampton Wanderers
+222,2014-11-29 15:00:00,Brighton & Hove Albion,1,2,Fulham
+223,2014-11-29 15:00:00,Leeds United,2,0,Derby County
+224,2014-11-29 15:00:00,Middlesbrough,1,1,Blackburn Rovers
+225,2014-11-29 15:00:00,Norwich City,1,2,Reading
+226,2014-11-29 15:00:00,Rotherham United,1,1,Blackpool
+227,2014-11-29 15:00:00,Sheffield Wednesday,2,1,Wigan Athletic
+228,2014-11-29 15:00:00,Watford,0,1,Cardiff City
+229,2014-12-05 19:45:00,Fulham,0,5,Watford
+230,2014-12-06 15:00:00,Blackburn Rovers,1,2,Sheffield Wednesday
+231,2014-12-06 15:00:00,Blackpool,1,0,Birmingham City
+232,2014-12-06 15:00:00,Cardiff City,0,0,Rotherham United
+233,2014-12-06 15:00:00,Derby County,3,0,Brighton & Hove Albion
+234,2014-12-06 15:00:00,Huddersfield Town,2,1,Brentford
+235,2014-12-06 15:00:00,Ipswich Town,4,1,Leeds United
+236,2014-12-06 15:00:00,Millwall,1,5,Middlesbrough
+237,2014-12-06 15:00:00,Nottingham Forest,1,1,Charlton Athletic
+238,2014-12-06 15:00:00,Reading,0,0,Bolton Wanderers
+239,2014-12-06 15:00:00,Wigan Athletic,0,1,Norwich City
+240,2014-12-06 15:00:00,Wolverhampton Wanderers,1,2,AFC Bournemouth
+241,2014-12-12 19:45:00,Brighton & Hove Albion,0,1,Millwall
+242,2014-12-13 12:15:00,Middlesbrough,2,0,Derby County
+243,2014-12-13 15:00:00,AFC Bournemouth,5,3,Cardiff City
+244,2014-12-13 15:00:00,Birmingham City,6,1,Reading
+245,2014-12-13 15:00:00,Bolton Wanderers,0,0,Ipswich Town
+246,2014-12-13 15:00:00,Brentford,3,1,Blackburn Rovers
+247,2014-12-13 15:00:00,Charlton Athletic,2,2,Blackpool
+248,2014-12-13 15:00:00,Leeds United,0,1,Fulham
+249,2014-12-13 15:00:00,Norwich City,5,0,Huddersfield Town
+250,2014-12-13 15:00:00,Rotherham United,0,0,Nottingham Forest
+251,2014-12-13 15:00:00,Sheffield Wednesday,0,1,Wolverhampton Wanderers
+252,2014-12-13 15:00:00,Watford,2,1,Wigan Athletic
+253,2014-12-19 19:45:00,Millwall,0,1,Bolton Wanderers
+254,2014-12-20 12:15:00,Derby County,2,2,Norwich City
+255,2014-12-20 15:00:00,Blackburn Rovers,2,0,Charlton Athletic
+256,2014-12-20 15:00:00,Blackpool,1,6,AFC Bournemouth
+257,2014-12-20 15:00:00,Cardiff City,2,3,Brentford
+258,2014-12-20 15:00:00,Fulham,4,0,Sheffield Wednesday
+259,2014-12-20 15:00:00,Huddersfield Town,0,1,Birmingham City
+260,2014-12-20 15:00:00,Ipswich Town,2,0,Middlesbrough
+261,2014-12-20 15:00:00,Reading,0,1,Watford
+262,2014-12-20 15:00:00,Wigan Athletic,1,2,Rotherham United
+263,2014-12-20 15:00:00,Wolverhampton Wanderers,1,1,Brighton & Hove Albion
+264,2014-12-20 17:15:00,Nottingham Forest,1,1,Leeds United
+265,2014-12-26 13:00:00,Brentford,2,4,Ipswich Town
+266,2014-12-26 13:00:00,Charlton Athletic,1,1,Cardiff City
+267,2014-12-26 15:00:00,AFC Bournemouth,2,0,Fulham
+268,2014-12-26 15:00:00,Birmingham City,0,4,Derby County
+269,2014-12-26 15:00:00,Bolton Wanderers,2,1,Blackburn Rovers
+270,2014-12-26 15:00:00,Brighton & Hove Albion,2,2,Reading
+271,2014-12-26 15:00:00,Leeds United,0,2,Wigan Athletic
+272,2014-12-26 15:00:00,Middlesbrough,3,0,Nottingham Forest
+273,2014-12-26 15:00:00,Norwich City,6,1,Millwall
+274,2014-12-26 15:00:00,Rotherham United,2,2,Huddersfield Town
+275,2014-12-26 15:00:00,Sheffield Wednesday,1,0,Blackpool
+276,2014-12-26 17:30:00,Watford,0,1,Wolverhampton Wanderers
+277,2014-12-28 12:00:00,Nottingham Forest,1,3,Birmingham City
+278,2014-12-28 15:00:00,Blackburn Rovers,0,0,Middlesbrough
+279,2014-12-28 15:00:00,Blackpool,1,1,Rotherham United
+280,2014-12-28 15:00:00,Cardiff City,2,4,Watford
+281,2014-12-28 15:00:00,Huddersfield Town,2,1,Bolton Wanderers
+282,2014-12-28 15:00:00,Millwall,0,2,AFC Bournemouth
+283,2014-12-28 15:00:00,Reading,2,1,Norwich City
+284,2014-12-28 15:00:00,Wolverhampton Wanderers,2,1,Brentford
+285,2014-12-29 20:00:00,Fulham,0,2,Brighton & Hove Albion
+286,2014-12-30 19:45:00,Derby County,2,0,Leeds United
+287,2014-12-30 19:45:00,Ipswich Town,3,0,Charlton Athletic
+288,2014-12-30 19:45:00,Wigan Athletic,0,1,Sheffield Wednesday
+289,2015-01-10 12:15:00,Ipswich Town,0,1,Derby County
+290,2015-01-10 15:00:00,AFC Bournemouth,1,2,Norwich City
+291,2015-01-10 15:00:00,Birmingham City,3,1,Wigan Athletic
+292,2015-01-10 15:00:00,Blackpool,1,0,Millwall
+293,2015-01-10 15:00:00,Bolton Wanderers,1,1,Leeds United
+294,2015-01-10 15:00:00,Brentford,1,0,Rotherham United
+295,2015-01-10 15:00:00,Cardiff City,1,0,Fulham
+296,2015-01-10 15:00:00,Charlton Athletic,0,1,Brighton & Hove Albion
+297,2015-01-10 15:00:00,Huddersfield Town,3,1,Watford
+298,2015-01-10 15:00:00,Nottingham Forest,0,2,Sheffield Wednesday
+299,2015-01-10 15:00:00,Reading,0,0,Middlesbrough
+300,2015-01-11 14:00:00,Blackburn Rovers,0,1,Wolverhampton Wanderers
+301,2015-01-17 12:15:00,Derby County,1,2,Nottingham Forest
+302,2015-01-17 15:00:00,Brighton & Hove Albion,0,1,Brentford
+303,2015-01-17 15:00:00,Fulham,2,1,Reading
+304,2015-01-17 15:00:00,Leeds United,1,1,Birmingham City
+305,2015-01-17 15:00:00,Middlesbrough,2,0,Huddersfield Town
+306,2015-01-17 15:00:00,Millwall,1,3,Ipswich Town
+307,2015-01-17 15:00:00,Norwich City,3,2,Cardiff City
+308,2015-01-17 15:00:00,Rotherham United,0,2,AFC Bournemouth
+309,2015-01-17 15:00:00,Sheffield Wednesday,1,2,Bolton Wanderers
+310,2015-01-17 15:00:00,Watford,5,0,Charlton Athletic
+311,2015-01-17 15:00:00,Wigan Athletic,1,1,Blackburn Rovers
+312,2015-01-17 15:00:00,Wolverhampton Wanderers,2,0,Blackpool
+313,2015-01-20 19:45:00,Leeds United,1,0,AFC Bournemouth
+314,2015-01-20 19:45:00,Middlesbrough,2,1,Cardiff City
+315,2015-01-21 19:45:00,Brighton & Hove Albion,3,2,Ipswich Town
+316,2015-01-21 19:45:00,Fulham,3,2,Nottingham Forest
+317,2015-01-24 15:00:00,Norwich City,1,2,Brentford
+318,2015-01-24 15:00:00,Watford,7,2,Blackpool
+319,2015-01-24 15:00:00,Wigan Athletic,0,1,Huddersfield Town
+320,2015-01-24 15:00:00,Wolverhampton Wanderers,0,0,Charlton Athletic
+321,2015-01-27 19:45:00,Derby County,2,0,Blackburn Rovers
+322,2015-01-27 19:45:00,Millwall,0,0,Reading
+323,2015-01-27 19:45:00,Rotherham United,4,2,Bolton Wanderers
+324,2015-01-27 19:45:00,Sheffield Wednesday,0,0,Birmingham City
+325,2015-01-30 19:45:00,AFC Bournemouth,2,0,Watford
+326,2015-01-31 12:15:00,Brentford,0,1,Middlesbrough
+327,2015-01-31 12:30:00,Huddersfield Town,1,2,Leeds United
+328,2015-01-31 15:00:00,Birmingham City,0,0,Norwich City
+329,2015-01-31 15:00:00,Blackburn Rovers,2,1,Fulham
+330,2015-01-31 15:00:00,Blackpool,1,0,Brighton & Hove Albion
+331,2015-01-31 15:00:00,Bolton Wanderers,2,2,Wolverhampton Wanderers
+332,2015-01-31 15:00:00,Cardiff City,0,2,Derby County
+333,2015-01-31 15:00:00,Charlton Athletic,1,1,Rotherham United
+334,2015-01-31 15:00:00,Ipswich Town,0,0,Wigan Athletic
+335,2015-01-31 15:00:00,Nottingham Forest,0,1,Millwall
+336,2015-01-31 15:00:00,Reading,2,0,Sheffield Wednesday
+337,2015-02-07 15:00:00,Brighton & Hove Albion,2,3,Nottingham Forest
+338,2015-02-07 15:00:00,Derby County,4,1,Bolton Wanderers
+339,2015-02-07 15:00:00,Fulham,1,1,Birmingham City
+340,2015-02-07 15:00:00,Leeds United,0,1,Brentford
+341,2015-02-07 15:00:00,Middlesbrough,3,1,Charlton Athletic
+342,2015-02-07 15:00:00,Millwall,1,3,Huddersfield Town
+343,2015-02-07 15:00:00,Norwich City,4,0,Blackpool
+344,2015-02-07 15:00:00,Rotherham United,2,0,Ipswich Town
+345,2015-02-07 15:00:00,Sheffield Wednesday,1,1,Cardiff City
+346,2015-02-07 15:00:00,Watford,1,0,Blackburn Rovers
+347,2015-02-07 15:00:00,Wigan Athletic,1,3,AFC Bournemouth
+348,2015-02-07 15:00:00,Wolverhampton Wanderers,1,2,Reading
+349,2015-02-10 19:45:00,AFC Bournemouth,2,2,Derby County
+350,2015-02-10 19:45:00,Birmingham City,0,1,Millwall
+351,2015-02-10 19:45:00,Blackburn Rovers,2,1,Rotherham United
+352,2015-02-10 19:45:00,Blackpool,1,2,Middlesbrough
+353,2015-02-10 19:45:00,Brentford,1,2,Watford
+354,2015-02-10 19:45:00,Cardiff City,0,0,Brighton & Hove Albion
+355,2015-02-10 19:45:00,Charlton Athletic,2,3,Norwich City
+356,2015-02-10 19:45:00,Huddersfield Town,1,4,Wolverhampton Wanderers
+357,2015-02-10 19:45:00,Ipswich Town,2,1,Sheffield Wednesday
+358,2015-02-10 20:00:00,Bolton Wanderers,3,1,Fulham
+359,2015-02-10 20:00:00,Reading,0,2,Leeds United
+360,2015-02-11 19:45:00,Nottingham Forest,3,0,Wigan Athletic
+361,2015-02-14 15:00:00,AFC Bournemouth,1,1,Huddersfield Town
+362,2015-02-14 15:00:00,Blackpool,4,4,Nottingham Forest
+363,2015-02-14 15:00:00,Bolton Wanderers,3,4,Watford
+364,2015-02-14 15:00:00,Charlton Athletic,3,0,Brentford
+365,2015-02-14 15:00:00,Fulham,1,2,Ipswich Town
+366,2015-02-14 15:00:00,Leeds United,1,0,Millwall
+367,2015-02-14 15:00:00,Norwich City,2,0,Wolverhampton Wanderers
+368,2015-02-14 15:00:00,Sheffield Wednesday,0,0,Brighton & Hove Albion
+369,2015-02-17 19:45:00,Cardiff City,1,1,Blackburn Rovers
+370,2015-02-17 19:45:00,Rotherham United,3,3,Derby County
+371,2015-02-17 20:00:00,Reading,0,1,Wigan Athletic
+372,2015-02-18 19:45:00,Birmingham City,1,1,Middlesbrough
+373,2015-02-20 19:45:00,Wigan Athletic,0,3,Charlton Athletic
+374,2015-02-21 12:15:00,Middlesbrough,0,1,Leeds United
+375,2015-02-21 15:00:00,Blackburn Rovers,1,1,Blackpool
+376,2015-02-21 15:00:00,Brentford,3,1,AFC Bournemouth
+377,2015-02-21 15:00:00,Brighton & Hove Albion,4,3,Birmingham City
+378,2015-02-21 15:00:00,Derby County,3,2,Sheffield Wednesday
+379,2015-02-21 15:00:00,Huddersfield Town,0,0,Cardiff City
+380,2015-02-21 15:00:00,Ipswich Town,0,1,Reading
+381,2015-02-21 15:00:00,Millwall,0,0,Fulham
+382,2015-02-21 15:00:00,Nottingham Forest,4,1,Bolton Wanderers
+383,2015-02-21 15:00:00,Watford,0,3,Norwich City
+384,2015-02-21 15:00:00,Wolverhampton Wanderers,5,0,Rotherham United
+385,2015-02-24 19:45:00,Blackburn Rovers,1,2,Norwich City
+386,2015-02-24 19:45:00,Brentford,4,0,Blackpool
+387,2015-02-24 19:45:00,Brighton & Hove Albion,2,0,Leeds United
+388,2015-02-24 19:45:00,Derby County,2,0,Charlton Athletic
+389,2015-02-24 19:45:00,Huddersfield Town,3,0,Reading
+390,2015-02-24 19:45:00,Ipswich Town,4,2,Birmingham City
+391,2015-02-24 19:45:00,Middlesbrough,1,0,Bolton Wanderers
+392,2015-02-24 19:45:00,Millwall,1,3,Sheffield Wednesday
+393,2015-02-24 19:45:00,Watford,3,0,Rotherham United
+394,2015-02-24 19:45:00,Wigan Athletic,0,1,Cardiff City
+395,2015-02-24 19:45:00,Wolverhampton Wanderers,3,0,Fulham
+396,2015-02-25 19:45:00,Nottingham Forest,2,1,AFC Bournemouth
+397,2015-02-28 15:00:00,AFC Bournemouth,0,0,Blackburn Rovers
+398,2015-02-28 15:00:00,Birmingham City,1,0,Brentford
+399,2015-02-28 15:00:00,Blackpool,1,3,Wigan Athletic
+400,2015-02-28 15:00:00,Bolton Wanderers,1,0,Brighton & Hove Albion
+401,2015-02-28 15:00:00,Cardiff City,0,1,Wolverhampton Wanderers
+402,2015-02-28 15:00:00,Charlton Athletic,3,0,Huddersfield Town
+403,2015-02-28 15:00:00,Fulham,2,0,Derby County
+404,2015-02-28 15:00:00,Leeds United,2,3,Watford
+405,2015-02-28 15:00:00,Reading,0,3,Nottingham Forest
+406,2015-02-28 15:00:00,Rotherham United,2,1,Millwall
+407,2015-02-28 15:00:00,Sheffield Wednesday,2,0,Middlesbrough
+408,2015-03-01 14:05:00,Norwich City,2,0,Ipswich Town
+409,2015-03-03 19:45:00,AFC Bournemouth,2,1,Wolverhampton Wanderers
+410,2015-03-03 19:45:00,Brentford,4,1,Huddersfield Town
+411,2015-03-03 19:45:00,Brighton & Hove Albion,2,0,Derby County
+412,2015-03-03 19:45:00,Charlton Athletic,2,1,Nottingham Forest
+413,2015-03-03 19:45:00,Middlesbrough,3,0,Millwall
+414,2015-03-03 19:45:00,Rotherham United,1,3,Cardiff City
+415,2015-03-03 19:45:00,Watford,1,0,Fulham
+416,2015-03-03 20:00:00,Bolton Wanderers,1,1,Reading
+417,2015-03-04 19:45:00,Birmingham City,1,0,Blackpool
+418,2015-03-04 19:45:00,Leeds United,2,1,Ipswich Town
+419,2015-03-04 19:45:00,Norwich City,0,1,Wigan Athletic
+420,2015-03-04 19:45:00,Sheffield Wednesday,1,2,Blackburn Rovers
+421,2015-03-06 19:45:00,Fulham,1,5,AFC Bournemouth
+422,2015-03-07 15:00:00,Blackpool,0,1,Sheffield Wednesday
+423,2015-03-07 15:00:00,Cardiff City,1,2,Charlton Athletic
+424,2015-03-07 15:00:00,Derby County,2,2,Birmingham City
+425,2015-03-07 15:00:00,Huddersfield Town,0,2,Rotherham United
+426,2015-03-07 15:00:00,Ipswich Town,1,1,Brentford
+427,2015-03-07 15:00:00,Millwall,1,4,Norwich City
+428,2015-03-07 15:00:00,Nottingham Forest,2,1,Middlesbrough
+429,2015-03-07 15:00:00,Wigan Athletic,0,1,Leeds United
+430,2015-03-07 15:00:00,Wolverhampton Wanderers,2,2,Watford
+431,2015-03-10 20:00:00,Reading,2,1,Brighton & Hove Albion
+432,2015-03-11 19:45:00,Blackburn Rovers,1,0,Bolton Wanderers
+433,2015-03-14 12:15:00,Middlesbrough,4,1,Ipswich Town
+434,2015-03-14 15:00:00,AFC Bournemouth,4,0,Blackpool
+435,2015-03-14 15:00:00,Birmingham City,1,1,Huddersfield Town
+436,2015-03-14 15:00:00,Bolton Wanderers,2,0,Millwall
+437,2015-03-14 15:00:00,Brentford,1,2,Cardiff City
+438,2015-03-14 15:00:00,Brighton & Hove Albion,1,1,Wolverhampton Wanderers
+439,2015-03-14 15:00:00,Charlton Athletic,1,3,Blackburn Rovers
+440,2015-03-14 15:00:00,Leeds United,0,0,Nottingham Forest
+441,2015-03-14 15:00:00,Norwich City,1,1,Derby County
+442,2015-03-14 15:00:00,Rotherham United,1,2,Wigan Athletic
+443,2015-03-14 15:00:00,Sheffield Wednesday,1,1,Fulham
+444,2015-03-14 15:00:00,Watford,4,1,Reading
+445,2015-03-17 19:45:00,Blackburn Rovers,2,3,Brentford
+446,2015-03-17 19:45:00,Blackpool,0,3,Charlton Athletic
+447,2015-03-17 19:45:00,Cardiff City,1,1,AFC Bournemouth
+448,2015-03-17 19:45:00,Derby County,0,1,Middlesbrough
+449,2015-03-17 19:45:00,Huddersfield Town,2,2,Norwich City
+450,2015-03-17 19:45:00,Ipswich Town,1,0,Bolton Wanderers
+451,2015-03-17 19:45:00,Millwall,0,0,Brighton & Hove Albion
+452,2015-03-17 19:45:00,Wigan Athletic,0,2,Watford
+453,2015-03-17 19:45:00,Wolverhampton Wanderers,3,0,Sheffield Wednesday
+454,2015-03-18 19:45:00,Nottingham Forest,2,0,Rotherham United
+455,2015-03-18 20:00:00,Fulham,0,3,Leeds United
+456,2015-03-20 19:45:00,Wolverhampton Wanderers,2,0,Derby County
+457,2015-03-21 12:15:00,AFC Bournemouth,3,0,Middlesbrough
+458,2015-03-21 13:00:00,Brentford,2,2,Millwall
+459,2015-03-21 15:00:00,Blackburn Rovers,0,1,Brighton & Hove Albion
+460,2015-03-21 15:00:00,Blackpool,1,1,Leeds United
+461,2015-03-21 15:00:00,Cardiff City,2,0,Birmingham City
+462,2015-03-21 15:00:00,Charlton Athletic,3,2,Reading
+463,2015-03-21 15:00:00,Huddersfield Town,0,2,Fulham
+464,2015-03-21 15:00:00,Norwich City,3,1,Nottingham Forest
+465,2015-03-21 15:00:00,Rotherham United,2,3,Sheffield Wednesday
+466,2015-03-21 15:00:00,Watford,0,1,Ipswich Town
+467,2015-03-21 15:00:00,Wigan Athletic,1,1,Bolton Wanderers
+468,2015-04-03 15:00:00,Birmingham City,2,1,Rotherham United
+469,2015-04-03 15:00:00,Brighton & Hove Albion,0,1,Norwich City
+470,2015-04-03 15:00:00,Fulham,1,4,Brentford
+471,2015-04-03 15:00:00,Middlesbrough,1,0,Wigan Athletic
+472,2015-04-03 15:00:00,Millwall,2,1,Charlton Athletic
+473,2015-04-03 15:00:00,Nottingham Forest,1,2,Wolverhampton Wanderers
+474,2015-04-03 17:15:00,Ipswich Town,1,1,AFC Bournemouth
+475,2015-04-03 19:45:00,Derby County,2,2,Watford
+476,2015-04-04 15:00:00,Bolton Wanderers,1,1,Blackpool
+477,2015-04-04 15:00:00,Leeds United,0,3,Blackburn Rovers
+478,2015-04-04 15:00:00,Reading,1,1,Cardiff City
+479,2015-04-04 15:00:00,Sheffield Wednesday,1,1,Huddersfield Town
+480,2015-04-06 12:30:00,Watford,2,0,Middlesbrough
+481,2015-04-06 15:00:00,AFC Bournemouth,4,2,Birmingham City
+482,2015-04-06 15:00:00,Brentford,2,2,Nottingham Forest
+483,2015-04-06 15:00:00,Cardiff City,0,3,Bolton Wanderers
+484,2015-04-06 15:00:00,Huddersfield Town,2,1,Ipswich Town
+485,2015-04-06 15:00:00,Norwich City,2,0,Sheffield Wednesday
+486,2015-04-06 15:00:00,Rotherham United,1,0,Brighton & Hove Albion
+487,2015-04-06 15:00:00,Wigan Athletic,0,2,Derby County
+488,2015-04-06 17:15:00,Wolverhampton Wanderers,4,3,Leeds United
+489,2015-04-07 19:45:00,Blackpool,1,1,Reading
+490,2015-04-07 19:45:00,Charlton Athletic,1,1,Fulham
+491,2015-04-10 19:45:00,Brighton & Hove Albion,0,2,AFC Bournemouth
+492,2015-04-10 20:00:00,Fulham,2,2,Wigan Athletic
+493,2015-04-11 12:15:00,Derby County,1,1,Brentford
+494,2015-04-11 15:00:00,Birmingham City,2,1,Wolverhampton Wanderers
+495,2015-04-11 15:00:00,Bolton Wanderers,1,2,Norwich City
+496,2015-04-11 15:00:00,Ipswich Town,3,2,Blackpool
+497,2015-04-11 15:00:00,Leeds United,1,2,Cardiff City
+498,2015-04-11 15:00:00,Middlesbrough,2,0,Rotherham United
+499,2015-04-11 15:00:00,Millwall,0,2,Watford
+500,2015-04-11 15:00:00,Nottingham Forest,0,1,Huddersfield Town
+501,2015-04-11 15:00:00,Reading,0,0,Blackburn Rovers
+502,2015-04-11 15:00:00,Sheffield Wednesday,1,1,Charlton Athletic
+503,2015-04-14 19:45:00,Birmingham City,2,2,Blackburn Rovers
+504,2015-04-14 19:45:00,Brighton & Hove Albion,0,0,Huddersfield Town
+505,2015-04-14 19:45:00,Derby County,4,0,Blackpool
+506,2015-04-14 19:45:00,Ipswich Town,3,1,Cardiff City
+507,2015-04-14 19:45:00,Leeds United,0,2,Norwich City
+508,2015-04-14 19:45:00,Middlesbrough,2,1,Wolverhampton Wanderers
+509,2015-04-14 19:45:00,Millwall,2,0,Wigan Athletic
+510,2015-04-14 19:45:00,Sheffield Wednesday,1,0,Brentford
+511,2015-04-14 20:00:00,Bolton Wanderers,1,1,Charlton Athletic
+512,2015-04-14 20:00:00,Reading,0,1,AFC Bournemouth
+513,2015-04-15 19:45:00,Nottingham Forest,1,3,Watford
+514,2015-04-15 20:00:00,Fulham,1,1,Rotherham United
+515,2015-04-17 19:45:00,Norwich City,0,1,Middlesbrough
+516,2015-04-18 12:15:00,Wolverhampton Wanderers,1,1,Ipswich Town
+517,2015-04-18 15:00:00,AFC Bournemouth,2,2,Sheffield Wednesday
+518,2015-04-18 15:00:00,Blackburn Rovers,3,3,Nottingham Forest
+519,2015-04-18 15:00:00,Blackpool,0,1,Fulham
+520,2015-04-18 15:00:00,Brentford,2,2,Bolton Wanderers
+521,2015-04-18 15:00:00,Cardiff City,0,0,Millwall
+522,2015-04-18 15:00:00,Charlton Athletic,2,1,Leeds United
+523,2015-04-18 15:00:00,Huddersfield Town,4,4,Derby County
+524,2015-04-18 15:00:00,Watford,1,0,Birmingham City
+525,2015-04-18 15:00:00,Wigan Athletic,2,1,Brighton & Hove Albion
+526,2015-04-21 19:45:00,Blackburn Rovers,2,0,Millwall
+527,2015-04-22 20:00:00,Reading,0,1,Birmingham City
+528,2015-04-25 12:15:00,Brighton & Hove Albion,0,2,Watford
+529,2015-04-25 12:30:00,Sheffield Wednesday,1,2,Leeds United
+530,2015-04-25 15:00:00,Birmingham City,1,0,Charlton Athletic
+531,2015-04-25 15:00:00,Cardiff City,3,2,Blackpool
+532,2015-04-25 15:00:00,Fulham,4,3,Middlesbrough
+533,2015-04-25 15:00:00,Huddersfield Town,2,2,Blackburn Rovers
+534,2015-04-25 15:00:00,Ipswich Town,2,1,Nottingham Forest
+535,2015-04-25 15:00:00,Millwall,3,3,Derby County
+536,2015-04-25 15:00:00,Reading,0,2,Brentford
+537,2015-04-25 15:00:00,Rotherham United,1,1,Norwich City
+538,2015-04-25 15:00:00,Wigan Athletic,0,1,Wolverhampton Wanderers
+539,2015-04-27 19:45:00,AFC Bournemouth,3,0,Bolton Wanderers
+540,2015-04-28 19:45:00,Rotherham United,2,1,Reading
+541,2015-05-02 12:15:00,Blackburn Rovers,3,2,Ipswich Town
+542,2015-05-02 12:15:00,Blackpool,0,0,Huddersfield Town
+543,2015-05-02 12:15:00,Bolton Wanderers,0,1,Birmingham City
+544,2015-05-02 12:15:00,Brentford,3,0,Wigan Athletic
+545,2015-05-02 12:15:00,Charlton Athletic,0,3,AFC Bournemouth
+546,2015-05-02 12:15:00,Derby County,0,3,Reading
+547,2015-05-02 12:15:00,Leeds United,0,0,Rotherham United
+548,2015-05-02 12:15:00,Middlesbrough,0,0,Brighton & Hove Albion
+549,2015-05-02 12:15:00,Norwich City,4,2,Fulham
+550,2015-05-02 12:15:00,Nottingham Forest,1,2,Cardiff City
+551,2015-05-02 12:15:00,Watford,1,1,Sheffield Wednesday
+552,2015-05-02 12:15:00,Wolverhampton Wanderers,4,2,Millwall
+553,2015-05-08 19:45:00,Brentford,1,2,Middlesbrough
+554,2015-05-09 12:15:00,Ipswich Town,1,1,Norwich City
+555,2015-05-15 19:45:00,Middlesbrough,3,0,Brentford
+556,2015-05-16 12:15:00,Norwich City,3,1,Ipswich Town
+557,2015-05-25 15:00:00,Middlesbrough,0,2,Norwich City

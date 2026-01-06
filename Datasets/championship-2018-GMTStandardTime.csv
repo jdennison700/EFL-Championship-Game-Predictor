@@ -1,0 +1,558 @@
+Match Number,Date,Home Team,Home Score,Away Score,Away Team
+1,2018-08-03 20:00:00,Reading,1,2,Derby County
+2,2018-08-04 15:00:00,Birmingham City,2,2,Norwich City
+3,2018-08-04 15:00:00,Brentford,5,1,Rotherham United
+4,2018-08-04 15:00:00,Bristol City,1,1,Nottingham Forest
+5,2018-08-04 15:00:00,Ipswich Town,2,2,Blackburn Rovers
+6,2018-08-04 15:00:00,Millwall,2,2,Middlesbrough
+7,2018-08-04 15:00:00,Preston North End,1,0,Queens Park Rangers
+8,2018-08-04 15:00:00,West Bromwich Albion,1,2,Bolton Wanderers
+9,2018-08-04 15:00:00,Wigan Athletic,3,2,Sheffield Wednesday
+10,2018-08-04 17:30:00,Sheffield United,1,2,Swansea City
+11,2018-08-05 16:30:00,Leeds United,3,1,Stoke City
+12,2018-08-06 19:45:00,Hull City,1,3,Aston Villa
+13,2018-08-07 19:45:00,Middlesbrough,3,0,Sheffield United
+14,2018-08-07 19:45:00,Nottingham Forest,1,1,West Bromwich Albion
+15,2018-08-11 15:00:00,Aston Villa,3,2,Wigan Athletic
+16,2018-08-11 15:00:00,Blackburn Rovers,0,0,Millwall
+17,2018-08-11 15:00:00,Bolton Wanderers,2,2,Bristol City
+18,2018-08-11 15:00:00,Middlesbrough,1,0,Birmingham City
+19,2018-08-11 15:00:00,Norwich City,3,4,West Bromwich Albion
+20,2018-08-11 15:00:00,Nottingham Forest,1,0,Reading
+21,2018-08-11 15:00:00,Queens Park Rangers,1,2,Sheffield United
+22,2018-08-11 15:00:00,Rotherham United,1,0,Ipswich Town
+23,2018-08-11 15:00:00,Sheffield Wednesday,1,1,Hull City
+24,2018-08-11 15:00:00,Stoke City,1,1,Brentford
+25,2018-08-11 15:00:00,Swansea City,1,0,Preston North End
+26,2018-08-11 17:30:00,Derby County,1,4,Leeds United
+27,2018-08-17 19:45:00,Birmingham City,0,0,Swansea City
+28,2018-08-18 15:00:00,Bristol City,0,2,Middlesbrough
+29,2018-08-18 15:00:00,Hull City,0,1,Blackburn Rovers
+30,2018-08-18 15:00:00,Ipswich Town,1,1,Aston Villa
+31,2018-08-18 15:00:00,Leeds United,2,0,Rotherham United
+32,2018-08-18 15:00:00,Millwall,2,1,Derby County
+33,2018-08-18 15:00:00,Reading,0,1,Bolton Wanderers
+34,2018-08-18 15:00:00,Sheffield United,2,1,Norwich City
+35,2018-08-18 15:00:00,West Bromwich Albion,7,1,Queens Park Rangers
+36,2018-08-18 15:00:00,Wigan Athletic,2,2,Nottingham Forest
+37,2018-08-18 17:30:00,Preston North End,2,2,Stoke City
+38,2018-08-19 15:00:00,Brentford,2,0,Sheffield Wednesday
+39,2018-08-21 19:45:00,Derby County,2,0,Ipswich Town
+40,2018-08-21 19:45:00,Queens Park Rangers,0,3,Bristol City
+41,2018-08-21 19:45:00,Rotherham United,2,3,Hull City
+42,2018-08-21 19:45:00,Swansea City,2,2,Leeds United
+43,2018-08-22 19:45:00,Aston Villa,2,2,Brentford
+44,2018-08-22 19:45:00,Blackburn Rovers,2,2,Reading
+45,2018-08-22 19:45:00,Norwich City,2,0,Preston North End
+46,2018-08-22 19:45:00,Sheffield Wednesday,2,1,Millwall
+47,2018-08-22 20:00:00,Bolton Wanderers,1,0,Birmingham City
+48,2018-08-22 20:00:00,Stoke City,0,3,Wigan Athletic
+49,2018-08-24 19:45:00,Middlesbrough,1,0,West Bromwich Albion
+50,2018-08-25 15:00:00,Aston Villa,1,1,Reading
+51,2018-08-25 15:00:00,Blackburn Rovers,1,0,Brentford
+52,2018-08-25 15:00:00,Bolton Wanderers,0,3,Sheffield United
+53,2018-08-25 15:00:00,Derby County,2,0,Preston North End
+54,2018-08-25 15:00:00,Norwich City,0,3,Leeds United
+55,2018-08-25 15:00:00,Queens Park Rangers,1,0,Wigan Athletic
+56,2018-08-25 15:00:00,Sheffield Wednesday,2,1,Ipswich Town
+57,2018-08-25 15:00:00,Stoke City,2,0,Hull City
+58,2018-08-25 15:00:00,Swansea City,0,1,Bristol City
+59,2018-08-25 17:30:00,Nottingham Forest,2,2,Birmingham City
+60,2018-08-26 12:30:00,Rotherham United,1,0,Millwall
+61,2018-08-31 19:45:00,Leeds United,0,0,Middlesbrough
+62,2018-09-01 15:00:00,Birmingham City,0,0,Queens Park Rangers
+63,2018-09-01 15:00:00,Brentford,2,1,Nottingham Forest
+64,2018-09-01 15:00:00,Hull City,1,2,Derby County
+65,2018-09-01 15:00:00,Preston North End,2,2,Bolton Wanderers
+66,2018-09-01 15:00:00,Reading,1,2,Sheffield Wednesday
+67,2018-09-01 15:00:00,Sheffield United,4,1,Aston Villa
+68,2018-09-01 15:00:00,West Bromwich Albion,2,1,Stoke City
+69,2018-09-01 15:00:00,Wigan Athletic,1,0,Rotherham United
+70,2018-09-01 17:30:00,Millwall,1,2,Swansea City
+71,2018-09-02 12:00:00,Ipswich Town,1,1,Norwich City
+72,2018-09-02 13:30:00,Bristol City,4,1,Blackburn Rovers
+73,2018-09-14 19:45:00,Birmingham City,1,1,West Bromwich Albion
+74,2018-09-15 15:00:00,Bolton Wanderers,1,2,Queens Park Rangers
+75,2018-09-15 15:00:00,Brentford,2,0,Wigan Athletic
+76,2018-09-15 15:00:00,Bristol City,1,0,Sheffield United
+77,2018-09-15 15:00:00,Hull City,2,0,Ipswich Town
+78,2018-09-15 15:00:00,Millwall,1,1,Leeds United
+79,2018-09-15 15:00:00,Norwich City,1,0,Middlesbrough
+80,2018-09-15 15:00:00,Preston North End,2,3,Reading
+81,2018-09-15 15:00:00,Rotherham United,1,0,Derby County
+82,2018-09-15 15:00:00,Sheffield Wednesday,2,2,Stoke City
+83,2018-09-15 15:00:00,Swansea City,0,0,Nottingham Forest
+84,2018-09-15 17:30:00,Blackburn Rovers,1,1,Aston Villa
+85,2018-09-18 19:45:00,Aston Villa,2,0,Rotherham United
+86,2018-09-18 19:45:00,Derby County,0,0,Blackburn Rovers
+87,2018-09-18 19:45:00,Ipswich Town,1,1,Brentford
+88,2018-09-18 19:45:00,Leeds United,3,0,Preston North End
+89,2018-09-18 19:45:00,Wigan Athletic,2,1,Hull City
+90,2018-09-18 20:00:00,Stoke City,1,0,Swansea City
+91,2018-09-18 20:00:00,West Bromwich Albion,4,2,Bristol City
+92,2018-09-19 19:45:00,Middlesbrough,2,0,Bolton Wanderers
+93,2018-09-19 19:45:00,Nottingham Forest,2,1,Sheffield Wednesday
+94,2018-09-19 19:45:00,Queens Park Rangers,2,0,Millwall
+95,2018-09-19 19:45:00,Sheffield United,0,0,Birmingham City
+96,2018-09-19 20:00:00,Reading,1,2,Norwich City
+97,2018-09-21 19:45:00,Wigan Athletic,1,0,Bristol City
+98,2018-09-22 15:00:00,Aston Villa,1,2,Sheffield Wednesday
+99,2018-09-22 15:00:00,Derby County,3,1,Brentford
+100,2018-09-22 15:00:00,Ipswich Town,0,0,Bolton Wanderers
+101,2018-09-22 15:00:00,Leeds United,1,2,Birmingham City
+102,2018-09-22 15:00:00,Middlesbrough,0,0,Swansea City
+103,2018-09-22 15:00:00,Nottingham Forest,1,0,Rotherham United
+104,2018-09-22 15:00:00,Reading,3,0,Hull City
+105,2018-09-22 15:00:00,Sheffield United,3,2,Preston North End
+106,2018-09-22 15:00:00,Stoke City,2,3,Blackburn Rovers
+107,2018-09-22 15:00:00,West Bromwich Albion,2,0,Millwall
+108,2018-09-22 17:30:00,Queens Park Rangers,0,1,Norwich City
+109,2018-09-28 19:45:00,Sheffield Wednesday,1,1,Leeds United
+110,2018-09-28 20:00:00,Bristol City,1,1,Aston Villa
+111,2018-09-29 15:00:00,Birmingham City,2,2,Ipswich Town
+112,2018-09-29 15:00:00,Blackburn Rovers,2,2,Nottingham Forest
+113,2018-09-29 15:00:00,Bolton Wanderers,1,0,Derby County
+114,2018-09-29 15:00:00,Brentford,2,2,Reading
+115,2018-09-29 15:00:00,Hull City,1,1,Middlesbrough
+116,2018-09-29 15:00:00,Millwall,2,3,Sheffield United
+117,2018-09-29 15:00:00,Norwich City,1,0,Wigan Athletic
+118,2018-09-29 15:00:00,Preston North End,2,3,West Bromwich Albion
+119,2018-09-29 15:00:00,Swansea City,3,0,Queens Park Rangers
+120,2018-09-29 17:30:00,Rotherham United,2,2,Stoke City
+121,2018-10-02 19:45:00,Aston Villa,3,3,Preston North End
+122,2018-10-02 19:45:00,Brentford,1,1,Birmingham City
+123,2018-10-02 19:45:00,Hull City,0,1,Leeds United
+124,2018-10-02 19:45:00,Ipswich Town,0,2,Middlesbrough
+125,2018-10-02 19:45:00,Wigan Athletic,0,0,Swansea City
+126,2018-10-02 20:00:00,Reading,0,1,Queens Park Rangers
+127,2018-10-02 20:00:00,Stoke City,2,0,Bolton Wanderers
+128,2018-10-03 19:45:00,Blackburn Rovers,0,2,Sheffield United
+129,2018-10-03 19:45:00,Derby County,1,1,Norwich City
+130,2018-10-03 19:45:00,Nottingham Forest,2,2,Millwall
+131,2018-10-03 19:45:00,Rotherham United,0,0,Bristol City
+132,2018-10-03 19:45:00,Sheffield Wednesday,2,2,West Bromwich Albion
+133,2018-10-06 12:30:00,Leeds United,1,1,Brentford
+134,2018-10-06 15:00:00,Birmingham City,3,1,Rotherham United
+135,2018-10-06 15:00:00,Middlesbrough,0,2,Nottingham Forest
+136,2018-10-06 15:00:00,Millwall,2,1,Aston Villa
+137,2018-10-06 15:00:00,Norwich City,0,1,Stoke City
+138,2018-10-06 15:00:00,Preston North End,4,0,Wigan Athletic
+139,2018-10-06 15:00:00,Queens Park Rangers,1,1,Derby County
+140,2018-10-06 15:00:00,Sheffield United,1,0,Hull City
+141,2018-10-06 15:00:00,Swansea City,2,3,Ipswich Town
+142,2018-10-06 15:00:00,West Bromwich Albion,4,1,Reading
+143,2018-10-06 17:30:00,Bolton Wanderers,0,1,Blackburn Rovers
+144,2018-10-07 13:30:00,Bristol City,1,2,Sheffield Wednesday
+145,2018-10-19 19:45:00,Sheffield Wednesday,1,2,Middlesbrough
+146,2018-10-20 12:00:00,Blackburn Rovers,2,1,Leeds United
+147,2018-10-20 15:00:00,Aston Villa,1,0,Swansea City
+148,2018-10-20 15:00:00,Brentford,0,1,Bristol City
+149,2018-10-20 15:00:00,Hull City,1,1,Preston North End
+150,2018-10-20 15:00:00,Ipswich Town,0,2,Queens Park Rangers
+151,2018-10-20 15:00:00,Nottingham Forest,1,2,Norwich City
+152,2018-10-20 15:00:00,Reading,3,1,Millwall
+153,2018-10-20 15:00:00,Rotherham United,1,1,Bolton Wanderers
+154,2018-10-20 15:00:00,Stoke City,0,1,Birmingham City
+155,2018-10-20 15:00:00,Wigan Athletic,1,0,West Bromwich Albion
+156,2018-10-20 17:30:00,Derby County,2,1,Sheffield United
+157,2018-10-23 19:45:00,Birmingham City,2,1,Reading
+158,2018-10-23 19:45:00,Middlesbrough,0,0,Rotherham United
+159,2018-10-23 19:45:00,Millwall,2,1,Wigan Athletic
+160,2018-10-23 19:45:00,Norwich City,2,1,Aston Villa
+161,2018-10-23 19:45:00,Queens Park Rangers,3,0,Sheffield Wednesday
+162,2018-10-23 19:45:00,Sheffield United,1,1,Stoke City
+163,2018-10-23 19:45:00,Swansea City,3,1,Blackburn Rovers
+164,2018-10-24 19:45:00,Bristol City,1,0,Hull City
+165,2018-10-24 19:45:00,Leeds United,2,0,Ipswich Town
+166,2018-10-24 19:45:00,Preston North End,4,3,Brentford
+167,2018-10-24 20:00:00,Bolton Wanderers,0,3,Nottingham Forest
+168,2018-10-24 20:00:00,West Bromwich Albion,1,4,Derby County
+169,2018-10-26 19:45:00,Queens Park Rangers,1,0,Aston Villa
+170,2018-10-27 12:30:00,Middlesbrough,1,1,Derby County
+171,2018-10-27 15:00:00,Birmingham City,3,1,Sheffield Wednesday
+172,2018-10-27 15:00:00,Bolton Wanderers,0,1,Hull City
+173,2018-10-27 15:00:00,Bristol City,0,1,Stoke City
+174,2018-10-27 15:00:00,Millwall,3,0,Ipswich Town
+175,2018-10-27 15:00:00,Norwich City,1,0,Brentford
+176,2018-10-27 15:00:00,Preston North End,1,1,Rotherham United
+177,2018-10-27 15:00:00,Sheffield United,4,2,Wigan Athletic
+178,2018-10-27 15:00:00,Swansea City,2,0,Reading
+179,2018-10-27 15:00:00,West Bromwich Albion,1,1,Blackburn Rovers
+180,2018-10-27 17:30:00,Leeds United,1,1,Nottingham Forest
+181,2018-11-02 19:45:00,Aston Villa,2,0,Bolton Wanderers
+182,2018-11-03 15:00:00,Blackburn Rovers,1,0,Queens Park Rangers
+183,2018-11-03 15:00:00,Brentford,2,0,Millwall
+184,2018-11-03 15:00:00,Derby County,3,1,Birmingham City
+185,2018-11-03 15:00:00,Hull City,1,0,West Bromwich Albion
+186,2018-11-03 15:00:00,Ipswich Town,1,1,Preston North End
+187,2018-11-03 15:00:00,Nottingham Forest,1,0,Sheffield United
+188,2018-11-03 15:00:00,Reading,3,2,Bristol City
+189,2018-11-03 15:00:00,Rotherham United,2,1,Swansea City
+190,2018-11-03 15:00:00,Sheffield Wednesday,0,4,Norwich City
+191,2018-11-03 17:30:00,Stoke City,0,0,Middlesbrough
+192,2018-11-04 13:30:00,Wigan Athletic,1,2,Leeds United
+193,2018-11-09 19:45:00,Sheffield United,0,0,Sheffield Wednesday
+194,2018-11-10 15:00:00,Birmingham City,3,3,Hull City
+195,2018-11-10 15:00:00,Blackburn Rovers,1,1,Rotherham United
+196,2018-11-10 15:00:00,Bolton Wanderers,0,1,Swansea City
+197,2018-11-10 15:00:00,Bristol City,0,1,Preston North End
+198,2018-11-10 15:00:00,Derby County,0,3,Aston Villa
+199,2018-11-10 15:00:00,Middlesbrough,2,0,Wigan Athletic
+200,2018-11-10 15:00:00,Norwich City,4,3,Millwall
+201,2018-11-10 15:00:00,Nottingham Forest,0,0,Stoke City
+202,2018-11-10 15:00:00,Queens Park Rangers,3,2,Brentford
+203,2018-11-10 15:00:00,Reading,2,2,Ipswich Town
+204,2018-11-10 17:30:00,West Bromwich Albion,4,1,Leeds United
+205,2018-11-23 19:45:00,Ipswich Town,1,2,West Bromwich Albion
+206,2018-11-24 12:30:00,Rotherham United,2,2,Sheffield United
+207,2018-11-24 15:00:00,Hull City,0,2,Nottingham Forest
+208,2018-11-24 15:00:00,Leeds United,2,0,Bristol City
+209,2018-11-24 15:00:00,Millwall,1,1,Bolton Wanderers
+210,2018-11-24 15:00:00,Preston North End,4,1,Blackburn Rovers
+211,2018-11-24 15:00:00,Sheffield Wednesday,1,2,Derby County
+212,2018-11-24 15:00:00,Stoke City,2,2,Queens Park Rangers
+213,2018-11-24 15:00:00,Swansea City,1,4,Norwich City
+214,2018-11-24 15:00:00,Wigan Athletic,0,0,Reading
+215,2018-11-24 17:30:00,Brentford,1,2,Middlesbrough
+216,2018-11-25 12:00:00,Aston Villa,4,2,Birmingham City
+217,2018-11-27 19:45:00,Brentford,2,3,Sheffield United
+218,2018-11-27 19:45:00,Hull City,0,0,Norwich City
+219,2018-11-27 19:45:00,Leeds United,1,0,Reading
+220,2018-11-27 19:45:00,Preston North End,1,1,Middlesbrough
+221,2018-11-27 19:45:00,Rotherham United,2,2,Queens Park Rangers
+222,2018-11-27 19:45:00,Sheffield Wednesday,1,0,Bolton Wanderers
+223,2018-11-28 19:45:00,Aston Villa,5,5,Nottingham Forest
+224,2018-11-28 19:45:00,Ipswich Town,2,3,Bristol City
+225,2018-11-28 19:45:00,Millwall,0,2,Birmingham City
+226,2018-11-28 19:45:00,Swansea City,1,2,West Bromwich Albion
+227,2018-11-28 19:45:00,Wigan Athletic,3,1,Blackburn Rovers
+228,2018-11-28 20:00:00,Stoke City,2,1,Derby County
+229,2018-12-01 12:30:00,Sheffield United,0,1,Leeds United
+230,2018-12-01 15:00:00,Birmingham City,3,0,Preston North End
+231,2018-12-01 15:00:00,Blackburn Rovers,4,2,Sheffield Wednesday
+232,2018-12-01 15:00:00,Bolton Wanderers,1,1,Wigan Athletic
+233,2018-12-01 15:00:00,Derby County,2,1,Swansea City
+234,2018-12-01 15:00:00,Norwich City,3,1,Rotherham United
+235,2018-12-01 15:00:00,Nottingham Forest,2,0,Ipswich Town
+236,2018-12-01 15:00:00,Queens Park Rangers,2,3,Hull City
+237,2018-12-01 15:00:00,Reading,2,2,Stoke City
+238,2018-12-01 17:30:00,Middlesbrough,0,3,Aston Villa
+239,2018-12-02 13:30:00,Bristol City,1,1,Millwall
+240,2018-12-03 20:00:00,West Bromwich Albion,1,1,Brentford
+241,2018-12-07 20:00:00,West Bromwich Albion,2,2,Aston Villa
+242,2018-12-08 15:00:00,Birmingham City,0,1,Bristol City
+243,2018-12-08 15:00:00,Brentford,2,3,Swansea City
+244,2018-12-08 15:00:00,Leeds United,2,1,Queens Park Rangers
+245,2018-12-08 15:00:00,Middlesbrough,1,1,Blackburn Rovers
+246,2018-12-08 15:00:00,Millwall,2,2,Hull City
+247,2018-12-08 15:00:00,Norwich City,3,2,Bolton Wanderers
+248,2018-12-08 15:00:00,Nottingham Forest,0,1,Preston North End
+249,2018-12-08 15:00:00,Sheffield Wednesday,2,2,Rotherham United
+250,2018-12-08 15:00:00,Stoke City,2,0,Ipswich Town
+251,2018-12-08 15:00:00,Wigan Athletic,0,1,Derby County
+252,2018-12-08 17:30:00,Reading,0,2,Sheffield United
+253,2018-12-14 19:45:00,Sheffield United,1,2,West Bromwich Albion
+254,2018-12-15 15:00:00,Aston Villa,2,2,Stoke City
+255,2018-12-15 15:00:00,Blackburn Rovers,2,2,Birmingham City
+256,2018-12-15 15:00:00,Bolton Wanderers,0,1,Leeds United
+257,2018-12-15 15:00:00,Hull City,2,0,Brentford
+258,2018-12-15 15:00:00,Ipswich Town,1,0,Wigan Athletic
+259,2018-12-15 15:00:00,Preston North End,3,2,Millwall
+260,2018-12-15 15:00:00,Queens Park Rangers,2,1,Middlesbrough
+261,2018-12-15 15:00:00,Rotherham United,1,1,Reading
+262,2018-12-15 15:00:00,Swansea City,2,1,Sheffield Wednesday
+263,2018-12-15 17:30:00,Bristol City,2,2,Norwich City
+264,2018-12-17 19:45:00,Derby County,0,0,Nottingham Forest
+265,2018-12-22 15:00:00,Blackburn Rovers,0,1,Norwich City
+266,2018-12-22 15:00:00,Brentford,1,0,Bolton Wanderers
+267,2018-12-22 15:00:00,Derby County,1,1,Bristol City
+268,2018-12-22 15:00:00,Ipswich Town,1,1,Sheffield United
+269,2018-12-22 15:00:00,Nottingham Forest,0,1,Queens Park Rangers
+270,2018-12-22 15:00:00,Reading,0,1,Middlesbrough
+271,2018-12-22 15:00:00,Rotherham United,0,4,West Bromwich Albion
+272,2018-12-22 15:00:00,Sheffield Wednesday,1,0,Preston North End
+273,2018-12-22 15:00:00,Stoke City,1,0,Millwall
+274,2018-12-22 15:00:00,Wigan Athletic,0,3,Birmingham City
+275,2018-12-22 17:30:00,Hull City,3,2,Swansea City
+276,2018-12-23 13:30:00,Aston Villa,2,3,Leeds United
+277,2018-12-26 15:00:00,Birmingham City,2,0,Stoke City
+278,2018-12-26 15:00:00,Bolton Wanderers,2,1,Rotherham United
+279,2018-12-26 15:00:00,Bristol City,1,1,Brentford
+280,2018-12-26 15:00:00,Leeds United,3,2,Blackburn Rovers
+281,2018-12-26 15:00:00,Middlesbrough,0,1,Sheffield Wednesday
+282,2018-12-26 15:00:00,Millwall,1,0,Reading
+283,2018-12-26 15:00:00,Norwich City,3,3,Nottingham Forest
+284,2018-12-26 15:00:00,Preston North End,1,2,Hull City
+285,2018-12-26 15:00:00,Queens Park Rangers,3,0,Ipswich Town
+286,2018-12-26 15:00:00,Sheffield United,3,1,Derby County
+287,2018-12-26 15:00:00,Swansea City,0,1,Aston Villa
+288,2018-12-26 15:00:00,West Bromwich Albion,2,0,Wigan Athletic
+289,2018-12-29 15:00:00,Birmingham City,0,0,Brentford
+290,2018-12-29 15:00:00,Bolton Wanderers,0,0,Stoke City
+291,2018-12-29 15:00:00,Bristol City,1,0,Rotherham United
+292,2018-12-29 15:00:00,Leeds United,0,2,Hull City
+293,2018-12-29 15:00:00,Middlesbrough,2,0,Ipswich Town
+294,2018-12-29 15:00:00,Millwall,1,0,Nottingham Forest
+295,2018-12-29 15:00:00,Norwich City,3,4,Derby County
+296,2018-12-29 15:00:00,Preston North End,1,1,Aston Villa
+297,2018-12-29 15:00:00,Queens Park Rangers,0,0,Reading
+298,2018-12-29 15:00:00,Sheffield United,3,0,Blackburn Rovers
+299,2018-12-29 15:00:00,Swansea City,2,2,Wigan Athletic
+300,2018-12-29 15:00:00,West Bromwich Albion,1,1,Sheffield Wednesday
+301,2019-01-01 15:00:00,Aston Villa,2,2,Queens Park Rangers
+302,2019-01-01 15:00:00,Blackburn Rovers,2,1,West Bromwich Albion
+303,2019-01-01 15:00:00,Brentford,1,1,Norwich City
+304,2019-01-01 15:00:00,Derby County,1,1,Middlesbrough
+305,2019-01-01 15:00:00,Hull City,6,0,Bolton Wanderers
+306,2019-01-01 15:00:00,Ipswich Town,2,3,Millwall
+307,2019-01-01 15:00:00,Nottingham Forest,4,2,Leeds United
+308,2019-01-01 15:00:00,Reading,1,4,Swansea City
+309,2019-01-01 15:00:00,Rotherham United,2,1,Preston North End
+310,2019-01-01 15:00:00,Sheffield Wednesday,1,1,Birmingham City
+311,2019-01-01 15:00:00,Stoke City,0,2,Bristol City
+312,2019-01-01 15:00:00,Wigan Athletic,0,3,Sheffield United
+313,2019-01-11 19:45:00,Leeds United,2,0,Derby County
+314,2019-01-12 15:00:00,Birmingham City,1,2,Middlesbrough
+315,2019-01-12 15:00:00,Brentford,3,1,Stoke City
+316,2019-01-12 15:00:00,Bristol City,2,1,Bolton Wanderers
+317,2019-01-12 15:00:00,Hull City,3,0,Sheffield Wednesday
+318,2019-01-12 15:00:00,Ipswich Town,1,0,Rotherham United
+319,2019-01-12 15:00:00,Preston North End,1,1,Swansea City
+320,2019-01-12 15:00:00,Reading,2,0,Nottingham Forest
+321,2019-01-12 15:00:00,Sheffield United,1,0,Queens Park Rangers
+322,2019-01-12 15:00:00,West Bromwich Albion,1,1,Norwich City
+323,2019-01-12 15:00:00,Wigan Athletic,3,0,Aston Villa
+324,2019-01-12 17:30:00,Millwall,0,2,Blackburn Rovers
+325,2019-01-18 19:45:00,Norwich City,3,1,Birmingham City
+326,2019-01-19 15:00:00,Aston Villa,2,2,Hull City
+327,2019-01-19 15:00:00,Blackburn Rovers,2,0,Ipswich Town
+328,2019-01-19 15:00:00,Derby County,2,1,Reading
+329,2019-01-19 15:00:00,Middlesbrough,1,1,Millwall
+330,2019-01-19 15:00:00,Nottingham Forest,0,1,Bristol City
+331,2019-01-19 15:00:00,Queens Park Rangers,1,4,Preston North End
+332,2019-01-19 15:00:00,Rotherham United,2,4,Brentford
+333,2019-01-19 15:00:00,Sheffield Wednesday,1,0,Wigan Athletic
+334,2019-01-19 15:00:00,Stoke City,2,1,Leeds United
+335,2019-01-19 17:30:00,Swansea City,1,0,Sheffield United
+336,2019-01-21 20:00:00,Bolton Wanderers,0,2,West Bromwich Albion
+337,2019-01-26 15:00:00,Aston Villa,2,1,Ipswich Town
+338,2019-01-26 15:00:00,Blackburn Rovers,3,0,Hull City
+339,2019-01-26 15:00:00,Norwich City,2,2,Sheffield United
+340,2019-01-26 15:00:00,Nottingham Forest,3,1,Wigan Athletic
+341,2019-01-26 15:00:00,Rotherham United,1,2,Leeds United
+342,2019-01-26 15:00:00,Stoke City,0,2,Preston North End
+343,2019-01-29 19:45:00,Swansea City,3,3,Birmingham City
+344,2019-01-29 20:00:00,Bolton Wanderers,1,1,Reading
+345,2019-02-01 19:45:00,Preston North End,0,0,Derby County
+346,2019-02-02 15:00:00,Birmingham City,2,0,Nottingham Forest
+347,2019-02-02 15:00:00,Brentford,5,2,Blackburn Rovers
+348,2019-02-02 15:00:00,Bristol City,2,0,Swansea City
+349,2019-02-02 15:00:00,Hull City,2,0,Stoke City
+350,2019-02-02 15:00:00,Ipswich Town,0,1,Sheffield Wednesday
+351,2019-02-02 15:00:00,Millwall,0,0,Rotherham United
+352,2019-02-02 15:00:00,Reading,0,0,Aston Villa
+353,2019-02-02 15:00:00,Sheffield United,2,0,Bolton Wanderers
+354,2019-02-02 15:00:00,West Bromwich Albion,2,3,Middlesbrough
+355,2019-02-02 15:00:00,Wigan Athletic,2,1,Queens Park Rangers
+356,2019-02-02 17:30:00,Leeds United,1,3,Norwich City
+357,2019-02-08 19:45:00,Aston Villa,3,3,Sheffield United
+358,2019-02-09 13:00:00,Middlesbrough,1,1,Leeds United
+359,2019-02-09 15:00:00,Blackburn Rovers,0,1,Bristol City
+360,2019-02-09 15:00:00,Bolton Wanderers,1,2,Preston North End
+361,2019-02-09 15:00:00,Derby County,2,0,Hull City
+362,2019-02-09 15:00:00,Nottingham Forest,2,1,Brentford
+363,2019-02-09 15:00:00,Queens Park Rangers,3,4,Birmingham City
+364,2019-02-09 15:00:00,Rotherham United,1,1,Wigan Athletic
+365,2019-02-09 15:00:00,Sheffield Wednesday,0,0,Reading
+366,2019-02-09 15:00:00,Swansea City,1,0,Millwall
+367,2019-02-09 17:30:00,Stoke City,0,1,West Bromwich Albion
+368,2019-02-10 12:00:00,Norwich City,3,0,Ipswich Town
+369,2019-02-12 19:45:00,Birmingham City,0,1,Bolton Wanderers
+370,2019-02-12 19:45:00,Bristol City,2,1,Queens Park Rangers
+371,2019-02-12 19:45:00,Hull City,2,2,Rotherham United
+372,2019-02-12 19:45:00,Millwall,0,0,Sheffield Wednesday
+373,2019-02-12 20:00:00,West Bromwich Albion,2,2,Nottingham Forest
+374,2019-02-13 19:45:00,Brentford,1,0,Aston Villa
+375,2019-02-13 19:45:00,Ipswich Town,1,1,Derby County
+376,2019-02-13 19:45:00,Leeds United,2,1,Swansea City
+377,2019-02-13 19:45:00,Preston North End,3,1,Norwich City
+378,2019-02-13 19:45:00,Sheffield United,1,0,Middlesbrough
+379,2019-02-13 19:45:00,Wigan Athletic,0,0,Stoke City
+380,2019-02-13 20:00:00,Reading,2,1,Blackburn Rovers
+381,2019-02-16 13:00:00,Rotherham United,2,2,Sheffield Wednesday
+382,2019-02-16 15:00:00,Aston Villa,0,2,West Bromwich Albion
+383,2019-02-16 15:00:00,Bolton Wanderers,0,4,Norwich City
+384,2019-02-16 15:00:00,Ipswich Town,1,1,Stoke City
+385,2019-02-16 15:00:00,Preston North End,0,0,Nottingham Forest
+386,2019-02-16 15:00:00,Sheffield United,4,0,Reading
+387,2019-02-17 13:00:00,Blackburn Rovers,0,1,Middlesbrough
+388,2019-02-19 19:45:00,Queens Park Rangers,2,3,West Bromwich Albion
+389,2019-02-20 19:45:00,Derby County,0,1,Millwall
+390,2019-02-23 15:00:00,Birmingham City,2,2,Blackburn Rovers
+391,2019-02-23 15:00:00,Brentford,5,1,Hull City
+392,2019-02-23 15:00:00,Leeds United,2,1,Bolton Wanderers
+393,2019-02-23 15:00:00,Middlesbrough,2,0,Queens Park Rangers
+394,2019-02-23 15:00:00,Millwall,1,3,Preston North End
+395,2019-02-23 15:00:00,Norwich City,3,2,Bristol City
+396,2019-02-23 15:00:00,Reading,1,1,Rotherham United
+397,2019-02-23 15:00:00,Sheffield Wednesday,3,1,Swansea City
+398,2019-02-23 15:00:00,Stoke City,1,1,Aston Villa
+399,2019-02-23 15:00:00,Wigan Athletic,1,1,Ipswich Town
+400,2019-02-23 17:30:00,West Bromwich Albion,0,1,Sheffield United
+401,2019-02-25 19:45:00,Nottingham Forest,1,0,Derby County
+402,2019-02-26 19:45:00,Bristol City,1,2,Birmingham City
+403,2019-02-26 19:45:00,Hull City,2,1,Millwall
+404,2019-02-26 19:45:00,Queens Park Rangers,1,0,Leeds United
+405,2019-02-26 19:45:00,Sheffield Wednesday,2,0,Brentford
+406,2019-03-01 19:45:00,Leeds United,4,0,West Bromwich Albion
+407,2019-03-02 15:00:00,Aston Villa,4,0,Derby County
+408,2019-03-02 15:00:00,Brentford,3,0,Queens Park Rangers
+409,2019-03-02 15:00:00,Hull City,2,0,Birmingham City
+410,2019-03-02 15:00:00,Ipswich Town,1,2,Reading
+411,2019-03-02 15:00:00,Millwall,1,3,Norwich City
+412,2019-03-02 15:00:00,Preston North End,1,1,Bristol City
+413,2019-03-02 15:00:00,Rotherham United,3,2,Blackburn Rovers
+414,2019-03-02 15:00:00,Stoke City,2,0,Nottingham Forest
+415,2019-03-02 15:00:00,Swansea City,2,0,Bolton Wanderers
+416,2019-03-02 15:00:00,Wigan Athletic,0,0,Middlesbrough
+417,2019-03-04 19:45:00,Sheffield Wednesday,0,0,Sheffield United
+418,2019-03-05 19:45:00,Derby County,2,1,Wigan Athletic
+419,2019-03-08 19:45:00,Norwich City,1,0,Swansea City
+420,2019-03-09 12:00:00,Blackburn Rovers,0,1,Preston North End
+421,2019-03-09 12:15:00,Sheffield United,2,0,Rotherham United
+422,2019-03-09 15:00:00,Bolton Wanderers,2,1,Millwall
+423,2019-03-09 15:00:00,Bristol City,0,1,Leeds United
+424,2019-03-09 15:00:00,Derby County,1,1,Sheffield Wednesday
+425,2019-03-09 15:00:00,Middlesbrough,1,2,Brentford
+426,2019-03-09 15:00:00,Nottingham Forest,3,0,Hull City
+427,2019-03-09 15:00:00,Queens Park Rangers,0,0,Stoke City
+428,2019-03-09 15:00:00,Reading,3,2,Wigan Athletic
+429,2019-03-09 15:00:00,West Bromwich Albion,1,1,Ipswich Town
+430,2019-03-10 12:00:00,Birmingham City,0,1,Aston Villa
+431,2019-03-12 19:45:00,Blackburn Rovers,3,0,Wigan Athletic
+432,2019-03-12 19:45:00,Bristol City,1,1,Ipswich Town
+433,2019-03-12 19:45:00,Sheffield United,2,0,Brentford
+434,2019-03-12 20:00:00,Bolton Wanderers,0,2,Sheffield Wednesday
+435,2019-03-12 20:00:00,Reading,0,3,Leeds United
+436,2019-03-13 19:45:00,Birmingham City,0,2,Millwall
+437,2019-03-13 19:45:00,Derby County,0,0,Stoke City
+438,2019-03-13 19:45:00,Middlesbrough,1,2,Preston North End
+439,2019-03-13 19:45:00,Norwich City,3,2,Hull City
+440,2019-03-13 19:45:00,Nottingham Forest,1,3,Aston Villa
+441,2019-03-13 19:45:00,Queens Park Rangers,1,2,Rotherham United
+442,2019-03-13 20:00:00,West Bromwich Albion,3,0,Swansea City
+443,2019-03-16 12:30:00,Leeds United,0,1,Sheffield United
+444,2019-03-16 15:00:00,Aston Villa,3,0,Middlesbrough
+445,2019-03-16 15:00:00,Brentford,0,1,West Bromwich Albion
+446,2019-03-16 15:00:00,Hull City,2,2,Queens Park Rangers
+447,2019-03-16 15:00:00,Ipswich Town,1,1,Nottingham Forest
+448,2019-03-16 15:00:00,Preston North End,1,0,Birmingham City
+449,2019-03-16 15:00:00,Rotherham United,1,2,Norwich City
+450,2019-03-16 15:00:00,Sheffield Wednesday,4,2,Blackburn Rovers
+451,2019-03-16 15:00:00,Stoke City,0,0,Reading
+452,2019-03-16 15:00:00,Wigan Athletic,5,2,Bolton Wanderers
+453,2019-03-29 20:00:00,West Bromwich Albion,3,2,Birmingham City
+454,2019-03-30 15:00:00,Aston Villa,2,1,Blackburn Rovers
+455,2019-03-30 15:00:00,Derby County,6,1,Rotherham United
+456,2019-03-30 15:00:00,Ipswich Town,0,2,Hull City
+457,2019-03-30 15:00:00,Leeds United,3,2,Millwall
+458,2019-03-30 15:00:00,Nottingham Forest,2,1,Swansea City
+459,2019-03-30 15:00:00,Queens Park Rangers,1,2,Bolton Wanderers
+460,2019-03-30 15:00:00,Reading,2,1,Preston North End
+461,2019-03-30 15:00:00,Sheffield United,2,3,Bristol City
+462,2019-03-30 15:00:00,Stoke City,0,0,Sheffield Wednesday
+463,2019-03-30 15:00:00,Wigan Athletic,0,0,Brentford
+464,2019-03-30 17:30:00,Middlesbrough,0,1,Norwich City
+465,2019-04-02 19:45:00,Middlesbrough,0,1,Bristol City
+466,2019-04-02 19:45:00,Swansea City,3,0,Brentford
+467,2019-04-06 12:30:00,Norwich City,4,0,Queens Park Rangers
+468,2019-04-06 15:00:00,Birmingham City,1,0,Leeds United
+469,2019-04-06 15:00:00,Blackburn Rovers,0,1,Stoke City
+470,2019-04-06 15:00:00,Bolton Wanderers,1,2,Ipswich Town
+471,2019-04-06 15:00:00,Brentford,3,3,Derby County
+472,2019-04-06 15:00:00,Bristol City,2,2,Wigan Athletic
+473,2019-04-06 15:00:00,Hull City,3,1,Reading
+474,2019-04-06 15:00:00,Millwall,2,0,West Bromwich Albion
+475,2019-04-06 15:00:00,Preston North End,0,1,Sheffield United
+476,2019-04-06 15:00:00,Rotherham United,2,1,Nottingham Forest
+477,2019-04-06 15:00:00,Sheffield Wednesday,1,3,Aston Villa
+478,2019-04-06 15:00:00,Swansea City,3,1,Middlesbrough
+479,2019-04-09 19:45:00,Blackburn Rovers,2,0,Derby County
+480,2019-04-09 19:45:00,Bristol City,3,2,West Bromwich Albion
+481,2019-04-09 19:45:00,Preston North End,0,2,Leeds United
+482,2019-04-09 19:45:00,Sheffield Wednesday,3,0,Nottingham Forest
+483,2019-04-09 19:45:00,Swansea City,3,1,Stoke City
+484,2019-04-09 20:00:00,Bolton Wanderers,0,2,Middlesbrough
+485,2019-04-10 19:45:00,Birmingham City,1,1,Sheffield United
+486,2019-04-10 19:45:00,Brentford,2,0,Ipswich Town
+487,2019-04-10 19:45:00,Hull City,2,1,Wigan Athletic
+488,2019-04-10 19:45:00,Millwall,0,0,Queens Park Rangers
+489,2019-04-10 19:45:00,Norwich City,2,2,Reading
+490,2019-04-10 19:45:00,Rotherham United,1,2,Aston Villa
+491,2019-04-13 15:00:00,Aston Villa,2,1,Bristol City
+492,2019-04-13 15:00:00,Derby County,4,0,Bolton Wanderers
+493,2019-04-13 15:00:00,Ipswich Town,1,1,Birmingham City
+494,2019-04-13 15:00:00,Middlesbrough,1,0,Hull City
+495,2019-04-13 15:00:00,Nottingham Forest,1,2,Blackburn Rovers
+496,2019-04-13 15:00:00,Queens Park Rangers,4,0,Swansea City
+497,2019-04-13 15:00:00,Reading,2,1,Brentford
+498,2019-04-13 15:00:00,Sheffield United,1,1,Millwall
+499,2019-04-13 15:00:00,Stoke City,2,2,Rotherham United
+500,2019-04-13 15:00:00,West Bromwich Albion,4,1,Preston North End
+501,2019-04-13 17:30:00,Leeds United,1,0,Sheffield Wednesday
+502,2019-04-14 12:00:00,Wigan Athletic,1,1,Norwich City
+503,2019-04-19 12:00:00,Bristol City,1,1,Reading
+504,2019-04-19 12:30:00,Sheffield United,2,0,Nottingham Forest
+505,2019-04-19 13:00:00,Millwall,1,1,Brentford
+506,2019-04-19 15:00:00,Birmingham City,2,2,Derby County
+507,2019-04-19 15:00:00,Bolton Wanderers,0,2,Aston Villa
+508,2019-04-19 15:00:00,Leeds United,1,2,Wigan Athletic
+509,2019-04-19 15:00:00,Middlesbrough,1,0,Stoke City
+510,2019-04-19 15:00:00,Preston North End,4,0,Ipswich Town
+511,2019-04-19 15:00:00,Queens Park Rangers,1,2,Blackburn Rovers
+512,2019-04-19 15:00:00,Swansea City,4,3,Rotherham United
+513,2019-04-19 15:00:00,West Bromwich Albion,3,2,Hull City
+514,2019-04-19 19:45:00,Norwich City,2,2,Sheffield Wednesday
+515,2019-04-22 13:00:00,Aston Villa,1,0,Millwall
+516,2019-04-22 15:00:00,Blackburn Rovers,2,0,Bolton Wanderers
+517,2019-04-22 15:00:00,Derby County,2,0,Queens Park Rangers
+518,2019-04-22 15:00:00,Hull City,0,3,Sheffield United
+519,2019-04-22 15:00:00,Ipswich Town,0,1,Swansea City
+520,2019-04-22 15:00:00,Nottingham Forest,3,0,Middlesbrough
+521,2019-04-22 15:00:00,Reading,0,0,West Bromwich Albion
+522,2019-04-22 15:00:00,Rotherham United,1,3,Birmingham City
+523,2019-04-22 15:00:00,Sheffield Wednesday,2,0,Bristol City
+524,2019-04-22 15:00:00,Stoke City,2,2,Norwich City
+525,2019-04-22 15:00:00,Wigan Athletic,2,0,Preston North End
+526,2019-04-22 17:15:00,Brentford,2,0,Leeds United
+527,2019-04-27 13:30:00,Millwall,0,0,Stoke City
+528,2019-04-27 15:00:00,Birmingham City,1,1,Wigan Athletic
+529,2019-04-27 15:00:00,Bolton Wanderers,0,1,Brentford
+530,2019-04-27 15:00:00,Bristol City,0,2,Derby County
+531,2019-04-27 15:00:00,Middlesbrough,2,1,Reading
+532,2019-04-27 15:00:00,Preston North End,3,3,Sheffield Wednesday
+533,2019-04-27 15:00:00,Queens Park Rangers,0,1,Nottingham Forest
+534,2019-04-27 15:00:00,Swansea City,2,2,Hull City
+535,2019-04-27 15:00:00,West Bromwich Albion,2,1,Rotherham United
+536,2019-04-27 17:15:00,Sheffield United,2,0,Ipswich Town
+537,2019-04-27 19:30:00,Norwich City,2,1,Blackburn Rovers
+538,2019-04-28 12:00:00,Leeds United,1,1,Aston Villa
+539,2019-04-30 19:45:00,Millwall,1,2,Bristol City
+540,2019-05-01 19:45:00,Swansea City,1,1,Derby County
+541,2019-05-05 12:30:00,Aston Villa,1,2,Norwich City
+542,2019-05-05 12:30:00,Blackburn Rovers,2,2,Swansea City
+543,2019-05-05 12:30:00,Brentford,3,0,Preston North End
+544,2019-05-05 12:30:00,Derby County,3,1,West Bromwich Albion
+545,2019-05-05 12:30:00,Hull City,1,1,Bristol City
+546,2019-05-05 12:30:00,Ipswich Town,3,2,Leeds United
+547,2019-05-05 12:30:00,Nottingham Forest,1,0,Bolton Wanderers
+548,2019-05-05 12:30:00,Reading,0,0,Birmingham City
+549,2019-05-05 12:30:00,Rotherham United,1,2,Middlesbrough
+550,2019-05-05 12:30:00,Sheffield Wednesday,1,2,Queens Park Rangers
+551,2019-05-05 12:30:00,Stoke City,2,2,Sheffield United
+552,2019-05-05 12:30:00,Wigan Athletic,1,0,Millwall
+553,2019-05-11 12:30:00,Aston Villa,2,1,West Bromwich Albion
+554,2019-05-11 17:15:00,Derby County,0,1,Leeds United
+555,2019-05-14 20:00:00,West Bromwich Albion,1,0,Aston Villa
+556,2019-05-15 19:45:00,Leeds United,2,4,Derby County
+557,2019-05-27 15:00:00,Aston Villa,2,1,Derby County

@@ -1,0 +1,558 @@
+Match Number,Date,Home Team,Home Score,Away Score,Away Team
+1,2004-08-07 00:00:00,Burnley,1,1,Sheffield United
+2,2004-08-07 00:00:00,Coventry City,2,0,Sunderland
+3,2004-08-07 00:00:00,Crewe Alexandra,2,2,Cardiff City
+4,2004-08-07 00:00:00,Ipswich Town,2,1,Gillingham
+5,2004-08-07 00:00:00,Leeds United,1,0,Derby County
+6,2004-08-07 00:00:00,Leicester City,0,0,West Ham United
+7,2004-08-07 00:00:00,Plymouth Argyle,0,0,Millwall
+8,2004-08-07 00:00:00,Preston North End,2,1,Watford
+9,2004-08-07 00:00:00,Queens Park Rangers,1,1,Rotherham United
+10,2004-08-07 00:00:00,Reading,3,2,Brighton & Hove Albion
+11,2004-08-07 00:00:00,Wigan Athletic,1,1,Nottingham Forest
+12,2004-08-08 00:00:00,Stoke City,2,1,Wolverhampton Wanderers
+13,2004-08-09 00:00:00,Watford,3,0,Queens Park Rangers
+14,2004-08-10 00:00:00,Brighton & Hove Albion,0,2,Plymouth Argyle
+15,2004-08-10 00:00:00,Cardiff City,2,1,Coventry City
+16,2004-08-10 00:00:00,Gillingham,2,1,Leeds United
+17,2004-08-10 00:00:00,Millwall,0,2,Wigan Athletic
+18,2004-08-10 00:00:00,Rotherham United,0,0,Burnley
+19,2004-08-10 00:00:00,Sheffield United,0,0,Stoke City
+20,2004-08-10 00:00:00,Sunderland,3,1,Crewe Alexandra
+21,2004-08-10 00:00:00,West Ham United,1,0,Reading
+22,2004-08-11 00:00:00,Derby County,1,2,Leicester City
+23,2004-08-11 00:00:00,Nottingham Forest,1,1,Ipswich Town
+24,2004-08-11 00:00:00,Wolverhampton Wanderers,2,2,Preston North End
+25,2004-08-13 00:00:00,Cardiff City,0,1,Plymouth Argyle
+26,2004-08-14 00:00:00,Brighton & Hove Albion,1,1,Coventry City
+27,2004-08-14 00:00:00,Derby County,3,2,Ipswich Town
+28,2004-08-14 00:00:00,Gillingham,2,1,Preston North End
+29,2004-08-14 00:00:00,Millwall,2,0,Leicester City
+30,2004-08-14 00:00:00,Nottingham Forest,2,2,Crewe Alexandra
+31,2004-08-14 00:00:00,Rotherham United,1,1,Stoke City
+32,2004-08-14 00:00:00,Sheffield United,0,1,Reading
+33,2004-08-14 00:00:00,Sunderland,2,2,Queens Park Rangers
+34,2004-08-14 00:00:00,Watford,0,1,Burnley
+35,2004-08-14 00:00:00,Wolverhampton Wanderers,0,0,Leeds United
+36,2004-08-15 00:00:00,West Ham United,1,3,Wigan Athletic
+37,2004-08-20 00:00:00,Preston North End,0,1,Sheffield United
+38,2004-08-21 00:00:00,Burnley,1,1,Wolverhampton Wanderers
+39,2004-08-21 00:00:00,Coventry City,0,1,Millwall
+40,2004-08-21 00:00:00,Crewe Alexandra,2,3,West Ham United
+41,2004-08-21 00:00:00,Ipswich Town,3,1,Cardiff City
+42,2004-08-21 00:00:00,Leeds United,1,1,Nottingham Forest
+43,2004-08-21 00:00:00,Leicester City,0,1,Watford
+44,2004-08-21 00:00:00,Plymouth Argyle,2,1,Sunderland
+45,2004-08-21 00:00:00,Queens Park Rangers,0,2,Derby County
+46,2004-08-21 00:00:00,Reading,1,0,Rotherham United
+47,2004-08-21 00:00:00,Stoke City,2,0,Gillingham
+48,2004-08-21 00:00:00,Wigan Athletic,3,0,Brighton & Hove Albion
+49,2004-08-27 00:00:00,Gillingham,0,1,Queens Park Rangers
+50,2004-08-28 00:00:00,Brighton & Hove Albion,1,0,Preston North End
+51,2004-08-28 00:00:00,Cardiff City,0,1,Stoke City
+52,2004-08-28 00:00:00,Derby County,2,4,Crewe Alexandra
+53,2004-08-28 00:00:00,Millwall,1,0,Reading
+54,2004-08-28 00:00:00,Nottingham Forest,1,4,Coventry City
+55,2004-08-28 00:00:00,Rotherham United,0,2,Ipswich Town
+56,2004-08-28 00:00:00,Sunderland,1,1,Wigan Athletic
+57,2004-08-28 00:00:00,Watford,3,1,Plymouth Argyle
+58,2004-08-28 00:00:00,West Ham United,1,0,Burnley
+59,2004-08-28 00:00:00,Wolverhampton Wanderers,1,1,Leicester City
+60,2004-08-29 00:00:00,Sheffield United,2,0,Leeds United
+61,2004-08-30 00:00:00,Burnley,1,2,Gillingham
+62,2004-08-30 00:00:00,Coventry City,2,1,West Ham United
+63,2004-08-30 00:00:00,Ipswich Town,2,1,Wolverhampton Wanderers
+64,2004-08-30 00:00:00,Leicester City,0,1,Brighton & Hove Albion
+65,2004-08-30 00:00:00,Plymouth Argyle,3,2,Nottingham Forest
+66,2004-08-30 00:00:00,Preston North End,2,0,Rotherham United
+67,2004-08-30 00:00:00,Stoke City,1,0,Derby County
+68,2004-08-30 00:00:00,Wigan Athletic,2,1,Cardiff City
+69,2004-08-31 00:00:00,Queens Park Rangers,0,1,Sheffield United
+70,2004-08-31 00:00:00,Reading,1,0,Sunderland
+71,2004-09-11 00:00:00,Burnley,3,0,Crewe Alexandra
+72,2004-09-11 00:00:00,Derby County,2,1,Reading
+73,2004-09-11 00:00:00,Gillingham,0,4,Sunderland
+74,2004-09-11 00:00:00,Leeds United,3,0,Coventry City
+75,2004-09-11 00:00:00,Nottingham Forest,0,0,Cardiff City
+76,2004-09-11 00:00:00,Preston North End,3,0,Stoke City
+77,2004-09-11 00:00:00,Queens Park Rangers,3,2,Plymouth Argyle
+78,2004-09-11 00:00:00,Rotherham United,0,2,Leicester City
+79,2004-09-11 00:00:00,Sheffield United,1,2,West Ham United
+80,2004-09-11 00:00:00,Watford,1,1,Brighton & Hove Albion
+81,2004-09-11 00:00:00,Wolverhampton Wanderers,3,3,Wigan Athletic
+82,2004-09-12 00:00:00,Ipswich Town,2,0,Millwall
+83,2004-09-14 00:00:00,Brighton & Hove Albion,0,1,Wolverhampton Wanderers
+84,2004-09-14 00:00:00,Cardiff City,0,3,Watford
+85,2004-09-14 00:00:00,Crewe Alexandra,0,2,Queens Park Rangers
+86,2004-09-14 00:00:00,Leicester City,3,2,Sheffield United
+87,2004-09-14 00:00:00,Plymouth Argyle,0,1,Leeds United
+88,2004-09-14 00:00:00,Reading,3,1,Preston North End
+89,2004-09-14 00:00:00,Stoke City,3,2,Ipswich Town
+90,2004-09-14 00:00:00,Sunderland,2,0,Nottingham Forest
+91,2004-09-14 00:00:00,West Ham United,1,0,Rotherham United
+92,2004-09-14 00:00:00,Wigan Athletic,0,0,Burnley
+93,2004-09-15 00:00:00,Coventry City,2,2,Gillingham
+94,2004-09-18 00:00:00,Brighton & Hove Albion,2,3,Queens Park Rangers
+95,2004-09-18 00:00:00,Cardiff City,0,2,Derby County
+96,2004-09-18 00:00:00,Coventry City,0,0,Rotherham United
+97,2004-09-18 00:00:00,Crewe Alexandra,2,2,Leeds United
+98,2004-09-18 00:00:00,Leicester City,0,0,Burnley
+99,2004-09-18 00:00:00,Plymouth Argyle,1,2,Wolverhampton Wanderers
+100,2004-09-18 00:00:00,Reading,3,1,Gillingham
+101,2004-09-18 00:00:00,Stoke City,0,0,Nottingham Forest
+102,2004-09-18 00:00:00,Sunderland,3,1,Preston North End
+103,2004-09-18 00:00:00,West Ham United,1,1,Ipswich Town
+104,2004-09-18 00:00:00,Wigan Athletic,4,0,Sheffield United
+105,2004-09-19 00:00:00,Millwall,0,2,Watford
+106,2004-09-22 00:00:00,Millwall,3,1,Derby County
+107,2004-09-24 00:00:00,Leeds United,0,1,Sunderland
+108,2004-09-25 00:00:00,Burnley,2,2,Stoke City
+109,2004-09-25 00:00:00,Derby County,1,1,Wigan Athletic
+110,2004-09-25 00:00:00,Gillingham,0,1,Brighton & Hove Albion
+111,2004-09-25 00:00:00,Ipswich Town,3,2,Plymouth Argyle
+112,2004-09-25 00:00:00,Preston North End,1,0,Crewe Alexandra
+113,2004-09-25 00:00:00,Queens Park Rangers,3,2,Leicester City
+114,2004-09-25 00:00:00,Rotherham United,1,1,Millwall
+115,2004-09-25 00:00:00,Sheffield United,1,1,Coventry City
+116,2004-09-25 00:00:00,Watford,0,1,Reading
+117,2004-09-25 00:00:00,Wolverhampton Wanderers,2,3,Cardiff City
+118,2004-09-26 00:00:00,Nottingham Forest,2,1,West Ham United
+119,2004-09-28 00:00:00,Burnley,1,0,Cardiff City
+120,2004-09-28 00:00:00,Gillingham,0,2,Leicester City
+121,2004-09-28 00:00:00,Ipswich Town,1,1,Reading
+122,2004-09-28 00:00:00,Leeds United,0,0,Stoke City
+123,2004-09-28 00:00:00,Preston North End,1,1,Plymouth Argyle
+124,2004-09-28 00:00:00,Queens Park Rangers,4,1,Coventry City
+125,2004-09-28 00:00:00,Rotherham United,2,3,Crewe Alexandra
+126,2004-09-28 00:00:00,Sheffield United,1,0,Sunderland
+127,2004-09-28 00:00:00,Watford,0,0,Wigan Athletic
+128,2004-09-29 00:00:00,Derby County,1,1,West Ham United
+129,2004-09-29 00:00:00,Nottingham Forest,0,1,Brighton & Hove Albion
+130,2004-10-02 00:00:00,Brighton & Hove Albion,1,1,Sheffield United
+131,2004-10-02 00:00:00,Cardiff City,0,0,Leeds United
+132,2004-10-02 00:00:00,Crewe Alexandra,3,0,Watford
+133,2004-10-02 00:00:00,Leicester City,1,1,Preston North End
+134,2004-10-02 00:00:00,Plymouth Argyle,2,1,Gillingham
+135,2004-10-02 00:00:00,Reading,0,0,Burnley
+136,2004-10-02 00:00:00,Stoke City,0,1,Queens Park Rangers
+137,2004-10-02 00:00:00,Sunderland,0,0,Derby County
+138,2004-10-02 00:00:00,West Ham United,1,0,Wolverhampton Wanderers
+139,2004-10-02 00:00:00,Wigan Athletic,2,0,Rotherham United
+140,2004-10-03 00:00:00,Coventry City,1,2,Ipswich Town
+141,2004-10-03 00:00:00,Millwall,1,0,Nottingham Forest
+142,2004-10-15 00:00:00,Nottingham Forest,1,0,Wolverhampton Wanderers
+143,2004-10-16 00:00:00,Cardiff City,2,0,Rotherham United
+144,2004-10-16 00:00:00,Coventry City,1,1,Leicester City
+145,2004-10-16 00:00:00,Crewe Alexandra,3,1,Brighton & Hove Albion
+146,2004-10-16 00:00:00,Derby County,2,2,Watford
+147,2004-10-16 00:00:00,Ipswich Town,1,1,Burnley
+148,2004-10-16 00:00:00,Leeds United,1,0,Preston North End
+149,2004-10-16 00:00:00,Plymouth Argyle,1,2,Wigan Athletic
+150,2004-10-16 00:00:00,Queens Park Rangers,1,0,West Ham United
+151,2004-10-16 00:00:00,Stoke City,0,1,Reading
+152,2004-10-16 00:00:00,Sunderland,1,0,Millwall
+153,2004-10-17 00:00:00,Gillingham,1,3,Sheffield United
+154,2004-10-19 00:00:00,Brighton & Hove Albion,1,1,Cardiff City
+155,2004-10-19 00:00:00,Burnley,2,2,Coventry City
+156,2004-10-19 00:00:00,Leicester City,2,2,Ipswich Town
+157,2004-10-19 00:00:00,Millwall,2,1,Gillingham
+158,2004-10-19 00:00:00,Preston North End,2,1,Queens Park Rangers
+159,2004-10-19 00:00:00,Reading,1,1,Leeds United
+160,2004-10-19 00:00:00,Rotherham United,0,1,Plymouth Argyle
+161,2004-10-19 00:00:00,Sheffield United,1,1,Nottingham Forest
+162,2004-10-19 00:00:00,Watford,1,1,Sunderland
+163,2004-10-19 00:00:00,West Ham United,2,0,Stoke City
+164,2004-10-19 00:00:00,Wigan Athletic,4,1,Crewe Alexandra
+165,2004-10-19 00:00:00,Wolverhampton Wanderers,2,0,Derby County
+166,2004-10-22 00:00:00,Burnley,0,2,Derby County
+167,2004-10-23 00:00:00,Brighton & Hove Albion,1,0,Leeds United
+168,2004-10-23 00:00:00,Leicester City,1,1,Stoke City
+169,2004-10-23 00:00:00,Millwall,2,2,Cardiff City
+170,2004-10-23 00:00:00,Preston North End,3,2,Nottingham Forest
+171,2004-10-23 00:00:00,Reading,4,0,Crewe Alexandra
+172,2004-10-23 00:00:00,Sheffield United,2,1,Plymouth Argyle
+173,2004-10-23 00:00:00,Watford,2,2,Ipswich Town
+174,2004-10-23 00:00:00,West Ham United,3,1,Gillingham
+175,2004-10-23 00:00:00,Wigan Athletic,4,1,Coventry City
+176,2004-10-23 00:00:00,Wolverhampton Wanderers,2,1,Queens Park Rangers
+177,2004-10-25 00:00:00,Rotherham United,0,1,Sunderland
+178,2004-10-29 00:00:00,Crewe Alexandra,2,3,Sheffield United
+179,2004-10-30 00:00:00,Cardiff City,0,0,Leicester City
+180,2004-10-30 00:00:00,Coventry City,3,2,Reading
+181,2004-10-30 00:00:00,Derby County,3,2,Rotherham United
+182,2004-10-30 00:00:00,Gillingham,1,0,Wolverhampton Wanderers
+183,2004-10-30 00:00:00,Ipswich Town,3,0,Preston North End
+184,2004-10-30 00:00:00,Nottingham Forest,1,2,Watford
+185,2004-10-30 00:00:00,Plymouth Argyle,1,1,West Ham United
+186,2004-10-30 00:00:00,Queens Park Rangers,3,0,Burnley
+187,2004-10-30 00:00:00,Stoke City,1,0,Millwall
+188,2004-10-30 00:00:00,Sunderland,2,0,Brighton & Hove Albion
+189,2004-10-31 00:00:00,Leeds United,0,2,Wigan Athletic
+190,2004-11-02 00:00:00,Cardiff City,4,1,West Ham United
+191,2004-11-02 00:00:00,Crewe Alexandra,2,2,Leicester City
+192,2004-11-02 00:00:00,Gillingham,0,0,Watford
+193,2004-11-02 00:00:00,Ipswich Town,5,1,Sheffield United
+194,2004-11-02 00:00:00,Plymouth Argyle,2,2,Reading
+195,2004-11-02 00:00:00,Queens Park Rangers,1,1,Millwall
+196,2004-11-02 00:00:00,Stoke City,0,1,Wigan Athletic
+197,2004-11-02 00:00:00,Sunderland,3,1,Wolverhampton Wanderers
+198,2004-11-03 00:00:00,Coventry City,1,1,Preston North End
+199,2004-11-03 00:00:00,Derby County,3,0,Brighton & Hove Albion
+200,2004-11-03 00:00:00,Leeds United,1,2,Burnley
+201,2004-11-03 00:00:00,Nottingham Forest,2,2,Rotherham United
+202,2004-11-05 00:00:00,Millwall,2,0,Sunderland
+203,2004-11-06 00:00:00,Brighton & Hove Albion,1,3,Crewe Alexandra
+204,2004-11-06 00:00:00,Burnley,0,2,Ipswich Town
+205,2004-11-06 00:00:00,Preston North End,2,4,Leeds United
+206,2004-11-06 00:00:00,Reading,1,0,Stoke City
+207,2004-11-06 00:00:00,Rotherham United,2,2,Cardiff City
+208,2004-11-06 00:00:00,Sheffield United,0,0,Gillingham
+209,2004-11-06 00:00:00,Watford,2,2,Derby County
+210,2004-11-06 00:00:00,West Ham United,2,1,Queens Park Rangers
+211,2004-11-06 00:00:00,Wigan Athletic,0,2,Plymouth Argyle
+212,2004-11-06 00:00:00,Wolverhampton Wanderers,2,1,Nottingham Forest
+213,2004-11-08 00:00:00,Leicester City,3,0,Coventry City
+214,2004-11-13 00:00:00,Burnley,1,0,Nottingham Forest
+215,2004-11-13 00:00:00,Coventry City,2,1,Plymouth Argyle
+216,2004-11-13 00:00:00,Gillingham,0,2,Derby County
+217,2004-11-13 00:00:00,Ipswich Town,1,0,Leeds United
+218,2004-11-13 00:00:00,Leicester City,0,1,Sunderland
+219,2004-11-13 00:00:00,Preston North End,1,1,Millwall
+220,2004-11-13 00:00:00,Queens Park Rangers,1,0,Wigan Athletic
+221,2004-11-13 00:00:00,Reading,2,1,Cardiff City
+222,2004-11-13 00:00:00,Rotherham United,1,2,Wolverhampton Wanderers
+223,2004-11-13 00:00:00,Sheffield United,1,1,Watford
+224,2004-11-13 00:00:00,Stoke City,1,0,Crewe Alexandra
+225,2004-11-13 00:00:00,West Ham United,0,1,Brighton & Hove Albion
+226,2004-11-19 00:00:00,Cardiff City,0,1,Preston North End
+227,2004-11-20 12:30:00,Wolverhampton Wanderers,0,1,Coventry City
+228,2004-11-20 15:00:00,Brighton & Hove Albion,0,1,Burnley
+229,2004-11-20 15:00:00,Crewe Alexandra,4,1,Gillingham
+230,2004-11-20 15:00:00,Derby County,0,1,Sheffield United
+231,2004-11-20 15:00:00,Leeds United,6,1,Queens Park Rangers
+232,2004-11-20 15:00:00,Nottingham Forest,1,0,Reading
+233,2004-11-20 15:00:00,Plymouth Argyle,0,0,Stoke City
+234,2004-11-20 15:00:00,Watford,0,0,Rotherham United
+235,2004-11-20 15:00:00,Wigan Athletic,0,0,Leicester City
+236,2004-11-21 12:00:00,Millwall,1,0,West Ham United
+237,2004-11-21 13:00:00,Sunderland,2,0,Ipswich Town
+238,2004-11-24 19:45:00,Leeds United,2,2,Watford
+239,2004-11-27 12:45:00,Queens Park Rangers,1,0,Cardiff City
+240,2004-11-27 15:00:00,Burnley,1,0,Millwall
+241,2004-11-27 15:00:00,Coventry City,0,1,Crewe Alexandra
+242,2004-11-27 15:00:00,Gillingham,2,1,Nottingham Forest
+243,2004-11-27 15:00:00,Ipswich Town,1,0,Brighton & Hove Albion
+244,2004-11-27 15:00:00,Leicester City,2,1,Plymouth Argyle
+245,2004-11-27 15:00:00,Preston North End,3,0,Derby County
+246,2004-11-27 15:00:00,Reading,1,1,Wigan Athletic
+247,2004-11-27 15:00:00,Sheffield United,3,3,Wolverhampton Wanderers
+248,2004-11-27 15:00:00,Stoke City,0,1,Sunderland
+249,2004-11-27 15:00:00,West Ham United,3,2,Watford
+250,2004-11-29 19:45:00,Rotherham United,1,0,Leeds United
+251,2004-11-30 19:45:00,Crewe Alexandra,2,1,Millwall
+252,2004-12-04 15:00:00,Brighton & Hove Albion,1,0,Rotherham United
+253,2004-12-04 15:00:00,Cardiff City,3,1,Gillingham
+254,2004-12-04 15:00:00,Crewe Alexandra,2,2,Ipswich Town
+255,2004-12-04 15:00:00,Derby County,2,2,Coventry City
+256,2004-12-04 15:00:00,Leeds United,0,2,Leicester City
+257,2004-12-04 15:00:00,Millwall,1,2,Sheffield United
+258,2004-12-04 15:00:00,Nottingham Forest,2,1,Queens Park Rangers
+259,2004-12-04 15:00:00,Plymouth Argyle,1,0,Burnley
+260,2004-12-04 15:00:00,Sunderland,0,2,West Ham United
+261,2004-12-04 15:00:00,Watford,0,1,Stoke City
+262,2004-12-04 15:00:00,Wolverhampton Wanderers,4,1,Reading
+263,2004-12-05 12:30:00,Wigan Athletic,5,0,Preston North End
+264,2004-12-07 19:45:00,Wolverhampton Wanderers,1,2,Millwall
+265,2004-12-10 19:45:00,West Ham United,1,1,Leeds United
+266,2004-12-11 13:00:00,Derby County,3,0,Nottingham Forest
+267,2004-12-11 15:00:00,Burnley,2,0,Preston North End
+268,2004-12-11 15:00:00,Cardiff City,0,2,Sunderland
+269,2004-12-11 15:00:00,Crewe Alexandra,3,0,Plymouth Argyle
+270,2004-12-11 15:00:00,Leicester City,0,2,Reading
+271,2004-12-11 15:00:00,Millwall,2,0,Brighton & Hove Albion
+272,2004-12-11 15:00:00,Queens Park Rangers,2,4,Ipswich Town
+273,2004-12-11 15:00:00,Stoke City,1,0,Coventry City
+274,2004-12-11 15:00:00,Watford,1,1,Wolverhampton Wanderers
+275,2004-12-11 15:00:00,Wigan Athletic,2,0,Gillingham
+276,2004-12-11 17:30:00,Rotherham United,2,2,Sheffield United
+277,2004-12-17 19:45:00,Brighton & Hove Albion,0,1,Stoke City
+278,2004-12-17 19:45:00,Nottingham Forest,1,1,Leicester City
+279,2004-12-18 12:00:00,Sheffield United,2,1,Cardiff City
+280,2004-12-18 12:45:00,Reading,1,0,Queens Park Rangers
+281,2004-12-18 15:00:00,Coventry City,1,0,Watford
+282,2004-12-18 15:00:00,Gillingham,3,1,Rotherham United
+283,2004-12-18 15:00:00,Plymouth Argyle,0,2,Derby County
+284,2004-12-18 15:00:00,Preston North End,2,1,West Ham United
+285,2004-12-18 15:00:00,Sunderland,2,1,Burnley
+286,2004-12-18 15:00:00,Wolverhampton Wanderers,1,1,Crewe Alexandra
+287,2004-12-19 15:00:00,Leeds United,1,1,Millwall
+288,2004-12-21 19:45:00,Ipswich Town,2,1,Wigan Athletic
+289,2004-12-26 11:00:00,Reading,3,0,Watford
+290,2004-12-26 13:00:00,Brighton & Hove Albion,2,1,Gillingham
+291,2004-12-26 13:00:00,Cardiff City,1,1,Wolverhampton Wanderers
+292,2004-12-26 13:00:00,Millwall,3,1,Ipswich Town
+293,2004-12-26 13:00:00,West Ham United,3,2,Nottingham Forest
+294,2004-12-26 15:00:00,Coventry City,1,2,Sheffield United
+295,2004-12-26 15:00:00,Leicester City,0,1,Rotherham United
+296,2004-12-26 15:00:00,Plymouth Argyle,2,1,Queens Park Rangers
+297,2004-12-26 15:00:00,Stoke City,0,0,Preston North End
+298,2004-12-26 15:00:00,Sunderland,2,3,Leeds United
+299,2004-12-26 15:00:00,Wigan Athletic,1,2,Derby County
+300,2004-12-28 12:15:00,Ipswich Town,1,0,Stoke City
+301,2004-12-28 15:00:00,Burnley,1,0,Wigan Athletic
+302,2004-12-28 15:00:00,Derby County,0,3,Millwall
+303,2004-12-28 15:00:00,Gillingham,3,1,Coventry City
+304,2004-12-28 15:00:00,Leeds United,2,1,Plymouth Argyle
+305,2004-12-28 15:00:00,Nottingham Forest,1,2,Sunderland
+306,2004-12-28 15:00:00,Preston North End,3,0,Reading
+307,2004-12-28 15:00:00,Queens Park Rangers,1,2,Crewe Alexandra
+308,2004-12-28 15:00:00,Rotherham United,2,2,West Ham United
+309,2004-12-28 15:00:00,Sheffield United,2,0,Leicester City
+310,2004-12-28 15:00:00,Watford,0,0,Cardiff City
+311,2004-12-28 15:00:00,Wolverhampton Wanderers,1,1,Brighton & Hove Albion
+312,2005-01-01 12:00:00,Derby County,0,1,Cardiff City
+313,2005-01-01 13:00:00,Ipswich Town,0,2,West Ham United
+314,2005-01-01 15:00:00,Gillingham,0,0,Reading
+315,2005-01-01 15:00:00,Leeds United,0,2,Crewe Alexandra
+316,2005-01-01 15:00:00,Nottingham Forest,1,0,Stoke City
+317,2005-01-01 15:00:00,Preston North End,3,2,Sunderland
+318,2005-01-01 15:00:00,Queens Park Rangers,0,0,Brighton & Hove Albion
+319,2005-01-01 15:00:00,Rotherham United,1,2,Coventry City
+320,2005-01-01 15:00:00,Sheffield United,0,2,Wigan Athletic
+321,2005-01-01 15:00:00,Watford,1,0,Millwall
+322,2005-01-01 15:00:00,Wolverhampton Wanderers,1,1,Plymouth Argyle
+323,2005-01-03 13:00:00,Cardiff City,3,0,Nottingham Forest
+324,2005-01-03 15:00:00,Brighton & Hove Albion,2,1,Watford
+325,2005-01-03 15:00:00,Coventry City,1,2,Leeds United
+326,2005-01-03 15:00:00,Leicester City,1,0,Queens Park Rangers
+327,2005-01-03 15:00:00,Millwall,1,2,Rotherham United
+328,2005-01-03 15:00:00,Plymouth Argyle,1,2,Ipswich Town
+329,2005-01-03 15:00:00,Stoke City,0,1,Burnley
+330,2005-01-03 15:00:00,Sunderland,1,1,Gillingham
+331,2005-01-03 15:00:00,West Ham United,0,2,Sheffield United
+332,2005-01-03 17:30:00,Reading,0,1,Derby County
+333,2005-01-03 19:45:00,Crewe Alexandra,1,2,Preston North End
+334,2005-01-04 20:00:00,Wigan Athletic,2,0,Wolverhampton Wanderers
+335,2005-01-14 19:45:00,Queens Park Rangers,1,0,Stoke City
+336,2005-01-15 15:00:00,Burnley,0,0,Reading
+337,2005-01-15 15:00:00,Gillingham,1,0,Plymouth Argyle
+338,2005-01-15 15:00:00,Ipswich Town,3,2,Coventry City
+339,2005-01-15 15:00:00,Leeds United,1,1,Cardiff City
+340,2005-01-15 15:00:00,Nottingham Forest,1,2,Millwall
+341,2005-01-15 15:00:00,Preston North End,1,1,Leicester City
+342,2005-01-15 15:00:00,Rotherham United,0,2,Wigan Athletic
+343,2005-01-15 15:00:00,Sheffield United,1,2,Brighton & Hove Albion
+344,2005-01-15 15:00:00,Watford,3,1,Crewe Alexandra
+345,2005-01-15 15:00:00,Wolverhampton Wanderers,4,2,West Ham United
+346,2005-01-16 12:00:00,Derby County,0,2,Sunderland
+347,2005-01-22 15:00:00,Brighton & Hove Albion,0,0,Nottingham Forest
+348,2005-01-22 15:00:00,Cardiff City,2,0,Burnley
+349,2005-01-22 15:00:00,Coventry City,1,2,Queens Park Rangers
+350,2005-01-22 15:00:00,Crewe Alexandra,1,1,Rotherham United
+351,2005-01-22 15:00:00,Leicester City,2,0,Gillingham
+352,2005-01-22 15:00:00,Millwall,1,2,Wolverhampton Wanderers
+353,2005-01-22 15:00:00,Plymouth Argyle,0,2,Preston North End
+354,2005-01-22 15:00:00,Reading,1,1,Ipswich Town
+355,2005-01-22 15:00:00,Stoke City,0,1,Leeds United
+356,2005-01-22 15:00:00,Sunderland,1,0,Sheffield United
+357,2005-01-22 15:00:00,Wigan Athletic,2,2,Watford
+358,2005-01-23 12:30:00,West Ham United,1,2,Derby County
+359,2005-01-26 19:45:00,Derby County,2,0,Leeds United
+360,2005-01-29 15:00:00,Leeds United,1,1,Brighton & Hove Albion
+361,2005-02-04 19:45:00,Wolverhampton Wanderers,1,1,Sunderland
+362,2005-02-05 12:30:00,Burnley,0,1,Leeds United
+363,2005-02-05 15:00:00,Brighton & Hove Albion,2,3,Derby County
+364,2005-02-05 15:00:00,Leicester City,1,1,Crewe Alexandra
+365,2005-02-05 15:00:00,Millwall,0,0,Queens Park Rangers
+366,2005-02-05 15:00:00,Preston North End,3,2,Coventry City
+367,2005-02-05 15:00:00,Reading,0,0,Plymouth Argyle
+368,2005-02-05 15:00:00,Rotherham United,0,0,Nottingham Forest
+369,2005-02-05 15:00:00,Sheffield United,0,2,Ipswich Town
+370,2005-02-05 15:00:00,Watford,2,0,Gillingham
+371,2005-02-05 15:00:00,Wigan Athletic,0,1,Stoke City
+372,2005-02-06 13:00:00,West Ham United,1,0,Cardiff City
+373,2005-02-12 15:00:00,Cardiff City,2,0,Brighton & Hove Albion
+374,2005-02-12 15:00:00,Coventry City,0,2,Burnley
+375,2005-02-12 15:00:00,Crewe Alexandra,1,3,Wigan Athletic
+376,2005-02-12 15:00:00,Gillingham,0,0,Millwall
+377,2005-02-12 15:00:00,Ipswich Town,2,1,Leicester City
+378,2005-02-12 15:00:00,Leeds United,3,1,Reading
+379,2005-02-12 15:00:00,Plymouth Argyle,1,1,Rotherham United
+380,2005-02-12 15:00:00,Queens Park Rangers,1,2,Preston North End
+381,2005-02-12 15:00:00,Sunderland,4,2,Watford
+382,2005-02-15 19:45:00,Crewe Alexandra,1,1,Burnley
+383,2005-02-18 19:45:00,Preston North End,1,1,Ipswich Town
+384,2005-02-19 15:00:00,Brighton & Hove Albion,2,1,Sunderland
+385,2005-02-19 15:00:00,Millwall,0,1,Stoke City
+386,2005-02-19 15:00:00,Reading,1,2,Coventry City
+387,2005-02-19 15:00:00,Rotherham United,1,3,Derby County
+388,2005-02-19 15:00:00,West Ham United,5,0,Plymouth Argyle
+389,2005-02-19 15:00:00,Wigan Athletic,3,0,Leeds United
+390,2005-02-19 15:00:00,Wolverhampton Wanderers,2,2,Gillingham
+391,2005-02-22 19:45:00,Cardiff City,0,1,Millwall
+392,2005-02-22 19:45:00,Crewe Alexandra,1,1,Reading
+393,2005-02-22 19:45:00,Gillingham,0,1,West Ham United
+394,2005-02-22 19:45:00,Ipswich Town,1,2,Watford
+395,2005-02-22 19:45:00,Plymouth Argyle,3,0,Sheffield United
+396,2005-02-22 19:45:00,Queens Park Rangers,1,1,Wolverhampton Wanderers
+397,2005-02-22 19:45:00,Stoke City,3,2,Leicester City
+398,2005-02-22 20:00:00,Sunderland,4,1,Rotherham United
+399,2005-02-23 19:45:00,Coventry City,1,2,Wigan Athletic
+400,2005-02-23 19:45:00,Derby County,1,1,Burnley
+401,2005-02-23 19:45:00,Nottingham Forest,2,0,Preston North End
+402,2005-02-26 15:00:00,Brighton & Hove Albion,1,0,Millwall
+403,2005-02-26 15:00:00,Coventry City,0,0,Stoke City
+404,2005-02-26 15:00:00,Gillingham,2,1,Wigan Athletic
+405,2005-02-26 15:00:00,Ipswich Town,0,2,Queens Park Rangers
+406,2005-02-26 15:00:00,Leeds United,2,1,West Ham United
+407,2005-02-26 15:00:00,Nottingham Forest,2,2,Derby County
+408,2005-02-26 15:00:00,Plymouth Argyle,3,0,Crewe Alexandra
+409,2005-02-26 15:00:00,Preston North End,1,0,Burnley
+410,2005-02-26 15:00:00,Reading,0,0,Leicester City
+411,2005-02-26 15:00:00,Sheffield United,1,0,Rotherham United
+412,2005-02-26 15:00:00,Sunderland,2,1,Cardiff City
+413,2005-02-26 15:00:00,Wolverhampton Wanderers,0,0,Watford
+414,2005-03-02 19:45:00,Derby County,3,3,Wolverhampton Wanderers
+415,2005-03-04 19:45:00,Burnley,0,2,Sunderland
+416,2005-03-05 15:00:00,Cardiff City,1,0,Sheffield United
+417,2005-03-05 15:00:00,Crewe Alexandra,1,4,Wolverhampton Wanderers
+418,2005-03-05 15:00:00,Derby County,1,0,Plymouth Argyle
+419,2005-03-05 15:00:00,Leicester City,0,1,Nottingham Forest
+420,2005-03-05 15:00:00,Queens Park Rangers,0,0,Reading
+421,2005-03-05 15:00:00,Rotherham United,1,3,Gillingham
+422,2005-03-05 15:00:00,Stoke City,2,0,Brighton & Hove Albion
+423,2005-03-05 15:00:00,Watford,2,3,Coventry City
+424,2005-03-05 15:00:00,West Ham United,1,2,Preston North End
+425,2005-03-05 15:00:00,Wigan Athletic,1,0,Ipswich Town
+426,2005-03-06 14:00:00,Millwall,1,1,Leeds United
+427,2005-03-08 19:45:00,Burnley,0,0,Leicester City
+428,2005-03-08 19:45:00,Sheffield United,4,0,Crewe Alexandra
+429,2005-03-08 19:45:00,Watford,0,2,Nottingham Forest
+430,2005-03-12 15:00:00,Burnley,2,1,Rotherham United
+431,2005-03-12 15:00:00,Coventry City,1,1,Cardiff City
+432,2005-03-12 15:00:00,Crewe Alexandra,0,1,Sunderland
+433,2005-03-12 15:00:00,Ipswich Town,6,0,Nottingham Forest
+434,2005-03-12 15:00:00,Leeds United,1,1,Gillingham
+435,2005-03-12 15:00:00,Plymouth Argyle,5,1,Brighton & Hove Albion
+436,2005-03-12 15:00:00,Preston North End,2,2,Wolverhampton Wanderers
+437,2005-03-12 15:00:00,Queens Park Rangers,3,1,Watford
+438,2005-03-12 15:00:00,Reading,3,1,West Ham United
+439,2005-03-12 15:00:00,Stoke City,2,0,Sheffield United
+440,2005-03-12 15:00:00,Wigan Athletic,2,0,Millwall
+441,2005-03-15 19:45:00,Brighton & Hove Albion,2,4,Wigan Athletic
+442,2005-03-15 19:45:00,Cardiff City,0,1,Ipswich Town
+443,2005-03-15 19:45:00,Gillingham,2,1,Stoke City
+444,2005-03-15 19:45:00,Millwall,1,1,Coventry City
+445,2005-03-15 19:45:00,Rotherham United,1,0,Reading
+446,2005-03-15 19:45:00,Sheffield United,1,1,Preston North End
+447,2005-03-15 19:45:00,Watford,2,2,Leicester City
+448,2005-03-15 19:45:00,West Ham United,1,1,Crewe Alexandra
+449,2005-03-15 19:45:00,Wolverhampton Wanderers,2,0,Burnley
+450,2005-03-15 20:00:00,Sunderland,5,1,Plymouth Argyle
+451,2005-03-16 19:45:00,Derby County,0,0,Queens Park Rangers
+452,2005-03-16 19:45:00,Nottingham Forest,0,0,Leeds United
+453,2005-03-18 19:45:00,West Ham United,2,2,Leicester City
+454,2005-03-19 13:00:00,Cardiff City,1,1,Crewe Alexandra
+455,2005-03-19 15:00:00,Gillingham,0,0,Ipswich Town
+456,2005-03-19 15:00:00,Nottingham Forest,1,1,Wigan Athletic
+457,2005-03-19 15:00:00,Rotherham United,0,1,Queens Park Rangers
+458,2005-03-19 15:00:00,Sheffield United,2,1,Burnley
+459,2005-03-19 15:00:00,Sunderland,1,0,Coventry City
+460,2005-03-19 15:00:00,Watford,0,2,Preston North End
+461,2005-03-19 15:00:00,Wolverhampton Wanderers,1,1,Stoke City
+462,2005-03-20 14:00:00,Millwall,3,0,Plymouth Argyle
+463,2005-03-21 19:45:00,Brighton & Hove Albion,0,1,Reading
+464,2005-04-02 15:00:00,Burnley,3,1,Watford
+465,2005-04-02 15:00:00,Coventry City,2,1,Brighton & Hove Albion
+466,2005-04-02 15:00:00,Crewe Alexandra,1,1,Nottingham Forest
+467,2005-04-02 15:00:00,Ipswich Town,3,2,Derby County
+468,2005-04-02 15:00:00,Leeds United,1,1,Wolverhampton Wanderers
+469,2005-04-02 15:00:00,Leicester City,3,1,Millwall
+470,2005-04-02 15:00:00,Plymouth Argyle,1,1,Cardiff City
+471,2005-04-02 15:00:00,Preston North End,1,1,Gillingham
+472,2005-04-02 15:00:00,Queens Park Rangers,1,3,Sunderland
+473,2005-04-02 15:00:00,Reading,0,0,Sheffield United
+474,2005-04-02 15:00:00,Stoke City,1,2,Rotherham United
+475,2005-04-02 15:00:00,Wigan Athletic,1,2,West Ham United
+476,2005-04-05 19:45:00,Burnley,0,1,West Ham United
+477,2005-04-05 19:45:00,Crewe Alexandra,1,2,Derby County
+478,2005-04-05 19:45:00,Ipswich Town,4,3,Rotherham United
+479,2005-04-05 19:45:00,Leeds United,0,4,Sheffield United
+480,2005-04-05 19:45:00,Leicester City,1,1,Wolverhampton Wanderers
+481,2005-04-05 19:45:00,Plymouth Argyle,1,0,Watford
+482,2005-04-05 19:45:00,Preston North End,3,0,Brighton & Hove Albion
+483,2005-04-05 19:45:00,Queens Park Rangers,1,1,Gillingham
+484,2005-04-05 19:45:00,Stoke City,1,3,Cardiff City
+485,2005-04-05 20:00:00,Reading,2,1,Millwall
+486,2005-04-05 20:00:00,Wigan Athletic,0,1,Sunderland
+487,2005-04-06 19:45:00,Coventry City,2,0,Nottingham Forest
+488,2005-04-09 12:45:00,Sunderland,1,2,Reading
+489,2005-04-09 15:00:00,Brighton & Hove Albion,1,1,Leicester City
+490,2005-04-09 15:00:00,Cardiff City,0,2,Wigan Athletic
+491,2005-04-09 15:00:00,Derby County,3,1,Stoke City
+492,2005-04-09 15:00:00,Gillingham,1,0,Burnley
+493,2005-04-09 15:00:00,Millwall,4,3,Crewe Alexandra
+494,2005-04-09 15:00:00,Nottingham Forest,0,3,Plymouth Argyle
+495,2005-04-09 15:00:00,Rotherham United,1,2,Preston North End
+496,2005-04-09 15:00:00,Sheffield United,3,2,Queens Park Rangers
+497,2005-04-09 15:00:00,Watford,1,2,Leeds United
+498,2005-04-09 15:00:00,West Ham United,3,0,Coventry City
+499,2005-04-11 19:45:00,Wolverhampton Wanderers,2,0,Ipswich Town
+500,2005-04-12 19:45:00,Nottingham Forest,1,1,Sheffield United
+501,2005-04-15 19:45:00,Sheffield United,0,1,Derby County
+502,2005-04-16 12:00:00,West Ham United,1,1,Millwall
+503,2005-04-16 15:00:00,Burnley,1,1,Brighton & Hove Albion
+504,2005-04-16 15:00:00,Coventry City,2,2,Wolverhampton Wanderers
+505,2005-04-16 15:00:00,Gillingham,1,1,Crewe Alexandra
+506,2005-04-16 15:00:00,Leicester City,0,2,Wigan Athletic
+507,2005-04-16 15:00:00,Preston North End,3,0,Cardiff City
+508,2005-04-16 15:00:00,Queens Park Rangers,1,1,Leeds United
+509,2005-04-16 15:00:00,Reading,1,0,Nottingham Forest
+510,2005-04-16 15:00:00,Rotherham United,0,1,Watford
+511,2005-04-16 15:00:00,Stoke City,2,0,Plymouth Argyle
+512,2005-04-17 12:00:00,Ipswich Town,2,2,Sunderland
+513,2005-04-19 19:45:00,Burnley,2,0,Queens Park Rangers
+514,2005-04-19 19:45:00,Leicester City,1,1,Cardiff City
+515,2005-04-19 19:45:00,Stoke City,0,1,West Ham United
+516,2005-04-23 15:00:00,Brighton & Hove Albion,2,2,West Ham United
+517,2005-04-23 15:00:00,Cardiff City,2,0,Reading
+518,2005-04-23 15:00:00,Crewe Alexandra,0,2,Stoke City
+519,2005-04-23 15:00:00,Derby County,2,0,Gillingham
+520,2005-04-23 15:00:00,Leeds United,1,1,Ipswich Town
+521,2005-04-23 15:00:00,Nottingham Forest,1,0,Burnley
+522,2005-04-23 15:00:00,Plymouth Argyle,1,1,Coventry City
+523,2005-04-23 15:00:00,Sunderland,2,1,Leicester City
+524,2005-04-23 15:00:00,Watford,0,0,Sheffield United
+525,2005-04-23 15:00:00,Wigan Athletic,0,0,Queens Park Rangers
+526,2005-04-23 15:00:00,Wolverhampton Wanderers,2,0,Rotherham United
+527,2005-04-24 13:30:00,Millwall,2,1,Preston North End
+528,2005-04-26 19:45:00,Leicester City,1,0,Derby County
+529,2005-04-29 19:45:00,West Ham United,1,2,Sunderland
+530,2005-04-30 12:15:00,Preston North End,1,1,Wigan Athletic
+531,2005-04-30 15:00:00,Burnley,2,0,Plymouth Argyle
+532,2005-04-30 15:00:00,Coventry City,6,2,Derby County
+533,2005-04-30 15:00:00,Gillingham,1,1,Cardiff City
+534,2005-04-30 15:00:00,Ipswich Town,5,1,Crewe Alexandra
+535,2005-04-30 15:00:00,Queens Park Rangers,2,1,Nottingham Forest
+536,2005-04-30 15:00:00,Reading,1,2,Wolverhampton Wanderers
+537,2005-04-30 15:00:00,Rotherham United,0,1,Brighton & Hove Albion
+538,2005-04-30 15:00:00,Sheffield United,0,1,Millwall
+539,2005-04-30 15:00:00,Stoke City,0,1,Watford
+540,2005-05-01 13:30:00,Leicester City,2,0,Leeds United
+541,2005-05-08 13:00:00,Brighton & Hove Albion,1,1,Ipswich Town
+542,2005-05-08 13:00:00,Cardiff City,1,0,Queens Park Rangers
+543,2005-05-08 13:00:00,Crewe Alexandra,2,1,Coventry City
+544,2005-05-08 13:00:00,Derby County,3,1,Preston North End
+545,2005-05-08 13:00:00,Leeds United,0,0,Rotherham United
+546,2005-05-08 13:00:00,Millwall,0,0,Burnley
+547,2005-05-08 13:00:00,Nottingham Forest,2,2,Gillingham
+548,2005-05-08 13:00:00,Plymouth Argyle,0,0,Leicester City
+549,2005-05-08 13:00:00,Sunderland,1,0,Stoke City
+550,2005-05-08 13:00:00,Watford,1,2,West Ham United
+551,2005-05-08 13:00:00,Wigan Athletic,3,1,Reading
+552,2005-05-08 13:00:00,Wolverhampton Wanderers,4,2,Sheffield United
+553,2005-05-14 12:15:00,West Ham United,2,2,Ipswich Town
+554,2005-05-15 12:00:00,Preston North End,2,0,Derby County
+555,2005-05-18 19:45:00,Ipswich Town,0,2,West Ham United
+556,2005-05-19 19:45:00,Derby County,0,0,Preston North End
+557,2005-05-30 15:00:00,West Ham United,1,0,Preston North End

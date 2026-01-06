@@ -14,37 +14,29 @@ def load_data():
 
     scores = pd.read_csv('Datasets/combined_championship_seasons_2019-2025.csv')
 
-    scores['Date'] = pd.to_datetime(scores['Date'], dayfirst=True, format='mixed')
-
-    extracted = scores['Result'].str.extract(r'(\d+)\s*-\s*(\d+)').astype(float)
-    if 'Home Score' not in scores.columns:
-        scores['Home Score'] = extracted[0]
-    else:
-        scores['Home Score'] = scores['Home Score'].fillna(extracted[0])
-    if 'Away Score' not in scores.columns:
-        scores['Away Score'] = extracted[1]
-    else:
-        scores['Away Score'] = scores['Away Score'].fillna(extracted[1])
-
+    scores['Date'] = pd.to_datetime(scores['Date'], dayfirst=True)
+    scores[['HomeScore', 'AwayScore']] = (
+        scores['Result'].str.extract(r'(\d+)\s*-\s*(\d+)').astype(float)
+    )
     played = (
-        scores['Home Score'].notna()
-        & scores['Away Score'].notna()
+        scores['HomeScore'].notna()
+        & scores['AwayScore'].notna()
     )
     scores["y_home_win"] = np.where(  # 1 if home win, 0 if away win, 0.5 if draw
-        played & (scores['Home Score'] > scores['Away Score']),
+        played & (scores['HomeScore'] > scores['AwayScore']),
         1.0,
         np.nan,
     )
     scores.loc[
-        played & (scores['Home Score'] < scores['Away Score']),
+        played & (scores['HomeScore'] < scores['AwayScore']),
         'y_home_win'
     ] = 0.0
     scores.loc[
-        played & (scores['Home Score'] == scores['Away Score']),
+        played & (scores['HomeScore'] == scores['AwayScore']),
         'y_home_win'
     ] = 0.5
     scores["y_home_win_binary"] = np.where(
-    played & (scores["Home Score"] > scores["Away Score"]),
+    played & (scores["HomeScore"] > scores["AwayScore"]),
     1,
     0
 )
@@ -98,8 +90,8 @@ def build_team_history(games_elo):
         "season": played['Season'].values,
         "team": played['Home Team'].values,
         "is_home": 1,
-        "goals_for": played['Home Score'].values,
-        "goals_against": played['Away Score'].values,
+        "goals_for": played['HomeScore'].values,
+        "goals_against": played['AwayScore'].values,
     })
     away = pd.DataFrame({
         "game_id": played['game_id'].values,
@@ -107,8 +99,8 @@ def build_team_history(games_elo):
         "season": played['Season'].values,
         "team": played['Away Team'].values,
         "is_home": 0,
-        "goals_for": played['Away Score'].values,
-        "goals_against": played['Home Score'].values,
+        "goals_for": played['AwayScore'].values,
+        "goals_against": played['HomeScore'].values,
     })
 
     hist = pd.concat([home, away], ignore_index=True)
@@ -288,16 +280,52 @@ def predict_interactive(model, current_elo, team_hist, upcoming_games, window=5)
         print(f"Home Win Probability: {prob:.1%}")
         print(f"Home Elo: {current_elo[home]:.0f}, Away Elo: {current_elo[away]:.0f}")
 
+def tune_hyperparameters(games, team_hist_roll):
+    """Grid search for best Elo parameters."""
+    import itertools
+    
+    # Define parameter grid
+    k_values = [15, 20, 25, 30]
+    hfa_values = [40, 55, 70]
+    regress_values = [0.6, 0.75, 0.9]
+    
+    best_loss = float('inf')
+    best_params = (20, 55.0, 0.75)
+    
+    print(f"\n--- Starting Hyperparameter Tuning ---")
+    
+    for k, hfa, regress in itertools.product(k_values, hfa_values, regress_values):
+        # Recalculate Elo
+        games_elo, _ = add_elo_pregame(games, k=k, hfa=hfa, regress=regress)
+        
+        # Rebuild training matrix
+        X, y, meta = build_training_matrix(games_elo, team_hist_roll, window=5)
+        
+        # Train model
+        model, probs, y_test_actual, meta_valid, _ = train_logistic_model(X, y, meta)
+        
+        # Evaluate on completed test games
+        test_meta = meta_valid[X['Season'] >= 2024]
+        completed_mask = test_meta['y_home_win'].notna()
+        
+        if completed_mask.sum() > 0:
+            loss = log_loss(y_test_actual[completed_mask], probs[completed_mask])
+            if loss < best_loss:
+                best_loss = loss
+                best_params = (k, hfa, regress)
+                print(f"New Best: k={k}, hfa={hfa}, regress={regress} -> Log Loss: {loss:.5f}")
+
+    print(f"\nBest Parameters: k={best_params[0]}, hfa={best_params[1]}, regress={best_params[2]}")
+    return best_params
+
 def main():
     games = load_data()
-    print(games.head())
-
     games_elo, current_elo = add_elo_pregame(games)
     team_hist = build_team_history(games_elo)
     team_hist = add_rollups(team_hist, window=5)
 
-    print(team_hist.head(100))
-    print(games_elo.head(100))
+    best_k, best_hfa, best_regress = tune_hyperparameters(games, team_hist)
+    games_elo, current_elo = add_elo_pregame(games, k=best_k, hfa=best_hfa, regress=best_regress)
 
     X, y, meta = build_training_matrix(games_elo, team_hist, window=5)
 
@@ -307,13 +335,13 @@ def main():
     test_meta['win_prob'] = probs
 
     # Separate upcoming games from played games
-    upcoming_mask = test_meta['y_home_win'].isna()
+    # upcoming_mask = test_meta['y_home_win'].isna()
 
-    if not test_meta[~upcoming_mask].empty:
-        print(f"\nLog Loss (Completed Games): {log_loss(y_true[~upcoming_mask], probs[~upcoming_mask]):.4f}")
+    # if not test_meta[~upcoming_mask].empty:
+    #     print(f"\nLog Loss (Completed Games): {log_loss(y_true[~upcoming_mask], probs[~upcoming_mask]):.4f}")
 
     # Start interactive mode
-    predict_interactive(model, current_elo, team_hist, test_meta[upcoming_mask], window=5)
+    # predict_interactive(model, current_elo, team_hist, test_meta[upcoming_mask], window=5)
 
 if __name__ == "__main__":
     main()

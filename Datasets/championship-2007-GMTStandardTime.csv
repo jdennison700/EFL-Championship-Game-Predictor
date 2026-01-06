@@ -1,0 +1,558 @@
+Match Number,Date,Home Team,Home Score,Away Score,Away Team
+1,2007-08-11 15:00:00,Barnsley,1,4,Coventry City
+2,2007-08-11 15:00:00,Bristol City,2,2,Queens Park Rangers
+3,2007-08-11 15:00:00,Burnley,2,1,West Bromwich Albion
+4,2007-08-11 15:00:00,Cardiff City,0,1,Stoke City
+5,2007-08-11 15:00:00,Charlton Athletic,1,1,Scunthorpe United
+6,2007-08-11 15:00:00,Hull City,2,3,Plymouth Argyle
+7,2007-08-11 15:00:00,Ipswich Town,4,1,Sheffield Wednesday
+8,2007-08-11 15:00:00,Leicester City,0,1,Blackpool
+9,2007-08-11 15:00:00,Preston North End,0,0,Norwich City
+10,2007-08-11 15:00:00,Sheffield United,2,2,Colchester United
+11,2007-08-11 15:00:00,Southampton,1,4,Crystal Palace
+12,2007-08-11 17:20:00,Wolverhampton Wanderers,1,2,Watford
+13,2007-08-18 15:00:00,Blackpool,1,1,Bristol City
+14,2007-08-18 15:00:00,Colchester United,2,2,Barnsley
+15,2007-08-18 15:00:00,Coventry City,1,1,Hull City
+16,2007-08-18 15:00:00,Crystal Palace,2,2,Leicester City
+17,2007-08-18 15:00:00,Norwich City,2,1,Southampton
+18,2007-08-18 15:00:00,Plymouth Argyle,1,1,Ipswich Town
+19,2007-08-18 15:00:00,Queens Park Rangers,0,2,Cardiff City
+20,2007-08-18 15:00:00,Scunthorpe United,2,0,Burnley
+21,2007-08-18 15:00:00,Watford,1,0,Sheffield United
+22,2007-08-18 15:00:00,West Bromwich Albion,2,0,Preston North End
+23,2007-08-18 17:20:00,Stoke City,2,1,Charlton Athletic
+24,2007-08-19 13:30:00,Sheffield Wednesday,1,3,Wolverhampton Wanderers
+25,2007-08-25 15:00:00,Barnsley,3,2,Plymouth Argyle
+26,2007-08-25 15:00:00,Bristol City,2,1,Scunthorpe United
+27,2007-08-25 15:00:00,Cardiff City,0,1,Coventry City
+28,2007-08-25 15:00:00,Charlton Athletic,3,2,Sheffield Wednesday
+29,2007-08-25 15:00:00,Hull City,2,1,Norwich City
+30,2007-08-25 15:00:00,Leicester City,4,1,Watford
+31,2007-08-25 15:00:00,Preston North End,0,3,Colchester United
+32,2007-08-25 15:00:00,Southampton,3,2,Stoke City
+33,2007-08-25 15:00:00,Wolverhampton Wanderers,2,1,Blackpool
+34,2007-08-25 17:20:00,Sheffield United,1,0,West Bromwich Albion
+35,2007-08-26 13:15:00,Ipswich Town,1,0,Crystal Palace
+36,2007-09-01 12:45:00,Sheffield Wednesday,0,1,Bristol City
+37,2007-09-01 15:00:00,Colchester United,2,3,Burnley
+38,2007-09-01 15:00:00,Crystal Palace,0,1,Charlton Athletic
+39,2007-09-01 15:00:00,Norwich City,1,2,Cardiff City
+40,2007-09-01 15:00:00,Plymouth Argyle,0,0,Leicester City
+41,2007-09-01 15:00:00,Queens Park Rangers,0,3,Southampton
+42,2007-09-01 15:00:00,Scunthorpe United,3,2,Sheffield United
+43,2007-09-01 15:00:00,Stoke City,0,0,Wolverhampton Wanderers
+44,2007-09-01 15:00:00,Watford,2,0,Ipswich Town
+45,2007-09-01 15:00:00,West Bromwich Albion,2,0,Barnsley
+46,2007-09-01 17:20:00,Coventry City,2,1,Preston North End
+47,2007-09-03 19:45:00,Blackpool,2,1,Hull City
+48,2007-09-15 15:00:00,Barnsley,2,0,Scunthorpe United
+49,2007-09-15 15:00:00,Burnley,2,2,Blackpool
+50,2007-09-15 15:00:00,Colchester United,2,2,Charlton Athletic
+51,2007-09-15 15:00:00,Coventry City,0,3,Bristol City
+52,2007-09-15 15:00:00,Hull City,1,1,Stoke City
+53,2007-09-15 15:00:00,Leicester City,1,1,Queens Park Rangers
+54,2007-09-15 15:00:00,Norwich City,1,0,Crystal Palace
+55,2007-09-15 15:00:00,Preston North End,1,0,Sheffield Wednesday
+56,2007-09-15 15:00:00,Sheffield United,3,1,Wolverhampton Wanderers
+57,2007-09-15 15:00:00,West Bromwich Albion,4,0,Ipswich Town
+58,2007-09-15 17:20:00,Plymouth Argyle,2,2,Cardiff City
+59,2007-09-16 13:15:00,Watford,3,2,Southampton
+60,2007-09-18 19:45:00,Blackpool,2,2,Sheffield United
+61,2007-09-18 19:45:00,Bristol City,1,1,West Bromwich Albion
+62,2007-09-18 19:45:00,Charlton Athletic,2,0,Norwich City
+63,2007-09-18 19:45:00,Crystal Palace,1,1,Coventry City
+64,2007-09-18 19:45:00,Queens Park Rangers,0,2,Plymouth Argyle
+65,2007-09-18 19:45:00,Scunthorpe United,2,1,Preston North End
+66,2007-09-18 19:45:00,Sheffield Wednesday,0,2,Burnley
+67,2007-09-18 19:45:00,Stoke City,0,0,Barnsley
+68,2007-09-18 19:45:00,Wolverhampton Wanderers,0,1,Hull City
+69,2007-09-19 19:45:00,Cardiff City,1,2,Watford
+70,2007-09-19 19:45:00,Southampton,1,1,Colchester United
+71,2007-09-22 15:00:00,Blackpool,2,2,Colchester United
+72,2007-09-22 15:00:00,Bristol City,2,2,Burnley
+73,2007-09-22 15:00:00,Cardiff City,2,2,Preston North End
+74,2007-09-22 15:00:00,Charlton Athletic,2,0,Leicester City
+75,2007-09-22 15:00:00,Crystal Palace,3,2,Sheffield United
+76,2007-09-22 15:00:00,Ipswich Town,4,1,Coventry City
+77,2007-09-22 15:00:00,Queens Park Rangers,1,1,Watford
+78,2007-09-22 15:00:00,Scunthorpe United,2,3,West Bromwich Albion
+79,2007-09-22 15:00:00,Sheffield Wednesday,1,0,Hull City
+80,2007-09-22 15:00:00,Southampton,2,3,Barnsley
+81,2007-09-22 15:00:00,Stoke City,3,2,Plymouth Argyle
+82,2007-09-22 15:00:00,Wolverhampton Wanderers,2,0,Norwich City
+83,2007-09-29 12:30:00,Hull City,3,1,Ipswich Town
+84,2007-09-29 15:00:00,Barnsley,1,1,Cardiff City
+85,2007-09-29 15:00:00,Burnley,1,1,Crystal Palace
+86,2007-09-29 15:00:00,Colchester United,0,1,Scunthorpe United
+87,2007-09-29 15:00:00,Coventry City,1,1,Charlton Athletic
+88,2007-09-29 15:00:00,Leicester City,1,1,Stoke City
+89,2007-09-29 15:00:00,Plymouth Argyle,1,1,Wolverhampton Wanderers
+90,2007-09-29 15:00:00,Preston North End,0,0,Bristol City
+91,2007-09-29 15:00:00,Sheffield United,1,2,Southampton
+92,2007-09-29 15:00:00,Watford,1,1,Blackpool
+93,2007-09-29 17:20:00,Norwich City,0,1,Sheffield Wednesday
+94,2007-09-30 13:15:00,West Bromwich Albion,5,1,Queens Park Rangers
+95,2007-10-02 19:45:00,Barnsley,3,0,Bristol City
+96,2007-10-02 19:45:00,Burnley,2,2,Ipswich Town
+97,2007-10-02 19:45:00,Coventry City,3,1,Blackpool
+98,2007-10-02 19:45:00,Hull City,1,2,Charlton Athletic
+99,2007-10-02 19:45:00,Leicester City,0,0,Wolverhampton Wanderers
+100,2007-10-02 19:45:00,Norwich City,0,0,Scunthorpe United
+101,2007-10-02 19:45:00,Plymouth Argyle,1,0,Crystal Palace
+102,2007-10-02 19:45:00,Preston North End,5,1,Southampton
+103,2007-10-02 19:45:00,Sheffield United,3,3,Cardiff City
+104,2007-10-02 19:45:00,Watford,2,1,Sheffield Wednesday
+105,2007-10-03 19:45:00,Colchester United,4,2,Queens Park Rangers
+106,2007-10-03 19:45:00,West Bromwich Albion,1,1,Stoke City
+107,2007-10-06 15:00:00,Blackpool,0,0,Plymouth Argyle
+108,2007-10-06 15:00:00,Cardiff City,2,1,Burnley
+109,2007-10-06 15:00:00,Charlton Athletic,1,1,Barnsley
+110,2007-10-06 15:00:00,Crystal Palace,1,1,Hull City
+111,2007-10-06 15:00:00,Ipswich Town,2,1,Preston North End
+112,2007-10-06 15:00:00,Scunthorpe United,1,3,Watford
+113,2007-10-06 15:00:00,Sheffield Wednesday,0,2,Leicester City
+114,2007-10-06 15:00:00,Southampton,3,2,West Bromwich Albion
+115,2007-10-06 15:00:00,Stoke City,2,1,Colchester United
+116,2007-10-06 15:00:00,Wolverhampton Wanderers,1,0,Coventry City
+117,2007-10-06 17:20:00,Bristol City,2,0,Sheffield United
+118,2007-10-08 19:45:00,Queens Park Rangers,1,0,Norwich City
+119,2007-10-20 15:00:00,Barnsley,1,1,Burnley
+120,2007-10-20 15:00:00,Blackpool,1,1,Crystal Palace
+121,2007-10-20 15:00:00,Colchester United,3,2,West Bromwich Albion
+122,2007-10-20 15:00:00,Norwich City,1,3,Bristol City
+123,2007-10-20 15:00:00,Plymouth Argyle,1,0,Coventry City
+124,2007-10-20 15:00:00,Queens Park Rangers,1,1,Ipswich Town
+125,2007-10-20 15:00:00,Sheffield United,1,1,Preston North End
+126,2007-10-20 15:00:00,Stoke City,2,4,Sheffield Wednesday
+127,2007-10-20 15:00:00,Watford,1,0,Hull City
+128,2007-10-20 15:00:00,Wolverhampton Wanderers,2,0,Charlton Athletic
+129,2007-10-20 17:20:00,Scunthorpe United,0,0,Leicester City
+130,2007-10-21 13:15:00,Southampton,1,0,Cardiff City
+131,2007-10-22 19:45:00,Hull City,3,0,Barnsley
+132,2007-10-23 19:45:00,Burnley,2,1,Norwich City
+133,2007-10-23 19:45:00,Coventry City,0,3,Watford
+134,2007-10-23 19:45:00,Ipswich Town,3,1,Colchester United
+135,2007-10-23 19:45:00,Leicester City,0,1,Sheffield United
+136,2007-10-23 19:45:00,Preston North End,0,0,Queens Park Rangers
+137,2007-10-23 19:45:00,Sheffield Wednesday,1,2,Scunthorpe United
+138,2007-10-23 19:45:00,West Bromwich Albion,2,1,Blackpool
+139,2007-10-23 20:00:00,Charlton Athletic,1,2,Plymouth Argyle
+140,2007-10-23 20:00:00,Crystal Palace,1,3,Stoke City
+141,2007-10-24 19:45:00,Bristol City,2,1,Southampton
+142,2007-10-24 19:45:00,Cardiff City,2,3,Wolverhampton Wanderers
+143,2007-10-27 12:45:00,Charlton Athletic,0,1,Queens Park Rangers
+144,2007-10-27 15:00:00,Bristol City,1,0,Stoke City
+145,2007-10-27 15:00:00,Cardiff City,1,1,Scunthorpe United
+146,2007-10-27 15:00:00,Coventry City,1,0,Colchester United
+147,2007-10-27 15:00:00,Hull City,1,1,Sheffield United
+148,2007-10-27 15:00:00,Ipswich Town,3,0,Wolverhampton Wanderers
+149,2007-10-27 15:00:00,Leicester City,2,0,Barnsley
+150,2007-10-27 15:00:00,Preston North End,2,0,Plymouth Argyle
+151,2007-10-27 15:00:00,Sheffield Wednesday,2,1,Blackpool
+152,2007-10-27 15:00:00,West Bromwich Albion,2,0,Norwich City
+153,2007-10-27 17:20:00,Burnley,2,3,Southampton
+154,2007-10-29 20:00:00,Crystal Palace,0,2,Watford
+155,2007-11-03 15:00:00,Barnsley,1,0,Preston North End
+156,2007-11-03 15:00:00,Plymouth Argyle,1,2,Sheffield Wednesday
+157,2007-11-03 15:00:00,Queens Park Rangers,2,0,Hull City
+158,2007-11-03 15:00:00,Scunthorpe United,0,0,Crystal Palace
+159,2007-11-03 15:00:00,Sheffield United,0,0,Burnley
+160,2007-11-03 15:00:00,Southampton,0,1,Charlton Athletic
+161,2007-11-03 15:00:00,Stoke City,1,3,Coventry City
+162,2007-11-03 15:00:00,Watford,0,3,West Bromwich Albion
+163,2007-11-03 15:00:00,Wolverhampton Wanderers,1,1,Bristol City
+164,2007-11-03 17:20:00,Colchester United,1,1,Leicester City
+165,2007-11-04 12:45:00,Norwich City,2,2,Ipswich Town
+166,2007-11-05 19:45:00,Barnsley,2,1,Blackpool
+167,2007-11-06 19:30:00,Scunthorpe United,2,3,Stoke City
+168,2007-11-06 19:45:00,Bristol City,0,1,Charlton Athletic
+169,2007-11-06 19:45:00,Burnley,0,1,Hull City
+170,2007-11-06 19:45:00,Cardiff City,1,1,Crystal Palace
+171,2007-11-06 19:45:00,Colchester United,1,1,Plymouth Argyle
+172,2007-11-06 19:45:00,Norwich City,1,3,Watford
+173,2007-11-06 19:45:00,Preston North End,1,1,Leicester City
+174,2007-11-06 19:45:00,Sheffield United,3,1,Ipswich Town
+175,2007-11-06 19:45:00,Southampton,0,0,Wolverhampton Wanderers
+176,2007-11-06 19:45:00,West Bromwich Albion,1,1,Sheffield Wednesday
+177,2007-11-06 20:00:00,Queens Park Rangers,1,2,Coventry City
+178,2007-11-10 15:00:00,Blackpool,1,0,Scunthorpe United
+179,2007-11-10 15:00:00,Charlton Athletic,3,0,Cardiff City
+180,2007-11-10 15:00:00,Crystal Palace,1,1,Queens Park Rangers
+181,2007-11-10 15:00:00,Hull City,3,0,Preston North End
+182,2007-11-10 15:00:00,Ipswich Town,6,0,Bristol City
+183,2007-11-10 15:00:00,Leicester City,0,1,Burnley
+184,2007-11-10 15:00:00,Plymouth Argyle,3,0,Norwich City
+185,2007-11-10 15:00:00,Sheffield Wednesday,5,0,Southampton
+186,2007-11-10 15:00:00,Watford,2,2,Colchester United
+187,2007-11-10 15:00:00,Wolverhampton Wanderers,1,0,Barnsley
+188,2007-11-10 17:20:00,Stoke City,0,1,Sheffield United
+189,2007-11-12 19:45:00,Coventry City,0,4,West Bromwich Albion
+190,2007-11-24 12:00:00,Cardiff City,1,0,Ipswich Town
+191,2007-11-24 12:00:00,Scunthorpe United,1,2,Hull City
+192,2007-11-24 15:00:00,Barnsley,3,2,Watford
+193,2007-11-24 15:00:00,Bristol City,0,2,Leicester City
+194,2007-11-24 15:00:00,Burnley,0,0,Stoke City
+195,2007-11-24 15:00:00,Colchester United,1,2,Crystal Palace
+196,2007-11-24 15:00:00,Norwich City,2,0,Coventry City
+197,2007-11-24 15:00:00,Queens Park Rangers,0,0,Sheffield Wednesday
+198,2007-11-24 15:00:00,Sheffield United,0,1,Plymouth Argyle
+199,2007-11-24 15:00:00,Southampton,1,0,Blackpool
+200,2007-11-24 17:20:00,Preston North End,0,2,Charlton Athletic
+201,2007-11-25 12:00:00,West Bromwich Albion,0,0,Wolverhampton Wanderers
+202,2007-11-26 20:00:00,Leicester City,0,0,Cardiff City
+203,2007-11-27 19:45:00,Blackpool,1,3,Norwich City
+204,2007-11-27 19:45:00,Coventry City,1,1,Scunthorpe United
+205,2007-11-27 19:45:00,Hull City,0,0,Bristol City
+206,2007-11-27 19:45:00,Ipswich Town,2,0,Southampton
+207,2007-11-27 19:45:00,Sheffield Wednesday,1,0,Barnsley
+208,2007-11-27 19:45:00,Stoke City,3,1,Queens Park Rangers
+209,2007-11-27 19:45:00,Watford,1,2,Burnley
+210,2007-11-27 20:00:00,Charlton Athletic,0,3,Sheffield United
+211,2007-11-27 20:00:00,Crystal Palace,2,1,Preston North End
+212,2007-11-28 19:45:00,Plymouth Argyle,1,2,West Bromwich Albion
+213,2007-11-28 19:45:00,Wolverhampton Wanderers,1,0,Colchester United
+214,2007-12-01 15:00:00,Blackpool,1,0,Queens Park Rangers
+215,2007-12-01 15:00:00,Charlton Athletic,1,3,Burnley
+216,2007-12-01 15:00:00,Coventry City,0,1,Sheffield United
+217,2007-12-01 15:00:00,Crystal Palace,1,1,West Bromwich Albion
+218,2007-12-01 15:00:00,Hull City,2,2,Cardiff City
+219,2007-12-01 15:00:00,Ipswich Town,0,0,Barnsley
+220,2007-12-01 15:00:00,Leicester City,1,2,Southampton
+221,2007-12-01 15:00:00,Plymouth Argyle,3,0,Scunthorpe United
+222,2007-12-01 15:00:00,Sheffield Wednesday,1,2,Colchester United
+223,2007-12-01 15:00:00,Stoke City,2,1,Norwich City
+224,2007-12-01 15:00:00,Wolverhampton Wanderers,1,0,Preston North End
+225,2007-12-01 17:20:00,Watford,1,2,Bristol City
+226,2007-12-03 20:00:00,Scunthorpe United,1,1,Blackpool
+227,2007-12-04 19:45:00,Barnsley,1,0,Wolverhampton Wanderers
+228,2007-12-04 19:45:00,Bristol City,2,0,Ipswich Town
+229,2007-12-04 19:45:00,Burnley,1,1,Leicester City
+230,2007-12-04 19:45:00,Cardiff City,0,2,Charlton Athletic
+231,2007-12-04 19:45:00,Colchester United,2,3,Watford
+232,2007-12-04 19:45:00,Norwich City,2,1,Plymouth Argyle
+233,2007-12-04 19:45:00,Preston North End,3,0,Hull City
+234,2007-12-04 19:45:00,Sheffield United,0,3,Stoke City
+235,2007-12-04 19:45:00,Southampton,0,0,Sheffield Wednesday
+236,2007-12-04 19:45:00,West Bromwich Albion,2,4,Coventry City
+237,2007-12-04 20:00:00,Queens Park Rangers,1,2,Crystal Palace
+238,2007-12-08 12:30:00,Plymouth Argyle,1,1,Bristol City
+239,2007-12-08 12:30:00,Preston North End,0,1,Blackpool
+240,2007-12-08 14:15:00,Leicester City,1,2,West Bromwich Albion
+241,2007-12-08 15:00:00,Barnsley,0,0,Crystal Palace
+242,2007-12-08 15:00:00,Cardiff City,4,1,Colchester United
+243,2007-12-08 15:00:00,Charlton Athletic,3,1,Ipswich Town
+244,2007-12-08 15:00:00,Norwich City,1,0,Sheffield United
+245,2007-12-08 15:00:00,Scunthorpe United,2,2,Queens Park Rangers
+246,2007-12-08 15:00:00,Southampton,4,0,Hull City
+247,2007-12-08 17:20:00,Wolverhampton Wanderers,2,3,Burnley
+248,2007-12-09 13:15:00,Stoke City,0,0,Watford
+249,2007-12-11 19:45:00,Blackpool,0,1,Cardiff City
+250,2007-12-11 19:45:00,Burnley,0,2,Queens Park Rangers
+251,2007-12-11 19:45:00,Ipswich Town,3,1,Leicester City
+252,2007-12-15 12:45:00,West Bromwich Albion,4,2,Charlton Athletic
+253,2007-12-15 15:00:00,Blackpool,2,3,Stoke City
+254,2007-12-15 15:00:00,Bristol City,1,0,Cardiff City
+255,2007-12-15 15:00:00,Burnley,2,3,Preston North End
+256,2007-12-15 15:00:00,Coventry City,1,1,Southampton
+257,2007-12-15 15:00:00,Crystal Palace,2,1,Sheffield Wednesday
+258,2007-12-15 15:00:00,Hull City,2,0,Leicester City
+259,2007-12-15 15:00:00,Ipswich Town,3,2,Scunthorpe United
+260,2007-12-15 15:00:00,Queens Park Rangers,0,0,Wolverhampton Wanderers
+261,2007-12-15 15:00:00,Sheffield United,1,0,Barnsley
+262,2007-12-15 15:00:00,Watford,0,1,Plymouth Argyle
+263,2007-12-15 17:20:00,Colchester United,1,1,Norwich City
+264,2007-12-22 15:00:00,Blackpool,4,0,Coventry City
+265,2007-12-22 15:00:00,Bristol City,3,2,Barnsley
+266,2007-12-22 15:00:00,Cardiff City,1,0,Sheffield United
+267,2007-12-22 15:00:00,Charlton Athletic,1,1,Hull City
+268,2007-12-22 15:00:00,Crystal Palace,2,1,Plymouth Argyle
+269,2007-12-22 15:00:00,Ipswich Town,0,0,Burnley
+270,2007-12-22 15:00:00,Queens Park Rangers,2,1,Colchester United
+271,2007-12-22 15:00:00,Scunthorpe United,0,1,Norwich City
+272,2007-12-22 15:00:00,Sheffield Wednesday,0,1,Watford
+273,2007-12-22 15:00:00,Southampton,0,1,Preston North End
+274,2007-12-22 15:00:00,Stoke City,3,1,West Bromwich Albion
+275,2007-12-22 17:20:00,Wolverhampton Wanderers,1,1,Leicester City
+276,2007-12-26 12:00:00,Watford,2,2,Cardiff City
+277,2007-12-26 15:00:00,Barnsley,3,3,Stoke City
+278,2007-12-26 15:00:00,Burnley,1,1,Sheffield Wednesday
+279,2007-12-26 15:00:00,Colchester United,1,1,Southampton
+280,2007-12-26 15:00:00,Coventry City,0,2,Crystal Palace
+281,2007-12-26 15:00:00,Hull City,2,0,Wolverhampton Wanderers
+282,2007-12-26 15:00:00,Leicester City,2,0,Ipswich Town
+283,2007-12-26 15:00:00,Norwich City,1,1,Charlton Athletic
+284,2007-12-26 15:00:00,Plymouth Argyle,2,1,Queens Park Rangers
+285,2007-12-26 15:00:00,Preston North End,0,1,Scunthorpe United
+286,2007-12-26 15:00:00,Sheffield United,1,1,Blackpool
+287,2007-12-26 15:00:00,West Bromwich Albion,4,1,Bristol City
+288,2007-12-29 12:45:00,Sheffield United,0,1,Crystal Palace
+289,2007-12-29 15:00:00,Barnsley,2,2,Southampton
+290,2007-12-29 15:00:00,Burnley,0,1,Bristol City
+291,2007-12-29 15:00:00,Colchester United,0,2,Blackpool
+292,2007-12-29 15:00:00,Leicester City,1,1,Charlton Athletic
+293,2007-12-29 15:00:00,Norwich City,1,1,Wolverhampton Wanderers
+294,2007-12-29 15:00:00,Plymouth Argyle,2,2,Stoke City
+295,2007-12-29 15:00:00,Preston North End,1,2,Cardiff City
+296,2007-12-29 15:00:00,Watford,2,4,Queens Park Rangers
+297,2007-12-29 15:00:00,West Bromwich Albion,5,0,Scunthorpe United
+298,2007-12-29 17:20:00,Coventry City,2,1,Ipswich Town
+299,2007-12-30 13:00:00,Hull City,1,0,Sheffield Wednesday
+300,2008-01-01 13:00:00,Cardiff City,1,0,Plymouth Argyle
+301,2008-01-01 15:00:00,Blackpool,3,0,Burnley
+302,2008-01-01 15:00:00,Bristol City,2,1,Coventry City
+303,2008-01-01 15:00:00,Charlton Athletic,1,2,Colchester United
+304,2008-01-01 15:00:00,Crystal Palace,1,1,Norwich City
+305,2008-01-01 15:00:00,Ipswich Town,2,0,West Bromwich Albion
+306,2008-01-01 15:00:00,Queens Park Rangers,3,1,Leicester City
+307,2008-01-01 15:00:00,Scunthorpe United,2,2,Barnsley
+308,2008-01-01 15:00:00,Sheffield Wednesday,2,1,Preston North End
+309,2008-01-01 15:00:00,Southampton,0,3,Watford
+310,2008-01-01 15:00:00,Stoke City,1,1,Hull City
+311,2008-01-01 15:00:00,Wolverhampton Wanderers,0,0,Sheffield United
+312,2008-01-12 15:00:00,Barnsley,1,3,Norwich City
+313,2008-01-12 15:00:00,Bristol City,1,1,Colchester United
+314,2008-01-12 15:00:00,Burnley,1,0,Plymouth Argyle
+315,2008-01-12 15:00:00,Cardiff City,1,0,Sheffield Wednesday
+316,2008-01-12 15:00:00,Charlton Athletic,4,1,Blackpool
+317,2008-01-12 15:00:00,Ipswich Town,1,1,Stoke City
+318,2008-01-12 15:00:00,Leicester City,2,0,Coventry City
+319,2008-01-12 15:00:00,Preston North End,1,0,Watford
+320,2008-01-12 15:00:00,Sheffield United,2,1,Queens Park Rangers
+321,2008-01-12 15:00:00,Southampton,1,0,Scunthorpe United
+322,2008-01-12 15:00:00,Wolverhampton Wanderers,0,3,Crystal Palace
+323,2008-01-12 17:20:00,Hull City,1,3,West Bromwich Albion
+324,2008-01-19 12:45:00,Sheffield Wednesday,2,0,Sheffield United
+325,2008-01-19 15:00:00,Blackpool,1,1,Ipswich Town
+326,2008-01-19 15:00:00,Coventry City,1,2,Burnley
+327,2008-01-19 15:00:00,Crystal Palace,2,0,Bristol City
+328,2008-01-19 15:00:00,Norwich City,0,0,Leicester City
+329,2008-01-19 15:00:00,Plymouth Argyle,1,1,Southampton
+330,2008-01-19 15:00:00,Queens Park Rangers,2,0,Barnsley
+331,2008-01-19 15:00:00,Scunthorpe United,0,2,Wolverhampton Wanderers
+332,2008-01-19 15:00:00,Stoke City,3,1,Preston North End
+333,2008-01-19 15:00:00,West Bromwich Albion,3,3,Cardiff City
+334,2008-01-19 17:20:00,Watford,1,1,Charlton Athletic
+335,2008-01-26 15:00:00,Bristol City,1,0,Blackpool
+336,2008-01-26 15:00:00,Burnley,2,0,Scunthorpe United
+337,2008-01-28 19:45:00,Leicester City,1,0,Crystal Palace
+338,2008-01-29 19:45:00,Barnsley,1,0,Colchester United
+339,2008-01-29 19:45:00,Cardiff City,3,1,Queens Park Rangers
+340,2008-01-29 19:45:00,Charlton Athletic,1,0,Stoke City
+341,2008-01-29 19:45:00,Hull City,1,0,Coventry City
+342,2008-01-29 19:45:00,Ipswich Town,0,0,Plymouth Argyle
+343,2008-01-29 19:45:00,Preston North End,2,1,West Bromwich Albion
+344,2008-01-29 19:45:00,Sheffield United,1,1,Watford
+345,2008-01-29 19:45:00,Southampton,0,1,Norwich City
+346,2008-01-29 19:45:00,Wolverhampton Wanderers,2,1,Sheffield Wednesday
+347,2008-02-02 12:30:00,Stoke City,2,1,Cardiff City
+348,2008-02-02 15:00:00,Blackpool,2,1,Leicester City
+349,2008-02-02 15:00:00,Colchester United,2,2,Sheffield United
+350,2008-02-02 15:00:00,Coventry City,4,0,Barnsley
+351,2008-02-02 15:00:00,Crystal Palace,1,1,Southampton
+352,2008-02-02 15:00:00,Norwich City,1,0,Preston North End
+353,2008-02-02 15:00:00,Plymouth Argyle,0,1,Hull City
+354,2008-02-02 15:00:00,Queens Park Rangers,3,0,Bristol City
+355,2008-02-02 15:00:00,Scunthorpe United,1,0,Charlton Athletic
+356,2008-02-02 15:00:00,Sheffield Wednesday,1,2,Ipswich Town
+357,2008-02-02 15:00:00,West Bromwich Albion,2,1,Burnley
+358,2008-02-02 17:20:00,Watford,3,0,Wolverhampton Wanderers
+359,2008-02-08 19:45:00,Charlton Athletic,2,0,Crystal Palace
+360,2008-02-09 12:00:00,Cardiff City,1,2,Norwich City
+361,2008-02-09 15:00:00,Barnsley,2,1,West Bromwich Albion
+362,2008-02-09 15:00:00,Bristol City,2,1,Sheffield Wednesday
+363,2008-02-09 15:00:00,Burnley,1,1,Colchester United
+364,2008-02-09 15:00:00,Hull City,2,2,Blackpool
+365,2008-02-09 15:00:00,Ipswich Town,1,2,Watford
+366,2008-02-09 15:00:00,Preston North End,1,0,Coventry City
+367,2008-02-09 15:00:00,Sheffield United,0,0,Scunthorpe United
+368,2008-02-09 15:00:00,Southampton,2,3,Queens Park Rangers
+369,2008-02-09 15:00:00,Wolverhampton Wanderers,2,4,Stoke City
+370,2008-02-09 17:20:00,Leicester City,0,1,Plymouth Argyle
+371,2008-02-12 19:30:00,Scunthorpe United,0,1,Bristol City
+372,2008-02-12 19:45:00,Blackpool,0,0,Wolverhampton Wanderers
+373,2008-02-12 19:45:00,Colchester United,2,1,Preston North End
+374,2008-02-12 19:45:00,Coventry City,0,0,Cardiff City
+375,2008-02-12 19:45:00,Norwich City,1,1,Hull City
+376,2008-02-12 19:45:00,Plymouth Argyle,3,0,Barnsley
+377,2008-02-12 19:45:00,Sheffield Wednesday,0,0,Charlton Athletic
+378,2008-02-12 19:45:00,Stoke City,3,2,Southampton
+379,2008-02-12 19:45:00,Watford,1,0,Leicester City
+380,2008-02-12 19:45:00,West Bromwich Albion,0,0,Sheffield United
+381,2008-02-12 20:00:00,Crystal Palace,0,1,Ipswich Town
+382,2008-02-12 20:00:00,Queens Park Rangers,2,4,Burnley
+383,2008-02-15 19:45:00,Stoke City,3,2,Scunthorpe United
+384,2008-02-16 15:00:00,Charlton Athletic,2,2,Watford
+385,2008-02-16 15:00:00,Hull City,1,1,Colchester United
+386,2008-02-16 15:00:00,Ipswich Town,2,1,Blackpool
+387,2008-02-16 15:00:00,Leicester City,4,0,Norwich City
+388,2008-02-18 19:45:00,Bristol City,1,1,Crystal Palace
+389,2008-02-19 19:45:00,Southampton,0,2,Plymouth Argyle
+390,2008-02-23 15:00:00,Blackpool,5,3,Charlton Athletic
+391,2008-02-23 15:00:00,Colchester United,1,2,Bristol City
+392,2008-02-23 15:00:00,Coventry City,2,0,Leicester City
+393,2008-02-23 15:00:00,Crystal Palace,0,2,Wolverhampton Wanderers
+394,2008-02-23 15:00:00,Norwich City,1,0,Barnsley
+395,2008-02-23 15:00:00,Plymouth Argyle,3,1,Burnley
+396,2008-02-23 15:00:00,Queens Park Rangers,1,1,Sheffield United
+397,2008-02-23 15:00:00,Scunthorpe United,1,1,Southampton
+398,2008-02-23 15:00:00,Sheffield Wednesday,1,0,Cardiff City
+399,2008-02-23 15:00:00,Stoke City,1,0,Ipswich Town
+400,2008-02-23 15:00:00,Watford,0,0,Preston North End
+401,2008-02-23 15:00:00,West Bromwich Albion,1,2,Hull City
+402,2008-02-26 19:45:00,Barnsley,0,0,Queens Park Rangers
+403,2008-02-26 19:45:00,Burnley,2,0,Coventry City
+404,2008-02-26 19:45:00,Preston North End,2,0,Stoke City
+405,2008-03-01 15:00:00,Barnsley,0,0,Sheffield Wednesday
+406,2008-03-01 15:00:00,Bristol City,2,1,Hull City
+407,2008-03-01 15:00:00,Burnley,2,2,Watford
+408,2008-03-01 15:00:00,Cardiff City,0,1,Leicester City
+409,2008-03-01 15:00:00,Colchester United,0,1,Wolverhampton Wanderers
+410,2008-03-01 15:00:00,Norwich City,1,2,Blackpool
+411,2008-03-01 15:00:00,Preston North End,0,1,Crystal Palace
+412,2008-03-01 15:00:00,Scunthorpe United,2,1,Coventry City
+413,2008-03-01 15:00:00,Sheffield United,0,2,Charlton Athletic
+414,2008-03-01 15:00:00,Southampton,1,1,Ipswich Town
+415,2008-03-01 15:00:00,West Bromwich Albion,3,0,Plymouth Argyle
+416,2008-03-02 13:15:00,Queens Park Rangers,3,0,Stoke City
+417,2008-03-04 19:45:00,Blackpool,1,1,Barnsley
+418,2008-03-04 19:45:00,Charlton Athletic,1,1,Bristol City
+419,2008-03-04 19:45:00,Hull City,2,0,Burnley
+420,2008-03-04 19:45:00,Ipswich Town,1,1,Sheffield United
+421,2008-03-04 19:45:00,Leicester City,0,1,Preston North End
+422,2008-03-04 19:45:00,Plymouth Argyle,4,1,Colchester United
+423,2008-03-04 19:45:00,Sheffield Wednesday,0,1,West Bromwich Albion
+424,2008-03-04 19:45:00,Watford,1,1,Norwich City
+425,2008-03-04 19:45:00,Wolverhampton Wanderers,2,2,Southampton
+426,2008-03-04 20:00:00,Crystal Palace,0,0,Cardiff City
+427,2008-03-05 19:45:00,Coventry City,0,0,Queens Park Rangers
+428,2008-03-08 15:00:00,Blackpool,2,2,Southampton
+429,2008-03-08 15:00:00,Charlton Athletic,1,2,Preston North End
+430,2008-03-08 15:00:00,Coventry City,1,0,Norwich City
+431,2008-03-08 15:00:00,Crystal Palace,2,1,Colchester United
+432,2008-03-08 15:00:00,Hull City,2,0,Scunthorpe United
+433,2008-03-08 15:00:00,Leicester City,0,0,Bristol City
+434,2008-03-08 15:00:00,Plymouth Argyle,0,1,Sheffield United
+435,2008-03-08 15:00:00,Sheffield Wednesday,2,1,Queens Park Rangers
+436,2008-03-08 15:00:00,Stoke City,1,1,Burnley
+437,2008-03-11 19:30:00,Scunthorpe United,1,0,Plymouth Argyle
+438,2008-03-11 19:45:00,Barnsley,4,1,Ipswich Town
+439,2008-03-11 19:45:00,Bristol City,0,0,Watford
+440,2008-03-11 19:45:00,Burnley,1,0,Charlton Athletic
+441,2008-03-11 19:45:00,Colchester United,1,2,Sheffield Wednesday
+442,2008-03-11 19:45:00,Norwich City,0,1,Stoke City
+443,2008-03-11 19:45:00,Preston North End,2,1,Wolverhampton Wanderers
+444,2008-03-11 19:45:00,Sheffield United,2,1,Coventry City
+445,2008-03-11 19:45:00,Southampton,1,0,Leicester City
+446,2008-03-11 20:00:00,Queens Park Rangers,3,2,Blackpool
+447,2008-03-12 19:45:00,Cardiff City,1,0,Hull City
+448,2008-03-12 19:45:00,West Bromwich Albion,1,1,Crystal Palace
+449,2008-03-15 12:30:00,Blackpool,0,0,Preston North End
+450,2008-03-15 15:00:00,Bristol City,1,2,Plymouth Argyle
+451,2008-03-15 15:00:00,Burnley,1,3,Wolverhampton Wanderers
+452,2008-03-15 15:00:00,Colchester United,1,1,Cardiff City
+453,2008-03-15 15:00:00,Coventry City,0,0,Sheffield Wednesday
+454,2008-03-15 15:00:00,Crystal Palace,2,0,Barnsley
+455,2008-03-15 15:00:00,Hull City,5,0,Southampton
+456,2008-03-15 15:00:00,Ipswich Town,2,0,Charlton Athletic
+457,2008-03-15 15:00:00,Queens Park Rangers,3,1,Scunthorpe United
+458,2008-03-15 15:00:00,Sheffield United,2,0,Norwich City
+459,2008-03-15 15:00:00,Watford,0,0,Stoke City
+460,2008-03-15 15:00:00,West Bromwich Albion,1,4,Leicester City
+461,2008-03-18 19:45:00,Colchester United,1,3,Hull City
+462,2008-03-18 19:45:00,Wolverhampton Wanderers,2,1,Scunthorpe United
+463,2008-03-21 16:45:00,Charlton Athletic,1,1,West Bromwich Albion
+464,2008-03-22 13:00:00,Preston North End,2,1,Burnley
+465,2008-03-22 15:00:00,Barnsley,0,1,Sheffield United
+466,2008-03-22 15:00:00,Cardiff City,2,1,Bristol City
+467,2008-03-22 15:00:00,Leicester City,0,2,Hull City
+468,2008-03-22 15:00:00,Norwich City,5,1,Colchester United
+469,2008-03-22 15:00:00,Plymouth Argyle,1,1,Watford
+470,2008-03-22 15:00:00,Scunthorpe United,1,2,Ipswich Town
+471,2008-03-22 15:00:00,Sheffield Wednesday,2,2,Crystal Palace
+472,2008-03-22 15:00:00,Southampton,0,0,Coventry City
+473,2008-03-22 15:00:00,Stoke City,1,1,Blackpool
+474,2008-03-22 15:00:00,Wolverhampton Wanderers,3,3,Queens Park Rangers
+475,2008-03-29 15:00:00,Bristol City,2,1,Norwich City
+476,2008-03-29 15:00:00,Burnley,2,1,Barnsley
+477,2008-03-29 15:00:00,Cardiff City,1,0,Southampton
+478,2008-03-29 15:00:00,Coventry City,3,1,Plymouth Argyle
+479,2008-03-29 15:00:00,Crystal Palace,0,0,Blackpool
+480,2008-03-29 15:00:00,Hull City,3,0,Watford
+481,2008-03-29 15:00:00,Ipswich Town,0,0,Queens Park Rangers
+482,2008-03-29 15:00:00,Leicester City,1,0,Scunthorpe United
+483,2008-03-29 15:00:00,Preston North End,3,1,Sheffield United
+484,2008-03-29 15:00:00,Sheffield Wednesday,1,1,Stoke City
+485,2008-03-29 15:00:00,West Bromwich Albion,4,3,Colchester United
+486,2008-03-29 17:20:00,Charlton Athletic,2,3,Wolverhampton Wanderers
+487,2008-04-01 19:45:00,Cardiff City,0,0,West Bromwich Albion
+488,2008-04-01 19:45:00,Sheffield Wednesday,1,1,Coventry City
+489,2008-04-05 12:00:00,Scunthorpe United,1,1,Sheffield Wednesday
+490,2008-04-05 15:00:00,Colchester United,2,0,Ipswich Town
+491,2008-04-05 15:00:00,Norwich City,2,0,Burnley
+492,2008-04-05 15:00:00,Plymouth Argyle,1,2,Charlton Athletic
+493,2008-04-05 15:00:00,Queens Park Rangers,2,2,Preston North End
+494,2008-04-05 15:00:00,Sheffield United,3,0,Leicester City
+495,2008-04-05 15:00:00,Southampton,2,0,Bristol City
+496,2008-04-05 15:00:00,Watford,2,1,Coventry City
+497,2008-04-07 20:00:00,Stoke City,1,2,Crystal Palace
+498,2008-04-08 19:45:00,Blackpool,1,3,West Bromwich Albion
+499,2008-04-08 19:45:00,Sheffield United,2,2,Sheffield Wednesday
+500,2008-04-09 19:45:00,Ipswich Town,1,1,Cardiff City
+501,2008-04-09 19:45:00,Watford,0,3,Barnsley
+502,2008-04-12 15:00:00,Bristol City,0,0,Wolverhampton Wanderers
+503,2008-04-12 15:00:00,Burnley,1,2,Sheffield United
+504,2008-04-12 15:00:00,Cardiff City,3,1,Blackpool
+505,2008-04-12 15:00:00,Charlton Athletic,1,1,Southampton
+506,2008-04-12 15:00:00,Coventry City,1,2,Stoke City
+507,2008-04-12 15:00:00,Crystal Palace,2,0,Scunthorpe United
+508,2008-04-12 15:00:00,Hull City,1,1,Queens Park Rangers
+509,2008-04-12 15:00:00,Leicester City,1,1,Colchester United
+510,2008-04-12 15:00:00,Preston North End,1,2,Barnsley
+511,2008-04-12 17:20:00,West Bromwich Albion,1,1,Watford
+512,2008-04-13 12:00:00,Ipswich Town,2,1,Norwich City
+513,2008-04-14 20:00:00,Sheffield Wednesday,1,1,Plymouth Argyle
+514,2008-04-15 19:45:00,Barnsley,1,3,Hull City
+515,2008-04-15 19:45:00,Wolverhampton Wanderers,0,1,West Bromwich Albion
+516,2008-04-19 15:00:00,Barnsley,0,1,Leicester City
+517,2008-04-19 15:00:00,Blackpool,2,1,Sheffield Wednesday
+518,2008-04-19 15:00:00,Colchester United,1,5,Coventry City
+519,2008-04-19 15:00:00,Norwich City,1,2,West Bromwich Albion
+520,2008-04-19 15:00:00,Plymouth Argyle,2,2,Preston North End
+521,2008-04-19 15:00:00,Queens Park Rangers,1,0,Charlton Athletic
+522,2008-04-19 15:00:00,Scunthorpe United,3,2,Cardiff City
+523,2008-04-19 15:00:00,Sheffield United,2,0,Hull City
+524,2008-04-19 15:00:00,Southampton,0,1,Burnley
+525,2008-04-19 15:00:00,Watford,0,2,Crystal Palace
+526,2008-04-19 15:00:00,Wolverhampton Wanderers,1,1,Ipswich Town
+527,2008-04-19 17:20:00,Stoke City,2,1,Bristol City
+528,2008-04-22 19:45:00,Wolverhampton Wanderers,3,0,Cardiff City
+529,2008-04-26 15:00:00,Barnsley,3,0,Charlton Athletic
+530,2008-04-26 15:00:00,Burnley,3,3,Cardiff City
+531,2008-04-26 15:00:00,Colchester United,0,1,Stoke City
+532,2008-04-26 15:00:00,Coventry City,1,1,Wolverhampton Wanderers
+533,2008-04-26 15:00:00,Hull City,2,1,Crystal Palace
+534,2008-04-26 15:00:00,Leicester City,1,3,Sheffield Wednesday
+535,2008-04-26 15:00:00,Norwich City,3,0,Queens Park Rangers
+536,2008-04-26 15:00:00,Plymouth Argyle,3,0,Blackpool
+537,2008-04-26 15:00:00,Preston North End,2,2,Ipswich Town
+538,2008-04-26 15:00:00,Sheffield United,2,1,Bristol City
+539,2008-04-26 15:00:00,Watford,0,1,Scunthorpe United
+540,2008-04-28 19:45:00,West Bromwich Albion,1,1,Southampton
+541,2008-05-04 14:00:00,Blackpool,1,1,Watford
+542,2008-05-04 14:00:00,Bristol City,3,0,Preston North End
+543,2008-05-04 14:00:00,Cardiff City,3,0,Barnsley
+544,2008-05-04 14:00:00,Charlton Athletic,4,1,Coventry City
+545,2008-05-04 14:00:00,Crystal Palace,5,0,Burnley
+546,2008-05-04 14:00:00,Ipswich Town,1,0,Hull City
+547,2008-05-04 14:00:00,Queens Park Rangers,0,2,West Bromwich Albion
+548,2008-05-04 14:00:00,Scunthorpe United,3,3,Colchester United
+549,2008-05-04 14:00:00,Sheffield Wednesday,4,1,Norwich City
+550,2008-05-04 14:00:00,Southampton,3,2,Sheffield United
+551,2008-05-04 14:00:00,Stoke City,0,0,Leicester City
+552,2008-05-04 14:00:00,Wolverhampton Wanderers,1,0,Plymouth Argyle
+553,2008-05-10 12:15:00,Crystal Palace,1,2,Bristol City
+554,2008-05-11 12:00:00,Watford,0,2,Hull City
+555,2008-05-13 19:45:00,Bristol City,2,1,Crystal Palace
+556,2008-05-14 19:45:00,Hull City,4,1,Watford
+557,2008-05-24 15:00:00,Bristol City,0,1,Hull City

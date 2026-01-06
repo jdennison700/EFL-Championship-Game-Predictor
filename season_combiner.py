@@ -77,3 +77,6 @@ def make_combined_csv():
         print("No matching CSV files found.")
 
 
+make_combined_csv()
+
+

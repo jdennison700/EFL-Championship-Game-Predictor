@@ -1,0 +1,558 @@
+Match Number,Date,Home Team,Home Score,Away Score,Away Team
+1,2006-08-05 12:30:00,Luton Town,2,0,Leicester City
+2,2006-08-05 15:00:00,Barnsley,1,2,Cardiff City
+3,2006-08-05 15:00:00,Birmingham City,2,1,Colchester United
+4,2006-08-05 15:00:00,Burnley,2,0,Queens Park Rangers
+5,2006-08-05 15:00:00,Ipswich Town,1,2,Crystal Palace
+6,2006-08-05 15:00:00,Leeds United,1,0,Norwich City
+7,2006-08-05 15:00:00,Plymouth Argyle,1,1,Wolverhampton Wanderers
+8,2006-08-05 15:00:00,Preston North End,0,0,Sheffield Wednesday
+9,2006-08-05 15:00:00,Southend United,1,0,Stoke City
+10,2006-08-05 15:00:00,West Bromwich Albion,2,0,Hull City
+11,2006-08-06 13:30:00,Coventry City,2,1,Sunderland
+12,2006-08-06 16:00:00,Derby County,2,2,Southampton
+13,2006-08-08 19:45:00,Cardiff City,1,1,West Bromwich Albion
+14,2006-08-08 19:45:00,Colchester United,0,1,Plymouth Argyle
+15,2006-08-08 19:45:00,Hull City,2,3,Barnsley
+16,2006-08-08 19:45:00,Leicester City,0,1,Burnley
+17,2006-08-08 19:45:00,Norwich City,2,0,Preston North End
+18,2006-08-08 19:45:00,Sheffield Wednesday,0,1,Luton Town
+19,2006-08-08 19:45:00,Stoke City,2,0,Derby County
+20,2006-08-08 19:45:00,Wolverhampton Wanderers,1,0,Ipswich Town
+21,2006-08-08 20:00:00,Crystal Palace,3,1,Southend United
+22,2006-08-08 20:00:00,Queens Park Rangers,2,2,Leeds United
+23,2006-08-09 19:45:00,Southampton,2,0,Coventry City
+24,2006-08-09 19:45:00,Sunderland,0,1,Birmingham City
+25,2006-08-11 19:45:00,Wolverhampton Wanderers,1,3,Preston North End
+26,2006-08-12 12:30:00,Stoke City,0,0,Birmingham City
+27,2006-08-12 15:00:00,Cardiff City,1,0,Coventry City
+28,2006-08-12 15:00:00,Colchester United,1,2,Barnsley
+29,2006-08-12 15:00:00,Leicester City,3,1,Ipswich Town
+30,2006-08-12 15:00:00,Norwich City,3,2,Luton Town
+31,2006-08-12 15:00:00,Queens Park Rangers,2,0,Southend United
+32,2006-08-12 15:00:00,Sheffield Wednesday,1,1,Burnley
+33,2006-08-12 15:00:00,Southampton,0,0,West Bromwich Albion
+34,2006-08-12 15:00:00,Sunderland,2,3,Plymouth Argyle
+35,2006-08-12 17:30:00,Hull City,1,2,Derby County
+36,2006-08-13 12:00:00,Crystal Palace,1,0,Leeds United
+37,2006-08-18 19:45:00,Coventry City,0,0,Leicester City
+38,2006-08-19 15:00:00,Barnsley,2,2,Southampton
+39,2006-08-19 15:00:00,Birmingham City,2,1,Crystal Palace
+40,2006-08-19 15:00:00,Burnley,0,1,Wolverhampton Wanderers
+41,2006-08-19 15:00:00,Derby County,0,0,Norwich City
+42,2006-08-19 15:00:00,Ipswich Town,0,0,Hull City
+43,2006-08-19 15:00:00,Leeds United,0,1,Cardiff City
+44,2006-08-19 15:00:00,Luton Town,2,2,Stoke City
+45,2006-08-19 15:00:00,Plymouth Argyle,1,2,Sheffield Wednesday
+46,2006-08-19 15:00:00,Preston North End,1,1,Queens Park Rangers
+47,2006-08-19 15:00:00,Southend United,3,1,Sunderland
+48,2006-08-19 15:00:00,West Bromwich Albion,2,1,Colchester United
+49,2006-08-25 19:45:00,Queens Park Rangers,1,3,Ipswich Town
+50,2006-08-26 13:00:00,Cardiff City,2,0,Birmingham City
+51,2006-08-26 15:00:00,Colchester United,4,3,Derby County
+52,2006-08-26 15:00:00,Crystal Palace,2,2,Burnley
+53,2006-08-26 15:00:00,Hull City,0,1,Coventry City
+54,2006-08-26 15:00:00,Leicester City,1,0,Southend United
+55,2006-08-26 15:00:00,Norwich City,5,1,Barnsley
+56,2006-08-26 15:00:00,Southampton,1,1,Preston North End
+57,2006-08-26 15:00:00,Stoke City,1,1,Plymouth Argyle
+58,2006-08-26 15:00:00,Wolverhampton Wanderers,1,0,Luton Town
+59,2006-08-27 13:15:00,Sheffield Wednesday,0,1,Leeds United
+60,2006-08-28 15:00:00,Sunderland,2,0,West Bromwich Albion
+61,2006-09-09 15:00:00,Barnsley,2,2,Stoke City
+62,2006-09-09 15:00:00,Birmingham City,2,1,Hull City
+63,2006-09-09 15:00:00,Burnley,1,2,Colchester United
+64,2006-09-09 15:00:00,Coventry City,3,0,Norwich City
+65,2006-09-09 15:00:00,Derby County,1,2,Sunderland
+66,2006-09-09 15:00:00,Ipswich Town,2,1,Southampton
+67,2006-09-09 15:00:00,Luton Town,2,1,Crystal Palace
+68,2006-09-09 15:00:00,Plymouth Argyle,1,1,Queens Park Rangers
+69,2006-09-09 15:00:00,Preston North End,2,1,Cardiff City
+70,2006-09-09 15:00:00,Southend United,0,0,Sheffield Wednesday
+71,2006-09-09 15:00:00,West Bromwich Albion,2,0,Leicester City
+72,2006-09-10 13:15:00,Leeds United,0,1,Wolverhampton Wanderers
+73,2006-09-12 19:45:00,Burnley,4,2,Barnsley
+74,2006-09-12 19:45:00,Ipswich Town,2,1,Coventry City
+75,2006-09-12 19:45:00,Leicester City,0,1,Hull City
+76,2006-09-12 19:45:00,Luton Town,1,1,Colchester United
+77,2006-09-12 19:45:00,Plymouth Argyle,3,3,Cardiff City
+78,2006-09-12 19:45:00,Preston North End,1,0,West Bromwich Albion
+79,2006-09-12 19:45:00,Sheffield Wednesday,1,1,Stoke City
+80,2006-09-12 19:45:00,Southend United,3,3,Norwich City
+81,2006-09-12 19:45:00,Wolverhampton Wanderers,0,1,Derby County
+82,2006-09-12 20:00:00,Crystal Palace,0,2,Southampton
+83,2006-09-12 20:00:00,Queens Park Rangers,0,2,Birmingham City
+84,2006-09-13 19:45:00,Leeds United,0,3,Sunderland
+85,2006-09-15 19:45:00,Hull City,2,1,Sheffield Wednesday
+86,2006-09-16 15:00:00,Barnsley,1,0,Wolverhampton Wanderers
+87,2006-09-16 15:00:00,Birmingham City,2,2,Ipswich Town
+88,2006-09-16 15:00:00,Cardiff City,4,1,Luton Town
+89,2006-09-16 15:00:00,Colchester United,2,1,Queens Park Rangers
+90,2006-09-16 15:00:00,Coventry City,1,0,Leeds United
+91,2006-09-16 15:00:00,Derby County,1,1,Preston North End
+92,2006-09-16 15:00:00,Norwich City,0,1,Crystal Palace
+93,2006-09-16 15:00:00,Southampton,1,0,Plymouth Argyle
+94,2006-09-16 15:00:00,Stoke City,0,1,Burnley
+95,2006-09-16 15:00:00,Sunderland,1,1,Leicester City
+96,2006-09-16 15:00:00,West Bromwich Albion,1,1,Southend United
+97,2006-09-22 19:45:00,Preston North End,1,0,Barnsley
+98,2006-09-23 15:00:00,Burnley,2,3,Southampton
+99,2006-09-23 15:00:00,Crystal Palace,1,0,Coventry City
+100,2006-09-23 15:00:00,Ipswich Town,3,1,Sunderland
+101,2006-09-23 15:00:00,Leeds United,3,2,Birmingham City
+102,2006-09-23 15:00:00,Leicester City,0,0,Colchester United
+103,2006-09-23 15:00:00,Luton Town,2,2,West Bromwich Albion
+104,2006-09-23 15:00:00,Plymouth Argyle,3,1,Norwich City
+105,2006-09-23 15:00:00,Queens Park Rangers,2,0,Hull City
+106,2006-09-23 15:00:00,Sheffield Wednesday,1,2,Derby County
+107,2006-09-23 15:00:00,Wolverhampton Wanderers,2,0,Stoke City
+108,2006-09-24 13:15:00,Southend United,0,3,Cardiff City
+109,2006-09-29 19:45:00,Colchester United,1,0,Ipswich Town
+110,2006-09-30 15:00:00,Barnsley,1,2,Luton Town
+111,2006-09-30 15:00:00,Birmingham City,1,1,Leicester City
+112,2006-09-30 15:00:00,Cardiff City,4,0,Wolverhampton Wanderers
+113,2006-09-30 15:00:00,Coventry City,0,1,Plymouth Argyle
+114,2006-09-30 15:00:00,Derby County,3,0,Southend United
+115,2006-09-30 15:00:00,Hull City,1,1,Crystal Palace
+116,2006-09-30 15:00:00,Southampton,1,2,Queens Park Rangers
+117,2006-09-30 15:00:00,Stoke City,1,1,Preston North End
+118,2006-09-30 15:00:00,Sunderland,1,0,Sheffield Wednesday
+119,2006-09-30 15:00:00,West Bromwich Albion,4,2,Leeds United
+120,2006-10-01 13:15:00,Norwich City,1,4,Burnley
+121,2006-10-13 19:45:00,Southend United,2,3,Coventry City
+122,2006-10-14 15:00:00,Burnley,2,0,Hull City
+123,2006-10-14 15:00:00,Crystal Palace,1,2,Cardiff City
+124,2006-10-14 15:00:00,Ipswich Town,1,5,West Bromwich Albion
+125,2006-10-14 15:00:00,Leeds United,0,4,Stoke City
+126,2006-10-14 15:00:00,Leicester City,3,2,Southampton
+127,2006-10-14 15:00:00,Luton Town,3,2,Birmingham City
+128,2006-10-14 15:00:00,Preston North End,4,1,Sunderland
+129,2006-10-14 15:00:00,Queens Park Rangers,3,3,Norwich City
+130,2006-10-14 15:00:00,Sheffield Wednesday,2,1,Barnsley
+131,2006-10-14 15:00:00,Wolverhampton Wanderers,1,0,Colchester United
+132,2006-10-15 13:15:00,Plymouth Argyle,3,1,Derby County
+133,2006-10-17 19:45:00,Barnsley,2,2,Plymouth Argyle
+134,2006-10-17 19:45:00,Birmingham City,0,1,Norwich City
+135,2006-10-17 19:45:00,Burnley,0,0,Southend United
+136,2006-10-17 19:45:00,Cardiff City,1,0,Southampton
+137,2006-10-17 19:45:00,Hull City,0,0,Luton Town
+138,2006-10-17 19:45:00,Ipswich Town,2,3,Preston North End
+139,2006-10-17 19:45:00,Leeds United,1,2,Leicester City
+140,2006-10-17 19:45:00,Stoke City,2,1,Sunderland
+141,2006-10-17 19:45:00,Wolverhampton Wanderers,1,0,Coventry City
+142,2006-10-17 20:00:00,Crystal Palace,0,2,West Bromwich Albion
+143,2006-10-17 20:00:00,Queens Park Rangers,1,2,Derby County
+144,2006-10-18 19:45:00,Colchester United,4,0,Sheffield Wednesday
+145,2006-10-21 15:00:00,Derby County,0,1,Birmingham City
+146,2006-10-21 15:00:00,Leicester City,1,1,Crystal Palace
+147,2006-10-21 15:00:00,Luton Town,5,1,Leeds United
+148,2006-10-21 15:00:00,Norwich City,1,0,Cardiff City
+149,2006-10-21 15:00:00,Plymouth Argyle,0,0,Burnley
+150,2006-10-21 15:00:00,Preston North End,2,1,Hull City
+151,2006-10-21 15:00:00,Sheffield Wednesday,3,2,Queens Park Rangers
+152,2006-10-21 15:00:00,Southampton,1,0,Stoke City
+153,2006-10-21 15:00:00,Southend United,1,3,Ipswich Town
+154,2006-10-21 15:00:00,Sunderland,2,0,Barnsley
+155,2006-10-22 12:00:00,West Bromwich Albion,3,0,Wolverhampton Wanderers
+156,2006-10-23 20:00:00,Coventry City,2,1,Colchester United
+157,2006-10-27 19:45:00,Burnley,3,2,Preston North End
+158,2006-10-28 12:00:00,Birmingham City,2,0,West Bromwich Albion
+159,2006-10-28 15:00:00,Barnsley,0,1,Coventry City
+160,2006-10-28 15:00:00,Cardiff City,2,2,Derby County
+161,2006-10-28 15:00:00,Colchester United,2,0,Southampton
+162,2006-10-28 15:00:00,Crystal Palace,0,1,Plymouth Argyle
+163,2006-10-28 15:00:00,Hull City,0,1,Sunderland
+164,2006-10-28 15:00:00,Leeds United,2,0,Southend United
+165,2006-10-28 15:00:00,Queens Park Rangers,1,1,Leicester City
+166,2006-10-28 15:00:00,Stoke City,5,0,Norwich City
+167,2006-10-28 15:00:00,Wolverhampton Wanderers,2,2,Sheffield Wednesday
+168,2006-10-29 13:15:00,Ipswich Town,5,0,Luton Town
+169,2006-10-31 19:45:00,Coventry City,0,1,Birmingham City
+170,2006-10-31 19:45:00,Leicester City,2,1,Stoke City
+171,2006-10-31 19:45:00,Luton Town,0,2,Burnley
+172,2006-10-31 19:45:00,Norwich City,1,1,Colchester United
+173,2006-10-31 19:45:00,Plymouth Argyle,1,1,Ipswich Town
+174,2006-10-31 19:45:00,Preston North End,4,1,Leeds United
+175,2006-10-31 19:45:00,Sheffield Wednesday,3,2,Crystal Palace
+176,2006-10-31 19:45:00,Southend United,2,3,Hull City
+177,2006-10-31 19:45:00,Sunderland,1,2,Cardiff City
+178,2006-10-31 19:45:00,West Bromwich Albion,3,3,Queens Park Rangers
+179,2006-11-01 19:45:00,Derby County,2,1,Barnsley
+180,2006-11-01 19:45:00,Southampton,2,0,Wolverhampton Wanderers
+181,2006-11-04 15:00:00,Barnsley,3,2,Leeds United
+182,2006-11-04 15:00:00,Burnley,1,0,Ipswich Town
+183,2006-11-04 15:00:00,Colchester United,3,1,Cardiff City
+184,2006-11-04 15:00:00,Derby County,2,1,West Bromwich Albion
+185,2006-11-04 15:00:00,Norwich City,1,0,Sunderland
+186,2006-11-04 15:00:00,Plymouth Argyle,0,1,Birmingham City
+187,2006-11-04 15:00:00,Preston North End,3,0,Luton Town
+188,2006-11-04 15:00:00,Queens Park Rangers,4,2,Crystal Palace
+189,2006-11-04 15:00:00,Sheffield Wednesday,2,1,Leicester City
+190,2006-11-04 15:00:00,Southampton,0,0,Hull City
+191,2006-11-04 15:00:00,Wolverhampton Wanderers,3,1,Southend United
+192,2006-11-06 20:00:00,Stoke City,1,0,Coventry City
+193,2006-11-11 15:00:00,Birmingham City,2,0,Barnsley
+194,2006-11-11 15:00:00,Cardiff City,1,0,Burnley
+195,2006-11-11 15:00:00,Coventry City,1,2,Derby County
+196,2006-11-11 15:00:00,Crystal Palace,0,1,Stoke City
+197,2006-11-11 15:00:00,Hull City,2,0,Wolverhampton Wanderers
+198,2006-11-11 15:00:00,Ipswich Town,0,2,Sheffield Wednesday
+199,2006-11-11 15:00:00,Leeds United,3,0,Colchester United
+200,2006-11-11 15:00:00,Leicester City,2,2,Plymouth Argyle
+201,2006-11-11 15:00:00,Luton Town,2,3,Queens Park Rangers
+202,2006-11-11 15:00:00,Southend United,0,0,Preston North End
+203,2006-11-11 15:00:00,Sunderland,1,1,Southampton
+204,2006-11-11 15:00:00,West Bromwich Albion,0,1,Norwich City
+205,2006-11-17 19:45:00,Cardiff City,0,1,Queens Park Rangers
+206,2006-11-18 12:00:00,Birmingham City,1,1,Wolverhampton Wanderers
+207,2006-11-18 15:00:00,Coventry City,3,1,Sheffield Wednesday
+208,2006-11-18 15:00:00,Crystal Palace,2,0,Barnsley
+209,2006-11-18 15:00:00,Hull City,0,2,Stoke City
+210,2006-11-18 15:00:00,Leeds United,0,3,Southampton
+211,2006-11-18 15:00:00,Leicester City,0,1,Preston North End
+212,2006-11-18 15:00:00,Luton Town,0,2,Derby County
+213,2006-11-18 15:00:00,Southend United,1,1,Plymouth Argyle
+214,2006-11-18 15:00:00,Sunderland,3,1,Colchester United
+215,2006-11-18 15:00:00,West Bromwich Albion,3,0,Burnley
+216,2006-11-19 11:30:00,Ipswich Town,3,1,Norwich City
+217,2006-11-24 20:00:00,Wolverhampton Wanderers,1,1,Sunderland
+218,2006-11-25 15:00:00,Barnsley,1,0,Ipswich Town
+219,2006-11-25 15:00:00,Burnley,1,2,Birmingham City
+220,2006-11-25 15:00:00,Colchester United,3,0,Southend United
+221,2006-11-25 15:00:00,Derby County,1,0,Leicester City
+222,2006-11-25 15:00:00,Norwich City,1,1,Hull City
+223,2006-11-25 15:00:00,Plymouth Argyle,1,2,Leeds United
+224,2006-11-25 15:00:00,Preston North End,0,0,Crystal Palace
+225,2006-11-25 15:00:00,Queens Park Rangers,0,1,Coventry City
+226,2006-11-25 15:00:00,Sheffield Wednesday,0,0,Cardiff City
+227,2006-11-25 15:00:00,Southampton,2,1,Luton Town
+228,2006-11-25 15:00:00,Stoke City,1,0,West Bromwich Albion
+229,2006-11-28 19:45:00,Barnsley,2,0,Southend United
+230,2006-11-28 19:45:00,Burnley,2,1,Leeds United
+231,2006-11-28 19:45:00,Colchester United,5,1,Hull City
+232,2006-11-28 19:45:00,Norwich City,3,1,Leicester City
+233,2006-11-28 19:45:00,Plymouth Argyle,1,0,Luton Town
+234,2006-11-28 19:45:00,Preston North End,1,1,Coventry City
+235,2006-11-28 19:45:00,Sheffield Wednesday,3,1,West Bromwich Albion
+236,2006-11-28 19:45:00,Stoke City,3,0,Cardiff City
+237,2006-11-28 19:45:00,Wolverhampton Wanderers,1,1,Crystal Palace
+238,2006-11-28 20:00:00,Queens Park Rangers,1,2,Sunderland
+239,2006-11-29 19:45:00,Derby County,2,1,Ipswich Town
+240,2006-11-29 19:45:00,Southampton,4,3,Birmingham City
+241,2006-12-02 12:00:00,Leeds United,2,2,Barnsley
+242,2006-12-02 15:00:00,Birmingham City,3,0,Plymouth Argyle
+243,2006-12-02 15:00:00,Cardiff City,0,0,Colchester United
+244,2006-12-02 15:00:00,Coventry City,0,0,Stoke City
+245,2006-12-02 15:00:00,Crystal Palace,3,0,Queens Park Rangers
+246,2006-12-02 15:00:00,Hull City,2,4,Southampton
+247,2006-12-02 15:00:00,Ipswich Town,1,1,Burnley
+248,2006-12-02 15:00:00,Leicester City,1,4,Sheffield Wednesday
+249,2006-12-02 15:00:00,Luton Town,2,0,Preston North End
+250,2006-12-02 15:00:00,Southend United,0,1,Wolverhampton Wanderers
+251,2006-12-02 15:00:00,Sunderland,1,0,Norwich City
+252,2006-12-02 15:00:00,West Bromwich Albion,1,0,Derby County
+253,2006-12-09 15:00:00,Birmingham City,3,1,Preston North End
+254,2006-12-09 15:00:00,Cardiff City,2,2,Ipswich Town
+255,2006-12-09 15:00:00,Coventry City,1,0,Burnley
+256,2006-12-09 15:00:00,Crystal Palace,1,3,Colchester United
+257,2006-12-09 15:00:00,Leeds United,0,1,Derby County
+258,2006-12-09 15:00:00,Norwich City,1,2,Sheffield Wednesday
+259,2006-12-09 15:00:00,Plymouth Argyle,1,0,Hull City
+260,2006-12-09 15:00:00,Southend United,2,1,Southampton
+261,2006-12-09 15:00:00,Stoke City,1,0,Queens Park Rangers
+262,2006-12-09 15:00:00,Sunderland,2,1,Luton Town
+263,2006-12-09 15:00:00,Wolverhampton Wanderers,1,2,Leicester City
+264,2006-12-10 13:15:00,Barnsley,1,1,West Bromwich Albion
+265,2006-12-15 19:45:00,Luton Town,0,0,Southend United
+266,2006-12-16 15:00:00,Burnley,2,2,Sunderland
+267,2006-12-16 15:00:00,Colchester United,3,0,Stoke City
+268,2006-12-16 15:00:00,Derby County,1,0,Crystal Palace
+269,2006-12-16 15:00:00,Hull City,4,1,Cardiff City
+270,2006-12-16 15:00:00,Ipswich Town,1,0,Leeds United
+271,2006-12-16 15:00:00,Leicester City,2,0,Barnsley
+272,2006-12-16 15:00:00,Preston North End,3,0,Plymouth Argyle
+273,2006-12-16 15:00:00,Queens Park Rangers,0,1,Wolverhampton Wanderers
+274,2006-12-16 15:00:00,Sheffield Wednesday,0,3,Birmingham City
+275,2006-12-16 15:00:00,Southampton,2,1,Norwich City
+276,2006-12-16 15:00:00,West Bromwich Albion,5,0,Coventry City
+277,2006-12-22 20:00:00,Crystal Palace,1,0,Sunderland
+278,2006-12-23 12:00:00,Leeds United,0,0,Hull City
+279,2006-12-23 15:00:00,Burnley,0,0,Derby County
+280,2006-12-23 15:00:00,Ipswich Town,0,1,Stoke City
+281,2006-12-23 15:00:00,Leicester City,0,0,Cardiff City
+282,2006-12-23 15:00:00,Luton Town,3,1,Coventry City
+283,2006-12-23 15:00:00,Plymouth Argyle,2,2,West Bromwich Albion
+284,2006-12-23 15:00:00,Preston North End,1,0,Colchester United
+285,2006-12-23 15:00:00,Queens Park Rangers,1,0,Barnsley
+286,2006-12-23 15:00:00,Sheffield Wednesday,3,3,Southampton
+287,2006-12-23 15:00:00,Southend United,0,4,Birmingham City
+288,2006-12-23 15:00:00,Wolverhampton Wanderers,2,2,Norwich City
+289,2006-12-26 12:00:00,Southampton,1,1,Crystal Palace
+290,2006-12-26 13:00:00,Cardiff City,2,2,Plymouth Argyle
+291,2006-12-26 15:00:00,Barnsley,1,0,Burnley
+292,2006-12-26 15:00:00,Birmingham City,2,1,Queens Park Rangers
+293,2006-12-26 15:00:00,Colchester United,4,1,Luton Town
+294,2006-12-26 15:00:00,Coventry City,1,2,Ipswich Town
+295,2006-12-26 15:00:00,Derby County,0,2,Wolverhampton Wanderers
+296,2006-12-26 15:00:00,Hull City,1,2,Leicester City
+297,2006-12-26 15:00:00,Norwich City,0,0,Southend United
+298,2006-12-26 15:00:00,Stoke City,1,2,Sheffield Wednesday
+299,2006-12-26 15:00:00,Sunderland,2,0,Leeds United
+300,2006-12-26 15:00:00,West Bromwich Albion,4,2,Preston North End
+301,2006-12-29 19:45:00,Birmingham City,2,2,Luton Town
+302,2006-12-30 13:00:00,Barnsley,0,3,Sheffield Wednesday
+303,2006-12-30 15:00:00,Cardiff City,0,0,Crystal Palace
+304,2006-12-30 15:00:00,Colchester United,2,1,Wolverhampton Wanderers
+305,2006-12-30 15:00:00,Coventry City,1,1,Southend United
+306,2006-12-30 15:00:00,Derby County,1,0,Plymouth Argyle
+307,2006-12-30 15:00:00,Hull City,2,0,Burnley
+308,2006-12-30 15:00:00,Norwich City,1,0,Queens Park Rangers
+309,2006-12-30 15:00:00,Southampton,2,0,Leicester City
+310,2006-12-30 15:00:00,Stoke City,3,1,Leeds United
+311,2006-12-30 15:00:00,Sunderland,0,1,Preston North End
+312,2006-12-30 15:00:00,West Bromwich Albion,2,0,Ipswich Town
+313,2007-01-01 15:00:00,Crystal Palace,3,1,Norwich City
+314,2007-01-01 15:00:00,Ipswich Town,1,0,Birmingham City
+315,2007-01-01 15:00:00,Leeds United,2,1,Coventry City
+316,2007-01-01 15:00:00,Leicester City,0,2,Sunderland
+317,2007-01-01 15:00:00,Luton Town,0,0,Cardiff City
+318,2007-01-01 15:00:00,Plymouth Argyle,1,1,Southampton
+319,2007-01-01 15:00:00,Preston North End,1,2,Derby County
+320,2007-01-01 15:00:00,Queens Park Rangers,1,0,Colchester United
+321,2007-01-01 15:00:00,Sheffield Wednesday,1,2,Hull City
+322,2007-01-01 15:00:00,Southend United,3,1,West Bromwich Albion
+323,2007-01-01 15:00:00,Wolverhampton Wanderers,2,0,Barnsley
+324,2007-01-12 19:45:00,West Bromwich Albion,3,2,Luton Town
+325,2007-01-13 15:00:00,Barnsley,0,1,Preston North End
+326,2007-01-13 15:00:00,Cardiff City,0,1,Southend United
+327,2007-01-13 15:00:00,Colchester United,1,1,Leicester City
+328,2007-01-13 15:00:00,Coventry City,2,4,Crystal Palace
+329,2007-01-13 15:00:00,Derby County,1,0,Sheffield Wednesday
+330,2007-01-13 15:00:00,Hull City,2,1,Queens Park Rangers
+331,2007-01-13 15:00:00,Norwich City,1,3,Plymouth Argyle
+332,2007-01-13 15:00:00,Southampton,0,0,Burnley
+333,2007-01-13 15:00:00,Stoke City,1,1,Wolverhampton Wanderers
+334,2007-01-13 15:00:00,Sunderland,1,0,Ipswich Town
+335,2007-01-20 13:00:00,Wolverhampton Wanderers,1,2,Cardiff City
+336,2007-01-20 15:00:00,Crystal Palace,1,1,Hull City
+337,2007-01-20 15:00:00,Ipswich Town,3,2,Colchester United
+338,2007-01-20 15:00:00,Leeds United,2,3,West Bromwich Albion
+339,2007-01-20 15:00:00,Luton Town,0,2,Barnsley
+340,2007-01-20 15:00:00,Preston North End,3,2,Stoke City
+341,2007-01-20 15:00:00,Queens Park Rangers,0,2,Southampton
+342,2007-01-20 15:00:00,Sheffield Wednesday,2,4,Sunderland
+343,2007-01-20 15:00:00,Southend United,0,1,Derby County
+344,2007-01-22 19:45:00,Plymouth Argyle,3,2,Coventry City
+345,2007-01-23 19:45:00,Burnley,0,1,Stoke City
+346,2007-01-27 15:00:00,Cardiff City,3,2,Leicester City
+347,2007-01-30 19:45:00,Barnsley,2,0,Queens Park Rangers
+348,2007-01-30 19:45:00,Birmingham City,1,3,Southend United
+349,2007-01-30 19:45:00,Colchester United,1,0,Preston North End
+350,2007-01-30 19:45:00,Coventry City,1,0,Luton Town
+351,2007-01-30 19:45:00,Derby County,1,0,Burnley
+352,2007-01-30 19:45:00,Hull City,1,2,Leeds United
+353,2007-01-30 19:45:00,Norwich City,0,1,Wolverhampton Wanderers
+354,2007-01-30 19:45:00,Stoke City,0,0,Ipswich Town
+355,2007-01-30 19:45:00,Sunderland,0,0,Crystal Palace
+356,2007-01-31 19:45:00,Southampton,2,1,Sheffield Wednesday
+357,2007-01-31 19:45:00,West Bromwich Albion,2,1,Plymouth Argyle
+358,2007-02-02 19:45:00,Cardiff City,2,0,Barnsley
+359,2007-02-03 15:00:00,Colchester United,1,1,Birmingham City
+360,2007-02-03 15:00:00,Crystal Palace,2,0,Ipswich Town
+361,2007-02-03 15:00:00,Hull City,0,1,West Bromwich Albion
+362,2007-02-03 15:00:00,Leicester City,1,1,Luton Town
+363,2007-02-03 15:00:00,Norwich City,2,1,Leeds United
+364,2007-02-03 15:00:00,Queens Park Rangers,3,1,Burnley
+365,2007-02-03 15:00:00,Sheffield Wednesday,1,3,Preston North End
+366,2007-02-03 15:00:00,Southampton,0,1,Derby County
+367,2007-02-03 15:00:00,Stoke City,1,1,Southend United
+368,2007-02-03 15:00:00,Sunderland,2,0,Coventry City
+369,2007-02-03 15:00:00,Wolverhampton Wanderers,2,2,Plymouth Argyle
+370,2007-02-09 19:45:00,Southend United,5,0,Queens Park Rangers
+371,2007-02-10 15:00:00,Barnsley,0,3,Colchester United
+372,2007-02-10 15:00:00,Burnley,1,1,Sheffield Wednesday
+373,2007-02-10 15:00:00,Coventry City,2,2,Cardiff City
+374,2007-02-10 15:00:00,Derby County,2,2,Hull City
+375,2007-02-10 15:00:00,Ipswich Town,0,2,Leicester City
+376,2007-02-10 15:00:00,Leeds United,2,1,Crystal Palace
+377,2007-02-10 15:00:00,Plymouth Argyle,0,2,Sunderland
+378,2007-02-10 15:00:00,Preston North End,0,1,Wolverhampton Wanderers
+379,2007-02-10 15:00:00,West Bromwich Albion,1,1,Southampton
+380,2007-02-11 11:30:00,Birmingham City,1,0,Stoke City
+381,2007-02-13 19:45:00,Colchester United,1,2,West Bromwich Albion
+382,2007-02-17 15:00:00,Cardiff City,1,0,Leeds United
+383,2007-02-17 15:00:00,Crystal Palace,0,1,Birmingham City
+384,2007-02-17 15:00:00,Leicester City,3,0,Coventry City
+385,2007-02-17 15:00:00,Southampton,5,2,Barnsley
+386,2007-02-17 15:00:00,Stoke City,0,0,Luton Town
+387,2007-02-17 15:00:00,Sunderland,4,0,Southend United
+388,2007-02-17 15:00:00,Wolverhampton Wanderers,2,1,Burnley
+389,2007-02-20 19:45:00,Barnsley,3,0,Hull City
+390,2007-02-20 19:45:00,Birmingham City,1,1,Sunderland
+391,2007-02-20 19:45:00,Burnley,0,1,Leicester City
+392,2007-02-20 19:45:00,Coventry City,2,1,Southampton
+393,2007-02-20 19:45:00,Ipswich Town,0,1,Wolverhampton Wanderers
+394,2007-02-20 19:45:00,Leeds United,0,0,Queens Park Rangers
+395,2007-02-20 19:45:00,Luton Town,3,2,Sheffield Wednesday
+396,2007-02-20 19:45:00,Plymouth Argyle,3,0,Colchester United
+397,2007-02-20 19:45:00,Preston North End,2,1,Norwich City
+398,2007-02-20 19:45:00,Southend United,0,1,Crystal Palace
+399,2007-02-20 19:45:00,West Bromwich Albion,1,0,Cardiff City
+400,2007-02-21 19:45:00,Derby County,0,2,Stoke City
+401,2007-02-23 19:45:00,Cardiff City,4,1,Preston North End
+402,2007-02-24 15:00:00,Colchester United,0,0,Burnley
+403,2007-02-24 15:00:00,Crystal Palace,2,1,Luton Town
+404,2007-02-24 15:00:00,Hull City,2,0,Birmingham City
+405,2007-02-24 15:00:00,Leicester City,1,1,West Bromwich Albion
+406,2007-02-24 15:00:00,Norwich City,1,1,Coventry City
+407,2007-02-24 15:00:00,Queens Park Rangers,1,1,Plymouth Argyle
+408,2007-02-24 15:00:00,Sheffield Wednesday,3,2,Southend United
+409,2007-02-24 15:00:00,Southampton,1,0,Ipswich Town
+410,2007-02-24 15:00:00,Sunderland,2,1,Derby County
+411,2007-02-24 15:00:00,Wolverhampton Wanderers,1,0,Leeds United
+412,2007-02-26 19:45:00,Stoke City,0,1,Barnsley
+413,2007-02-27 19:45:00,Birmingham City,1,0,Leeds United
+414,2007-02-27 19:45:00,Luton Town,2,3,Norwich City
+415,2007-03-02 19:45:00,Derby County,5,1,Colchester United
+416,2007-03-03 15:00:00,Barnsley,1,3,Norwich City
+417,2007-03-03 15:00:00,Burnley,1,1,Crystal Palace
+418,2007-03-03 15:00:00,Coventry City,2,0,Hull City
+419,2007-03-03 15:00:00,Ipswich Town,2,1,Queens Park Rangers
+420,2007-03-03 15:00:00,Leeds United,2,3,Sheffield Wednesday
+421,2007-03-03 15:00:00,Luton Town,2,3,Wolverhampton Wanderers
+422,2007-03-03 15:00:00,Plymouth Argyle,1,1,Stoke City
+423,2007-03-03 15:00:00,Southend United,2,2,Leicester City
+424,2007-03-03 15:00:00,West Bromwich Albion,1,2,Sunderland
+425,2007-03-04 11:30:00,Birmingham City,1,0,Cardiff City
+426,2007-03-05 20:00:00,Preston North End,3,1,Southampton
+427,2007-03-06 19:45:00,Hull City,2,5,Ipswich Town
+428,2007-03-06 19:45:00,Norwich City,1,2,Derby County
+429,2007-03-06 19:45:00,Sheffield Wednesday,1,1,Plymouth Argyle
+430,2007-03-09 19:45:00,Birmingham City,1,0,Derby County
+431,2007-03-10 13:30:00,Barnsley,0,2,Sunderland
+432,2007-03-10 15:00:00,Cardiff City,1,0,Norwich City
+433,2007-03-10 15:00:00,Colchester United,0,0,Coventry City
+434,2007-03-10 15:00:00,Crystal Palace,2,0,Leicester City
+435,2007-03-10 15:00:00,Hull City,2,0,Preston North End
+436,2007-03-10 15:00:00,Ipswich Town,0,2,Southend United
+437,2007-03-10 15:00:00,Leeds United,1,0,Luton Town
+438,2007-03-10 15:00:00,Queens Park Rangers,1,1,Sheffield Wednesday
+439,2007-03-10 15:00:00,Stoke City,2,1,Southampton
+440,2007-03-11 12:00:00,Wolverhampton Wanderers,1,0,West Bromwich Albion
+441,2007-03-13 19:45:00,Coventry City,2,1,Wolverhampton Wanderers
+442,2007-03-13 19:45:00,Derby County,1,1,Queens Park Rangers
+443,2007-03-13 19:45:00,Leicester City,1,1,Leeds United
+444,2007-03-13 19:45:00,Luton Town,1,2,Hull City
+445,2007-03-13 19:45:00,Norwich City,1,0,Birmingham City
+446,2007-03-13 19:45:00,Preston North End,1,0,Ipswich Town
+447,2007-03-13 19:45:00,Sheffield Wednesday,2,0,Colchester United
+448,2007-03-13 19:45:00,Southampton,2,2,Cardiff City
+449,2007-03-13 19:45:00,Southend United,1,0,Burnley
+450,2007-03-13 20:00:00,Sunderland,2,2,Stoke City
+451,2007-03-14 19:45:00,Plymouth Argyle,2,4,Barnsley
+452,2007-03-14 19:45:00,West Bromwich Albion,2,3,Crystal Palace
+453,2007-03-16 19:45:00,Southampton,1,2,Colchester United
+454,2007-03-17 13:00:00,Preston North End,2,0,Burnley
+455,2007-03-17 15:00:00,Coventry City,4,1,Barnsley
+456,2007-03-17 15:00:00,Derby County,3,1,Cardiff City
+457,2007-03-17 15:00:00,Leicester City,1,3,Queens Park Rangers
+458,2007-03-17 15:00:00,Luton Town,0,2,Ipswich Town
+459,2007-03-17 15:00:00,Norwich City,1,0,Stoke City
+460,2007-03-17 15:00:00,Plymouth Argyle,1,0,Crystal Palace
+461,2007-03-17 15:00:00,Sheffield Wednesday,2,2,Wolverhampton Wanderers
+462,2007-03-17 15:00:00,Southend United,1,1,Leeds United
+463,2007-03-17 15:00:00,Sunderland,2,0,Hull City
+464,2007-03-18 11:30:00,West Bromwich Albion,1,1,Birmingham City
+465,2007-03-30 19:45:00,Leeds United,2,1,Preston North End
+466,2007-03-31 15:00:00,Barnsley,1,2,Derby County
+467,2007-03-31 15:00:00,Burnley,0,0,Luton Town
+468,2007-03-31 15:00:00,Cardiff City,0,1,Sunderland
+469,2007-03-31 15:00:00,Colchester United,3,0,Norwich City
+470,2007-03-31 15:00:00,Crystal Palace,1,2,Sheffield Wednesday
+471,2007-03-31 15:00:00,Hull City,4,0,Southend United
+472,2007-03-31 15:00:00,Ipswich Town,3,0,Plymouth Argyle
+473,2007-03-31 15:00:00,Queens Park Rangers,1,2,West Bromwich Albion
+474,2007-03-31 15:00:00,Stoke City,4,2,Leicester City
+475,2007-03-31 15:00:00,Wolverhampton Wanderers,0,6,Southampton
+476,2007-04-01 14:00:00,Birmingham City,3,0,Coventry City
+477,2007-04-03 19:45:00,Burnley,4,0,Plymouth Argyle
+478,2007-04-03 19:45:00,Queens Park Rangers,1,0,Preston North End
+479,2007-04-06 12:30:00,Southend United,0,3,Colchester United
+480,2007-04-06 14:45:00,Leicester City,1,1,Derby County
+481,2007-04-06 15:00:00,Hull City,1,2,Norwich City
+482,2007-04-07 15:00:00,Birmingham City,0,1,Burnley
+483,2007-04-07 15:00:00,Cardiff City,1,2,Sheffield Wednesday
+484,2007-04-07 15:00:00,Coventry City,0,1,Queens Park Rangers
+485,2007-04-07 15:00:00,Crystal Palace,3,0,Preston North End
+486,2007-04-07 15:00:00,Ipswich Town,5,1,Barnsley
+487,2007-04-07 15:00:00,Leeds United,2,1,Plymouth Argyle
+488,2007-04-07 15:00:00,Luton Town,0,2,Southampton
+489,2007-04-07 15:00:00,Sunderland,2,1,Wolverhampton Wanderers
+490,2007-04-07 15:00:00,West Bromwich Albion,1,3,Stoke City
+491,2007-04-09 15:00:00,Barnsley,1,0,Birmingham City
+492,2007-04-09 15:00:00,Burnley,2,0,Cardiff City
+493,2007-04-09 15:00:00,Colchester United,2,1,Leeds United
+494,2007-04-09 15:00:00,Derby County,1,1,Coventry City
+495,2007-04-09 15:00:00,Norwich City,1,2,West Bromwich Albion
+496,2007-04-09 15:00:00,Plymouth Argyle,3,0,Leicester City
+497,2007-04-09 15:00:00,Preston North End,2,3,Southend United
+498,2007-04-09 15:00:00,Queens Park Rangers,3,2,Luton Town
+499,2007-04-09 15:00:00,Sheffield Wednesday,2,0,Ipswich Town
+500,2007-04-09 15:00:00,Stoke City,2,1,Crystal Palace
+501,2007-04-09 15:00:00,Wolverhampton Wanderers,3,1,Hull City
+502,2007-04-09 17:15:00,Southampton,1,2,Sunderland
+503,2007-04-13 19:45:00,West Bromwich Albion,0,1,Sheffield Wednesday
+504,2007-04-14 15:00:00,Birmingham City,2,1,Southampton
+505,2007-04-14 15:00:00,Cardiff City,1,1,Stoke City
+506,2007-04-14 15:00:00,Coventry City,0,4,Preston North End
+507,2007-04-14 15:00:00,Crystal Palace,2,2,Wolverhampton Wanderers
+508,2007-04-14 15:00:00,Hull City,1,1,Colchester United
+509,2007-04-14 15:00:00,Ipswich Town,2,1,Derby County
+510,2007-04-14 15:00:00,Leeds United,1,0,Burnley
+511,2007-04-14 15:00:00,Leicester City,1,2,Norwich City
+512,2007-04-14 15:00:00,Luton Town,1,2,Plymouth Argyle
+513,2007-04-14 15:00:00,Southend United,1,3,Barnsley
+514,2007-04-14 15:00:00,Sunderland,2,1,Queens Park Rangers
+515,2007-04-17 19:45:00,Burnley,3,0,Norwich City
+516,2007-04-17 19:45:00,Leicester City,1,2,Birmingham City
+517,2007-04-20 19:45:00,Derby County,1,0,Luton Town
+518,2007-04-21 15:00:00,Barnsley,2,0,Crystal Palace
+519,2007-04-21 15:00:00,Colchester United,3,1,Sunderland
+520,2007-04-21 15:00:00,Plymouth Argyle,2,1,Southend United
+521,2007-04-21 15:00:00,Preston North End,0,1,Leicester City
+522,2007-04-21 15:00:00,Queens Park Rangers,1,0,Cardiff City
+523,2007-04-21 15:00:00,Sheffield Wednesday,2,1,Coventry City
+524,2007-04-21 15:00:00,Southampton,1,0,Leeds United
+525,2007-04-21 15:00:00,Stoke City,1,1,Hull City
+526,2007-04-22 12:00:00,Norwich City,1,1,Ipswich Town
+527,2007-04-22 12:00:00,Wolverhampton Wanderers,2,3,Birmingham City
+528,2007-04-23 19:45:00,Burnley,3,2,West Bromwich Albion
+529,2007-04-27 19:45:00,Sunderland,3,2,Burnley
+530,2007-04-28 15:00:00,Barnsley,0,1,Leicester City
+531,2007-04-28 15:00:00,Birmingham City,2,0,Sheffield Wednesday
+532,2007-04-28 15:00:00,Cardiff City,0,1,Hull City
+533,2007-04-28 15:00:00,Coventry City,0,1,West Bromwich Albion
+534,2007-04-28 15:00:00,Leeds United,1,1,Ipswich Town
+535,2007-04-28 15:00:00,Norwich City,0,1,Southampton
+536,2007-04-28 15:00:00,Plymouth Argyle,2,0,Preston North End
+537,2007-04-28 15:00:00,Southend United,1,3,Luton Town
+538,2007-04-28 15:00:00,Stoke City,3,1,Colchester United
+539,2007-04-28 15:00:00,Wolverhampton Wanderers,2,0,Queens Park Rangers
+540,2007-04-29 13:30:00,Crystal Palace,2,0,Derby County
+541,2007-05-06 13:00:00,Burnley,1,2,Coventry City
+542,2007-05-06 13:00:00,Colchester United,0,2,Crystal Palace
+543,2007-05-06 13:00:00,Derby County,2,0,Leeds United
+544,2007-05-06 13:00:00,Hull City,1,2,Plymouth Argyle
+545,2007-05-06 13:00:00,Ipswich Town,3,1,Cardiff City
+546,2007-05-06 13:00:00,Leicester City,1,4,Wolverhampton Wanderers
+547,2007-05-06 13:00:00,Luton Town,0,5,Sunderland
+548,2007-05-06 13:00:00,Preston North End,1,0,Birmingham City
+549,2007-05-06 13:00:00,Queens Park Rangers,1,1,Stoke City
+550,2007-05-06 13:00:00,Sheffield Wednesday,3,2,Norwich City
+551,2007-05-06 13:00:00,Southampton,4,1,Southend United
+552,2007-05-06 13:00:00,West Bromwich Albion,7,0,Barnsley
+553,2007-05-12 12:00:00,Southampton,1,2,Derby County
+554,2007-05-13 12:00:00,Wolverhampton Wanderers,2,3,West Bromwich Albion
+555,2007-05-15 19:45:00,Derby County,2,3,Southampton
+556,2007-05-16 19:45:00,West Bromwich Albion,1,0,Wolverhampton Wanderers
+557,2007-05-28 15:00:00,Derby County,1,0,West Bromwich Albion

@@ -1,0 +1,558 @@
+Match Number,Date,Home Team,Home Score,Away Score,Away Team
+1,2008-08-09 12:45:00,Birmingham City,1,0,Sheffield United
+2,2008-08-09 15:00:00,Blackpool,0,1,Bristol City
+3,2008-08-09 15:00:00,Cardiff City,2,1,Southampton
+4,2008-08-09 15:00:00,Charlton Athletic,2,0,Swansea City
+5,2008-08-09 15:00:00,Coventry City,2,0,Norwich City
+6,2008-08-09 15:00:00,Crystal Palace,0,0,Watford
+7,2008-08-09 15:00:00,Derby County,0,1,Doncaster Rovers
+8,2008-08-09 15:00:00,Ipswich Town,1,2,Preston North End
+9,2008-08-09 15:00:00,Plymouth Argyle,2,2,Wolverhampton Wanderers
+10,2008-08-09 15:00:00,Queens Park Rangers,2,1,Barnsley
+11,2008-08-09 15:00:00,Sheffield Wednesday,4,1,Burnley
+12,2008-08-10 13:15:00,Nottingham Forest,0,0,Reading
+13,2008-08-16 15:00:00,Barnsley,1,2,Coventry City
+14,2008-08-16 15:00:00,Burnley,0,3,Ipswich Town
+15,2008-08-16 15:00:00,Doncaster Rovers,1,1,Cardiff City
+16,2008-08-16 15:00:00,Norwich City,1,1,Blackpool
+17,2008-08-16 15:00:00,Preston North End,2,0,Crystal Palace
+18,2008-08-16 15:00:00,Reading,2,0,Plymouth Argyle
+19,2008-08-16 15:00:00,Sheffield United,3,0,Queens Park Rangers
+20,2008-08-16 15:00:00,Southampton,1,2,Birmingham City
+21,2008-08-16 15:00:00,Swansea City,3,1,Nottingham Forest
+22,2008-08-16 15:00:00,Watford,1,0,Charlton Athletic
+23,2008-08-16 15:00:00,Wolverhampton Wanderers,4,1,Sheffield Wednesday
+24,2008-08-16 17:20:00,Bristol City,1,1,Derby County
+25,2008-08-23 12:45:00,Charlton Athletic,4,2,Reading
+26,2008-08-23 15:00:00,Birmingham City,2,0,Barnsley
+27,2008-08-23 15:00:00,Blackpool,1,3,Sheffield United
+28,2008-08-23 15:00:00,Cardiff City,2,2,Norwich City
+29,2008-08-23 15:00:00,Coventry City,0,3,Bristol City
+30,2008-08-23 15:00:00,Crystal Palace,0,0,Burnley
+31,2008-08-23 15:00:00,Derby County,0,1,Southampton
+32,2008-08-23 15:00:00,Ipswich Town,0,2,Wolverhampton Wanderers
+33,2008-08-23 15:00:00,Nottingham Forest,3,2,Watford
+34,2008-08-23 15:00:00,Queens Park Rangers,2,0,Doncaster Rovers
+35,2008-08-23 15:00:00,Sheffield Wednesday,1,1,Preston North End
+36,2008-08-23 17:20:00,Plymouth Argyle,0,1,Swansea City
+37,2008-08-30 12:45:00,Southampton,0,1,Blackpool
+38,2008-08-30 15:00:00,Barnsley,2,0,Derby County
+39,2008-08-30 15:00:00,Bristol City,1,1,Queens Park Rangers
+40,2008-08-30 15:00:00,Burnley,0,0,Plymouth Argyle
+41,2008-08-30 15:00:00,Doncaster Rovers,1,0,Coventry City
+42,2008-08-30 15:00:00,Norwich City,1,1,Birmingham City
+43,2008-08-30 15:00:00,Preston North End,2,1,Charlton Athletic
+44,2008-08-30 15:00:00,Reading,4,2,Crystal Palace
+45,2008-08-30 15:00:00,Sheffield United,0,0,Cardiff City
+46,2008-08-30 15:00:00,Swansea City,1,1,Sheffield Wednesday
+47,2008-08-30 15:00:00,Wolverhampton Wanderers,5,1,Nottingham Forest
+48,2008-08-30 17:20:00,Watford,2,1,Ipswich Town
+49,2008-09-13 15:00:00,Birmingham City,1,0,Doncaster Rovers
+50,2008-09-13 15:00:00,Blackpool,1,0,Barnsley
+51,2008-09-13 15:00:00,Cardiff City,0,0,Bristol City
+52,2008-09-13 15:00:00,Charlton Athletic,1,3,Wolverhampton Wanderers
+53,2008-09-13 15:00:00,Coventry City,0,0,Preston North End
+54,2008-09-13 15:00:00,Crystal Palace,2,0,Swansea City
+55,2008-09-13 15:00:00,Ipswich Town,2,0,Reading
+56,2008-09-13 15:00:00,Nottingham Forest,1,2,Burnley
+57,2008-09-13 15:00:00,Plymouth Argyle,1,2,Norwich City
+58,2008-09-13 15:00:00,Sheffield Wednesday,2,0,Watford
+59,2008-09-13 17:20:00,Derby County,2,1,Sheffield United
+60,2008-09-14 16:00:00,Queens Park Rangers,4,1,Southampton
+61,2008-09-16 19:45:00,Barnsley,0,1,Cardiff City
+62,2008-09-16 19:45:00,Bristol City,1,2,Birmingham City
+63,2008-09-16 19:45:00,Burnley,2,0,Blackpool
+64,2008-09-16 19:45:00,Doncaster Rovers,0,1,Charlton Athletic
+65,2008-09-16 19:45:00,Preston North End,2,1,Nottingham Forest
+66,2008-09-16 19:45:00,Sheffield United,1,1,Coventry City
+67,2008-09-16 19:45:00,Swansea City,1,1,Derby County
+68,2008-09-16 19:45:00,Watford,1,2,Plymouth Argyle
+69,2008-09-16 19:45:00,Wolverhampton Wanderers,2,1,Crystal Palace
+70,2008-09-16 20:00:00,Reading,6,0,Sheffield Wednesday
+71,2008-09-17 19:45:00,Norwich City,0,1,Queens Park Rangers
+72,2008-09-17 19:45:00,Southampton,2,2,Ipswich Town
+73,2008-09-20 15:00:00,Birmingham City,0,1,Blackpool
+74,2008-09-20 15:00:00,Bristol City,4,1,Doncaster Rovers
+75,2008-09-20 15:00:00,Coventry City,1,0,Queens Park Rangers
+76,2008-09-20 15:00:00,Crystal Palace,1,2,Plymouth Argyle
+77,2008-09-20 15:00:00,Derby County,1,1,Cardiff City
+78,2008-09-20 15:00:00,Norwich City,1,0,Sheffield United
+79,2008-09-20 15:00:00,Nottingham Forest,0,0,Charlton Athletic
+80,2008-09-20 15:00:00,Preston North End,1,3,Wolverhampton Wanderers
+81,2008-09-20 15:00:00,Sheffield Wednesday,0,0,Ipswich Town
+82,2008-09-20 15:00:00,Southampton,0,0,Barnsley
+83,2008-09-20 15:00:00,Swansea City,1,1,Burnley
+84,2008-09-20 15:00:00,Watford,2,2,Reading
+85,2008-09-27 12:30:00,Wolverhampton Wanderers,2,0,Bristol City
+86,2008-09-27 15:00:00,Barnsley,0,0,Norwich City
+87,2008-09-27 15:00:00,Blackpool,1,1,Coventry City
+88,2008-09-27 15:00:00,Burnley,3,1,Preston North End
+89,2008-09-27 15:00:00,Cardiff City,1,2,Birmingham City
+90,2008-09-27 15:00:00,Charlton Athletic,1,2,Sheffield Wednesday
+91,2008-09-27 15:00:00,Doncaster Rovers,0,2,Southampton
+92,2008-09-27 15:00:00,Plymouth Argyle,1,0,Nottingham Forest
+93,2008-09-27 15:00:00,Queens Park Rangers,0,2,Derby County
+94,2008-09-27 15:00:00,Reading,4,0,Swansea City
+95,2008-09-27 15:00:00,Sheffield United,2,1,Watford
+96,2008-09-27 17:20:00,Ipswich Town,1,1,Crystal Palace
+97,2008-09-30 19:45:00,Bristol City,2,2,Plymouth Argyle
+98,2008-09-30 19:45:00,Burnley,3,2,Watford
+99,2008-09-30 19:45:00,Cardiff City,2,1,Coventry City
+100,2008-09-30 19:45:00,Derby County,1,1,Birmingham City
+101,2008-09-30 19:45:00,Doncaster Rovers,0,2,Sheffield United
+102,2008-09-30 19:45:00,Ipswich Town,3,0,Barnsley
+103,2008-09-30 19:45:00,Preston North End,0,2,Swansea City
+104,2008-09-30 19:45:00,Sheffield Wednesday,1,0,Nottingham Forest
+105,2008-09-30 19:45:00,Southampton,2,0,Norwich City
+106,2008-09-30 19:45:00,Wolverhampton Wanderers,0,3,Reading
+107,2008-09-30 20:00:00,Crystal Palace,1,0,Charlton Athletic
+108,2008-09-30 20:00:00,Queens Park Rangers,1,1,Blackpool
+109,2008-10-04 12:30:00,Blackpool,1,1,Cardiff City
+110,2008-10-04 12:45:00,Birmingham City,1,0,Queens Park Rangers
+111,2008-10-04 15:00:00,Barnsley,4,1,Doncaster Rovers
+112,2008-10-04 15:00:00,Charlton Athletic,2,1,Ipswich Town
+113,2008-10-04 15:00:00,Norwich City,1,2,Derby County
+114,2008-10-04 15:00:00,Nottingham Forest,0,2,Crystal Palace
+115,2008-10-04 15:00:00,Plymouth Argyle,4,0,Sheffield Wednesday
+116,2008-10-04 15:00:00,Reading,3,1,Burnley
+117,2008-10-04 15:00:00,Sheffield United,3,0,Bristol City
+118,2008-10-04 15:00:00,Swansea City,3,1,Wolverhampton Wanderers
+119,2008-10-04 15:00:00,Watford,2,1,Preston North End
+120,2008-10-04 17:20:00,Coventry City,4,1,Southampton
+121,2008-10-18 15:00:00,Bristol City,1,0,Norwich City
+122,2008-10-18 15:00:00,Burnley,1,1,Birmingham City
+123,2008-10-18 15:00:00,Cardiff City,2,0,Charlton Athletic
+124,2008-10-18 15:00:00,Derby County,2,1,Plymouth Argyle
+125,2008-10-18 15:00:00,Doncaster Rovers,0,0,Blackpool
+126,2008-10-18 15:00:00,Ipswich Town,2,2,Swansea City
+127,2008-10-18 15:00:00,Preston North End,2,1,Reading
+128,2008-10-18 15:00:00,Queens Park Rangers,2,1,Nottingham Forest
+129,2008-10-18 15:00:00,Southampton,0,3,Watford
+130,2008-10-18 15:00:00,Wolverhampton Wanderers,2,1,Coventry City
+131,2008-10-18 17:20:00,Crystal Palace,3,0,Barnsley
+132,2008-10-19 13:15:00,Sheffield Wednesday,1,0,Sheffield United
+133,2008-10-21 19:45:00,Barnsley,2,1,Sheffield Wednesday
+134,2008-10-21 19:45:00,Birmingham City,1,0,Crystal Palace
+135,2008-10-21 19:45:00,Blackpool,3,2,Derby County
+136,2008-10-21 19:45:00,Charlton Athletic,0,2,Bristol City
+137,2008-10-21 19:45:00,Coventry City,1,3,Burnley
+138,2008-10-21 19:45:00,Norwich City,5,2,Wolverhampton Wanderers
+139,2008-10-21 19:45:00,Nottingham Forest,1,1,Ipswich Town
+140,2008-10-21 19:45:00,Plymouth Argyle,1,0,Preston North End
+141,2008-10-21 19:45:00,Sheffield United,0,0,Southampton
+142,2008-10-21 19:45:00,Swansea City,0,0,Queens Park Rangers
+143,2008-10-21 19:45:00,Watford,2,2,Cardiff City
+144,2008-10-21 20:00:00,Reading,2,1,Doncaster Rovers
+145,2008-10-25 15:00:00,Barnsley,0,0,Bristol City
+146,2008-10-25 15:00:00,Birmingham City,3,1,Sheffield Wednesday
+147,2008-10-25 15:00:00,Blackpool,2,2,Crystal Palace
+148,2008-10-25 15:00:00,Charlton Athletic,1,1,Burnley
+149,2008-10-25 15:00:00,Coventry City,1,1,Derby County
+150,2008-10-25 15:00:00,Norwich City,2,1,Doncaster Rovers
+151,2008-10-25 15:00:00,Nottingham Forest,0,1,Cardiff City
+152,2008-10-25 15:00:00,Plymouth Argyle,1,3,Ipswich Town
+153,2008-10-25 15:00:00,Sheffield United,1,0,Preston North End
+154,2008-10-25 15:00:00,Swansea City,3,0,Southampton
+155,2008-10-25 15:00:00,Watford,2,3,Wolverhampton Wanderers
+156,2008-10-25 17:20:00,Reading,0,0,Queens Park Rangers
+157,2008-10-28 19:45:00,Bristol City,0,0,Sheffield United
+158,2008-10-28 19:45:00,Burnley,1,0,Reading
+159,2008-10-28 19:45:00,Cardiff City,2,0,Blackpool
+160,2008-10-28 19:45:00,Derby County,3,1,Norwich City
+161,2008-10-28 19:45:00,Doncaster Rovers,0,1,Barnsley
+162,2008-10-28 19:45:00,Ipswich Town,1,1,Charlton Athletic
+163,2008-10-28 19:45:00,Preston North End,2,0,Watford
+164,2008-10-28 19:45:00,Sheffield Wednesday,0,1,Plymouth Argyle
+165,2008-10-28 19:45:00,Southampton,1,1,Coventry City
+166,2008-10-28 19:45:00,Wolverhampton Wanderers,2,1,Swansea City
+167,2008-10-28 20:00:00,Crystal Palace,1,2,Nottingham Forest
+168,2008-10-28 20:00:00,Queens Park Rangers,1,0,Birmingham City
+169,2008-11-01 15:00:00,Bristol City,1,4,Reading
+170,2008-11-01 15:00:00,Burnley,2,0,Norwich City
+171,2008-11-01 15:00:00,Charlton Athletic,1,3,Barnsley
+172,2008-11-01 15:00:00,Crystal Palace,1,1,Sheffield Wednesday
+173,2008-11-01 15:00:00,Doncaster Rovers,0,0,Swansea City
+174,2008-11-01 15:00:00,Ipswich Town,2,0,Queens Park Rangers
+175,2008-11-01 15:00:00,Preston North End,2,3,Southampton
+176,2008-11-01 15:00:00,Sheffield United,2,0,Plymouth Argyle
+177,2008-11-01 15:00:00,Watford,3,4,Blackpool
+178,2008-11-01 17:20:00,Cardiff City,1,2,Wolverhampton Wanderers
+179,2008-11-02 13:15:00,Derby County,1,1,Nottingham Forest
+180,2008-11-03 19:45:00,Birmingham City,0,1,Coventry City
+181,2008-11-08 15:00:00,Barnsley,1,2,Sheffield United
+182,2008-11-08 15:00:00,Blackpool,0,1,Ipswich Town
+183,2008-11-08 15:00:00,Coventry City,0,2,Crystal Palace
+184,2008-11-08 15:00:00,Norwich City,2,2,Preston North End
+185,2008-11-08 15:00:00,Nottingham Forest,1,1,Birmingham City
+186,2008-11-08 15:00:00,Plymouth Argyle,2,2,Charlton Athletic
+187,2008-11-08 15:00:00,Queens Park Rangers,1,0,Cardiff City
+188,2008-11-08 15:00:00,Reading,3,0,Derby County
+189,2008-11-08 15:00:00,Sheffield Wednesday,1,0,Doncaster Rovers
+190,2008-11-08 15:00:00,Wolverhampton Wanderers,2,0,Burnley
+191,2008-11-08 17:20:00,Southampton,0,1,Bristol City
+192,2008-11-09 14:00:00,Swansea City,3,1,Watford
+193,2008-11-15 15:00:00,Barnsley,2,1,Watford
+194,2008-11-15 15:00:00,Birmingham City,3,2,Charlton Athletic
+195,2008-11-15 15:00:00,Bristol City,2,2,Nottingham Forest
+196,2008-11-15 15:00:00,Cardiff City,2,1,Crystal Palace
+197,2008-11-15 15:00:00,Coventry City,0,1,Plymouth Argyle
+198,2008-11-15 15:00:00,Derby County,3,0,Sheffield Wednesday
+199,2008-11-15 15:00:00,Norwich City,2,3,Swansea City
+200,2008-11-15 15:00:00,Queens Park Rangers,1,2,Burnley
+201,2008-11-15 15:00:00,Sheffield United,0,2,Reading
+202,2008-11-15 15:00:00,Southampton,1,2,Wolverhampton Wanderers
+203,2008-11-15 17:20:00,Doncaster Rovers,1,0,Ipswich Town
+204,2008-11-16 13:00:00,Blackpool,1,3,Preston North End
+205,2008-11-21 19:45:00,Swansea City,2,3,Birmingham City
+206,2008-11-22 12:45:00,Plymouth Argyle,2,1,Cardiff City
+207,2008-11-22 15:00:00,Burnley,0,0,Doncaster Rovers
+208,2008-11-22 15:00:00,Charlton Athletic,2,5,Sheffield United
+209,2008-11-22 15:00:00,Crystal Palace,4,2,Bristol City
+210,2008-11-22 15:00:00,Ipswich Town,2,0,Derby County
+211,2008-11-22 15:00:00,Preston North End,2,1,Barnsley
+212,2008-11-22 15:00:00,Reading,1,2,Southampton
+213,2008-11-22 15:00:00,Sheffield Wednesday,0,1,Coventry City
+214,2008-11-22 15:00:00,Watford,3,0,Queens Park Rangers
+215,2008-11-22 15:00:00,Wolverhampton Wanderers,2,0,Blackpool
+216,2008-11-22 17:20:00,Nottingham Forest,1,2,Norwich City
+217,2008-11-24 19:45:00,Barnsley,3,2,Burnley
+218,2008-11-25 19:45:00,Birmingham City,2,1,Ipswich Town
+219,2008-11-25 19:45:00,Blackpool,0,2,Sheffield Wednesday
+220,2008-11-25 19:45:00,Bristol City,1,1,Watford
+221,2008-11-25 19:45:00,Cardiff City,2,2,Reading
+222,2008-11-25 19:45:00,Coventry City,1,1,Swansea City
+223,2008-11-25 19:45:00,Derby County,2,2,Preston North End
+224,2008-11-25 19:45:00,Doncaster Rovers,0,0,Nottingham Forest
+225,2008-11-25 19:45:00,Norwich City,1,2,Crystal Palace
+226,2008-11-25 19:45:00,Sheffield United,1,3,Wolverhampton Wanderers
+227,2008-11-25 19:45:00,Southampton,0,0,Plymouth Argyle
+228,2008-11-25 20:00:00,Queens Park Rangers,2,1,Charlton Athletic
+229,2008-11-29 12:30:00,Wolverhampton Wanderers,1,1,Birmingham City
+230,2008-11-29 15:00:00,Burnley,3,0,Derby County
+231,2008-11-29 15:00:00,Charlton Athletic,0,0,Southampton
+232,2008-11-29 15:00:00,Crystal Palace,0,0,Queens Park Rangers
+233,2008-11-29 15:00:00,Ipswich Town,1,1,Sheffield United
+234,2008-11-29 15:00:00,Nottingham Forest,1,0,Barnsley
+235,2008-11-29 15:00:00,Plymouth Argyle,1,2,Blackpool
+236,2008-11-29 15:00:00,Sheffield Wednesday,3,2,Norwich City
+237,2008-11-29 15:00:00,Watford,1,1,Doncaster Rovers
+238,2008-11-29 17:20:00,Preston North End,2,0,Bristol City
+239,2008-11-30 11:15:00,Swansea City,2,2,Cardiff City
+240,2008-12-01 20:00:00,Reading,3,1,Coventry City
+241,2008-12-06 15:00:00,Barnsley,0,1,Reading
+242,2008-12-06 15:00:00,Birmingham City,3,2,Watford
+243,2008-12-06 15:00:00,Blackpool,2,0,Charlton Athletic
+244,2008-12-06 15:00:00,Bristol City,0,0,Swansea City
+245,2008-12-06 15:00:00,Cardiff City,2,0,Preston North End
+246,2008-12-06 15:00:00,Coventry City,2,2,Nottingham Forest
+247,2008-12-06 15:00:00,Derby County,1,2,Crystal Palace
+248,2008-12-06 15:00:00,Doncaster Rovers,1,0,Plymouth Argyle
+249,2008-12-06 15:00:00,Sheffield United,2,3,Burnley
+250,2008-12-06 15:00:00,Southampton,1,1,Sheffield Wednesday
+251,2008-12-06 17:20:00,Queens Park Rangers,1,0,Wolverhampton Wanderers
+252,2008-12-07 13:15:00,Norwich City,2,0,Ipswich Town
+253,2008-12-08 20:00:00,Crystal Palace,3,0,Southampton
+254,2008-12-09 19:45:00,Burnley,2,2,Cardiff City
+255,2008-12-09 19:45:00,Charlton Athletic,1,2,Coventry City
+256,2008-12-09 19:45:00,Nottingham Forest,0,1,Sheffield United
+257,2008-12-09 19:45:00,Plymouth Argyle,0,1,Birmingham City
+258,2008-12-09 19:45:00,Preston North End,1,0,Doncaster Rovers
+259,2008-12-09 19:45:00,Sheffield Wednesday,1,0,Queens Park Rangers
+260,2008-12-09 19:45:00,Swansea City,2,2,Barnsley
+261,2008-12-09 19:45:00,Wolverhampton Wanderers,3,0,Derby County
+262,2008-12-09 20:00:00,Reading,1,0,Blackpool
+263,2008-12-10 19:45:00,Ipswich Town,3,1,Bristol City
+264,2008-12-10 19:45:00,Watford,2,1,Norwich City
+265,2008-12-13 15:00:00,Burnley,3,2,Southampton
+266,2008-12-13 15:00:00,Crystal Palace,2,1,Doncaster Rovers
+267,2008-12-13 15:00:00,Ipswich Town,1,2,Cardiff City
+268,2008-12-13 15:00:00,Nottingham Forest,0,0,Blackpool
+269,2008-12-13 15:00:00,Plymouth Argyle,1,1,Queens Park Rangers
+270,2008-12-13 15:00:00,Reading,2,0,Norwich City
+271,2008-12-13 15:00:00,Sheffield Wednesday,0,0,Bristol City
+272,2008-12-13 15:00:00,Swansea City,1,1,Sheffield United
+273,2008-12-13 15:00:00,Watford,2,1,Coventry City
+274,2008-12-13 15:00:00,Wolverhampton Wanderers,2,0,Barnsley
+275,2008-12-13 17:20:00,Preston North End,1,0,Birmingham City
+276,2008-12-15 19:45:00,Charlton Athletic,2,2,Derby County
+277,2008-12-20 12:45:00,Birmingham City,1,3,Reading
+278,2008-12-20 15:00:00,Barnsley,2,0,Plymouth Argyle
+279,2008-12-20 15:00:00,Blackpool,1,1,Swansea City
+280,2008-12-20 15:00:00,Bristol City,1,2,Burnley
+281,2008-12-20 15:00:00,Cardiff City,2,0,Sheffield Wednesday
+282,2008-12-20 15:00:00,Coventry City,2,2,Ipswich Town
+283,2008-12-20 15:00:00,Derby County,1,0,Watford
+284,2008-12-20 15:00:00,Doncaster Rovers,0,1,Wolverhampton Wanderers
+285,2008-12-20 15:00:00,Norwich City,1,0,Charlton Athletic
+286,2008-12-20 15:00:00,Queens Park Rangers,3,2,Preston North End
+287,2008-12-20 15:00:00,Southampton,0,2,Nottingham Forest
+288,2008-12-20 17:20:00,Sheffield United,2,2,Crystal Palace
+289,2008-12-26 12:00:00,Watford,2,4,Bristol City
+290,2008-12-26 13:00:00,Charlton Athletic,2,2,Queens Park Rangers
+291,2008-12-26 13:00:00,Crystal Palace,3,1,Norwich City
+292,2008-12-26 15:00:00,Burnley,1,2,Barnsley
+293,2008-12-26 15:00:00,Ipswich Town,0,1,Birmingham City
+294,2008-12-26 15:00:00,Nottingham Forest,2,4,Doncaster Rovers
+295,2008-12-26 15:00:00,Plymouth Argyle,2,0,Southampton
+296,2008-12-26 15:00:00,Preston North End,2,0,Derby County
+297,2008-12-26 15:00:00,Reading,1,1,Cardiff City
+298,2008-12-26 15:00:00,Sheffield Wednesday,1,1,Blackpool
+299,2008-12-26 15:00:00,Swansea City,0,0,Coventry City
+300,2008-12-26 15:00:00,Wolverhampton Wanderers,1,1,Sheffield United
+301,2008-12-28 15:00:00,Barnsley,1,1,Preston North End
+302,2008-12-28 15:00:00,Birmingham City,0,0,Swansea City
+303,2008-12-28 15:00:00,Bristol City,1,0,Crystal Palace
+304,2008-12-28 15:00:00,Cardiff City,1,0,Plymouth Argyle
+305,2008-12-28 15:00:00,Coventry City,2,0,Sheffield Wednesday
+306,2008-12-28 15:00:00,Derby County,0,1,Ipswich Town
+307,2008-12-28 15:00:00,Doncaster Rovers,2,1,Burnley
+308,2008-12-28 15:00:00,Norwich City,2,3,Nottingham Forest
+309,2008-12-28 15:00:00,Queens Park Rangers,0,0,Watford
+310,2008-12-28 15:00:00,Sheffield United,3,1,Charlton Athletic
+311,2008-12-28 15:00:00,Southampton,1,1,Reading
+312,2008-12-29 19:45:00,Blackpool,2,2,Wolverhampton Wanderers
+313,2009-01-09 20:00:00,Reading,4,0,Watford
+314,2009-01-10 15:00:00,Barnsley,0,1,Southampton
+315,2009-01-10 15:00:00,Charlton Athletic,0,2,Nottingham Forest
+316,2009-01-10 15:00:00,Ipswich Town,1,1,Sheffield Wednesday
+317,2009-01-10 15:00:00,Queens Park Rangers,1,1,Coventry City
+318,2009-01-10 15:00:00,Sheffield United,1,0,Norwich City
+319,2009-01-10 15:00:00,Wolverhampton Wanderers,1,3,Preston North End
+320,2009-01-10 17:20:00,Burnley,0,2,Swansea City
+321,2009-01-17 12:45:00,Preston North End,2,1,Burnley
+322,2009-01-17 15:00:00,Birmingham City,1,1,Cardiff City
+323,2009-01-17 15:00:00,Coventry City,2,1,Blackpool
+324,2009-01-17 15:00:00,Crystal Palace,1,4,Ipswich Town
+325,2009-01-17 15:00:00,Derby County,0,2,Queens Park Rangers
+326,2009-01-17 15:00:00,Norwich City,4,0,Barnsley
+327,2009-01-17 15:00:00,Nottingham Forest,2,0,Plymouth Argyle
+328,2009-01-17 15:00:00,Sheffield Wednesday,4,1,Charlton Athletic
+329,2009-01-17 15:00:00,Southampton,1,2,Doncaster Rovers
+330,2009-01-17 15:00:00,Swansea City,2,0,Reading
+331,2009-01-17 15:00:00,Watford,0,2,Sheffield United
+332,2009-01-17 17:20:00,Bristol City,2,2,Wolverhampton Wanderers
+333,2009-01-24 15:00:00,Blackpool,2,0,Birmingham City
+334,2009-01-27 19:45:00,Barnsley,1,2,Ipswich Town
+335,2009-01-27 19:45:00,Birmingham City,1,0,Derby County
+336,2009-01-27 19:45:00,Blackpool,0,3,Queens Park Rangers
+337,2009-01-27 19:45:00,Charlton Athletic,1,0,Crystal Palace
+338,2009-01-27 19:45:00,Norwich City,2,2,Southampton
+339,2009-01-27 19:45:00,Nottingham Forest,2,1,Sheffield Wednesday
+340,2009-01-27 19:45:00,Plymouth Argyle,0,2,Bristol City
+341,2009-01-27 19:45:00,Sheffield United,0,1,Doncaster Rovers
+342,2009-01-27 19:45:00,Swansea City,4,1,Preston North End
+343,2009-01-27 19:45:00,Watford,3,0,Burnley
+344,2009-01-27 20:00:00,Reading,1,0,Wolverhampton Wanderers
+345,2009-01-28 19:45:00,Coventry City,0,2,Cardiff City
+346,2009-01-30 19:45:00,Doncaster Rovers,1,1,Norwich City
+347,2009-01-31 15:00:00,Bristol City,2,0,Barnsley
+348,2009-01-31 15:00:00,Burnley,2,1,Charlton Athletic
+349,2009-01-31 15:00:00,Cardiff City,2,0,Nottingham Forest
+350,2009-01-31 15:00:00,Crystal Palace,0,1,Blackpool
+351,2009-01-31 15:00:00,Derby County,2,1,Coventry City
+352,2009-01-31 15:00:00,Ipswich Town,0,0,Plymouth Argyle
+353,2009-01-31 15:00:00,Preston North End,0,0,Sheffield United
+354,2009-01-31 15:00:00,Queens Park Rangers,0,0,Reading
+355,2009-01-31 15:00:00,Southampton,2,2,Swansea City
+356,2009-01-31 15:00:00,Wolverhampton Wanderers,3,1,Watford
+357,2009-01-31 17:20:00,Sheffield Wednesday,1,1,Birmingham City
+358,2009-02-03 19:45:00,Bristol City,2,1,Charlton Athletic
+359,2009-02-03 19:45:00,Preston North End,1,1,Plymouth Argyle
+360,2009-02-03 19:45:00,Southampton,1,2,Sheffield United
+361,2009-02-03 19:45:00,Wolverhampton Wanderers,3,3,Norwich City
+362,2009-02-07 12:00:00,Sheffield United,1,2,Sheffield Wednesday
+363,2009-02-07 15:00:00,Birmingham City,1,1,Burnley
+364,2009-02-07 15:00:00,Blackpool,2,3,Doncaster Rovers
+365,2009-02-07 15:00:00,Coventry City,2,1,Wolverhampton Wanderers
+366,2009-02-07 15:00:00,Norwich City,1,2,Bristol City
+367,2009-02-07 15:00:00,Nottingham Forest,2,2,Queens Park Rangers
+368,2009-02-07 15:00:00,Plymouth Argyle,0,3,Derby County
+369,2009-02-07 15:00:00,Reading,0,0,Preston North End
+370,2009-02-07 15:00:00,Swansea City,3,0,Ipswich Town
+371,2009-02-14 15:00:00,Birmingham City,2,0,Nottingham Forest
+372,2009-02-14 15:00:00,Bristol City,2,0,Southampton
+373,2009-02-14 15:00:00,Burnley,1,0,Wolverhampton Wanderers
+374,2009-02-14 15:00:00,Charlton Athletic,2,0,Plymouth Argyle
+375,2009-02-14 15:00:00,Doncaster Rovers,1,0,Sheffield Wednesday
+376,2009-02-14 15:00:00,Ipswich Town,1,1,Blackpool
+377,2009-02-14 15:00:00,Preston North End,1,0,Norwich City
+378,2009-02-17 19:45:00,Burnley,1,1,Coventry City
+379,2009-02-17 19:45:00,Doncaster Rovers,1,0,Bristol City
+380,2009-02-17 19:45:00,Plymouth Argyle,1,3,Crystal Palace
+381,2009-02-17 19:45:00,Sheffield Wednesday,0,1,Barnsley
+382,2009-02-17 19:45:00,Watford,2,0,Swansea City
+383,2009-02-18 19:45:00,Derby County,4,1,Blackpool
+384,2009-02-18 19:45:00,Ipswich Town,2,1,Nottingham Forest
+385,2009-02-21 13:00:00,Nottingham Forest,1,3,Derby County
+386,2009-02-21 15:00:00,Barnsley,0,0,Charlton Athletic
+387,2009-02-21 15:00:00,Blackpool,0,2,Watford
+388,2009-02-21 15:00:00,Coventry City,1,0,Birmingham City
+389,2009-02-21 15:00:00,Norwich City,1,1,Burnley
+390,2009-02-21 15:00:00,Plymouth Argyle,2,2,Sheffield United
+391,2009-02-21 15:00:00,Reading,0,2,Bristol City
+392,2009-02-21 15:00:00,Sheffield Wednesday,2,0,Crystal Palace
+393,2009-02-21 15:00:00,Southampton,3,1,Preston North End
+394,2009-02-21 15:00:00,Swansea City,3,1,Doncaster Rovers
+395,2009-02-21 17:20:00,Queens Park Rangers,1,3,Ipswich Town
+396,2009-02-22 13:00:00,Wolverhampton Wanderers,2,2,Cardiff City
+397,2009-02-24 20:00:00,Crystal Palace,0,0,Birmingham City
+398,2009-02-25 19:45:00,Cardiff City,0,0,Queens Park Rangers
+399,2009-02-27 19:45:00,Doncaster Rovers,2,1,Derby County
+400,2009-02-28 15:00:00,Barnsley,2,1,Queens Park Rangers
+401,2009-02-28 15:00:00,Bristol City,0,0,Blackpool
+402,2009-02-28 15:00:00,Burnley,2,4,Sheffield Wednesday
+403,2009-02-28 15:00:00,Norwich City,1,2,Coventry City
+404,2009-02-28 15:00:00,Preston North End,3,2,Ipswich Town
+405,2009-02-28 15:00:00,Reading,0,1,Nottingham Forest
+406,2009-02-28 15:00:00,Southampton,1,0,Cardiff City
+407,2009-02-28 15:00:00,Swansea City,1,1,Charlton Athletic
+408,2009-02-28 15:00:00,Watford,2,0,Crystal Palace
+409,2009-02-28 15:00:00,Wolverhampton Wanderers,0,1,Plymouth Argyle
+410,2009-03-01 12:15:00,Sheffield United,2,1,Birmingham City
+411,2009-03-03 19:45:00,Blackpool,0,1,Burnley
+412,2009-03-03 19:45:00,Cardiff City,3,1,Barnsley
+413,2009-03-03 19:45:00,Charlton Athletic,1,2,Doncaster Rovers
+414,2009-03-03 19:45:00,Derby County,2,2,Swansea City
+415,2009-03-03 19:45:00,Ipswich Town,0,3,Southampton
+416,2009-03-03 19:45:00,Nottingham Forest,2,1,Preston North End
+417,2009-03-03 19:45:00,Plymouth Argyle,2,1,Watford
+418,2009-03-03 19:45:00,Sheffield Wednesday,1,2,Reading
+419,2009-03-03 20:00:00,Crystal Palace,0,1,Wolverhampton Wanderers
+420,2009-03-03 20:00:00,Queens Park Rangers,0,1,Norwich City
+421,2009-03-04 19:45:00,Birmingham City,1,0,Bristol City
+422,2009-03-04 19:45:00,Coventry City,1,2,Sheffield United
+423,2009-03-07 13:00:00,Derby County,2,1,Bristol City
+424,2009-03-07 15:00:00,Birmingham City,1,0,Southampton
+425,2009-03-07 15:00:00,Blackpool,2,0,Norwich City
+426,2009-03-07 15:00:00,Cardiff City,3,0,Doncaster Rovers
+427,2009-03-07 15:00:00,Charlton Athletic,2,3,Watford
+428,2009-03-07 15:00:00,Crystal Palace,2,1,Preston North End
+429,2009-03-07 15:00:00,Nottingham Forest,1,1,Swansea City
+430,2009-03-07 15:00:00,Plymouth Argyle,2,2,Reading
+431,2009-03-07 15:00:00,Queens Park Rangers,0,0,Sheffield United
+432,2009-03-07 15:00:00,Sheffield Wednesday,0,1,Wolverhampton Wanderers
+433,2009-03-10 19:45:00,Barnsley,1,1,Birmingham City
+434,2009-03-10 19:45:00,Bristol City,2,0,Coventry City
+435,2009-03-10 19:45:00,Doncaster Rovers,2,0,Queens Park Rangers
+436,2009-03-10 19:45:00,Norwich City,2,0,Cardiff City
+437,2009-03-10 19:45:00,Preston North End,1,1,Sheffield Wednesday
+438,2009-03-10 19:45:00,Sheffield United,2,2,Blackpool
+439,2009-03-10 19:45:00,Southampton,1,1,Derby County
+440,2009-03-10 19:45:00,Swansea City,1,0,Plymouth Argyle
+441,2009-03-10 19:45:00,Watford,2,1,Nottingham Forest
+442,2009-03-10 19:45:00,Wolverhampton Wanderers,0,0,Ipswich Town
+443,2009-03-10 20:00:00,Reading,2,2,Charlton Athletic
+444,2009-03-11 19:45:00,Burnley,4,2,Crystal Palace
+445,2009-03-14 15:00:00,Barnsley,0,1,Blackpool
+446,2009-03-14 15:00:00,Burnley,5,0,Nottingham Forest
+447,2009-03-14 15:00:00,Norwich City,1,0,Plymouth Argyle
+448,2009-03-14 15:00:00,Preston North End,2,1,Coventry City
+449,2009-03-14 15:00:00,Reading,0,1,Ipswich Town
+450,2009-03-14 15:00:00,Sheffield United,4,2,Derby County
+451,2009-03-14 15:00:00,Southampton,0,0,Queens Park Rangers
+452,2009-03-14 15:00:00,Swansea City,1,3,Crystal Palace
+453,2009-03-14 15:00:00,Watford,2,2,Sheffield Wednesday
+454,2009-03-14 15:00:00,Wolverhampton Wanderers,2,1,Charlton Athletic
+455,2009-03-14 17:20:00,Doncaster Rovers,0,2,Birmingham City
+456,2009-03-15 13:15:00,Bristol City,1,1,Cardiff City
+457,2009-03-17 19:45:00,Barnsley,3,1,Crystal Palace
+458,2009-03-17 19:45:00,Doncaster Rovers,0,1,Reading
+459,2009-03-17 19:45:00,Ipswich Town,1,1,Burnley
+460,2009-03-17 20:00:00,Queens Park Rangers,1,0,Swansea City
+461,2009-03-18 19:45:00,Cardiff City,2,1,Watford
+462,2009-03-21 15:00:00,Birmingham City,1,1,Norwich City
+463,2009-03-21 15:00:00,Blackpool,1,1,Southampton
+464,2009-03-21 15:00:00,Charlton Athletic,0,0,Preston North End
+465,2009-03-21 15:00:00,Coventry City,1,0,Doncaster Rovers
+466,2009-03-21 15:00:00,Derby County,0,0,Barnsley
+467,2009-03-21 15:00:00,Ipswich Town,0,0,Watford
+468,2009-03-21 15:00:00,Nottingham Forest,0,1,Wolverhampton Wanderers
+469,2009-03-21 15:00:00,Plymouth Argyle,1,2,Burnley
+470,2009-03-21 15:00:00,Queens Park Rangers,2,1,Bristol City
+471,2009-03-21 15:00:00,Sheffield Wednesday,0,0,Swansea City
+472,2009-03-21 17:20:00,Crystal Palace,0,0,Reading
+473,2009-03-22 15:00:00,Cardiff City,0,3,Sheffield United
+474,2009-04-04 15:00:00,Barnsley,1,1,Nottingham Forest
+475,2009-04-04 15:00:00,Blackpool,0,1,Plymouth Argyle
+476,2009-04-04 15:00:00,Coventry City,0,0,Reading
+477,2009-04-04 15:00:00,Derby County,1,1,Burnley
+478,2009-04-04 15:00:00,Doncaster Rovers,1,2,Watford
+479,2009-04-04 15:00:00,Norwich City,0,1,Sheffield Wednesday
+480,2009-04-04 15:00:00,Queens Park Rangers,0,0,Crystal Palace
+481,2009-04-04 15:00:00,Sheffield United,2,0,Ipswich Town
+482,2009-04-04 15:00:00,Southampton,2,3,Charlton Athletic
+483,2009-04-04 17:20:00,Bristol City,1,1,Preston North End
+484,2009-04-05 11:00:00,Cardiff City,2,2,Swansea City
+485,2009-04-06 19:45:00,Birmingham City,2,0,Wolverhampton Wanderers
+486,2009-04-07 19:45:00,Sheffield United,2,1,Barnsley
+487,2009-04-07 19:45:00,Watford,2,2,Southampton
+488,2009-04-07 20:00:00,Crystal Palace,1,1,Coventry City
+489,2009-04-08 19:45:00,Cardiff City,4,1,Derby County
+490,2009-04-10 15:15:00,Wolverhampton Wanderers,3,0,Southampton
+491,2009-04-10 17:30:00,Reading,0,1,Sheffield United
+492,2009-04-11 13:00:00,Preston North End,0,1,Blackpool
+493,2009-04-11 15:00:00,Burnley,1,0,Queens Park Rangers
+494,2009-04-11 15:00:00,Charlton Athletic,0,0,Birmingham City
+495,2009-04-11 15:00:00,Crystal Palace,0,2,Cardiff City
+496,2009-04-11 15:00:00,Ipswich Town,1,3,Doncaster Rovers
+497,2009-04-11 15:00:00,Nottingham Forest,3,2,Bristol City
+498,2009-04-11 15:00:00,Plymouth Argyle,4,0,Coventry City
+499,2009-04-11 15:00:00,Sheffield Wednesday,0,1,Derby County
+500,2009-04-11 15:00:00,Swansea City,2,1,Norwich City
+501,2009-04-11 15:00:00,Watford,1,1,Barnsley
+502,2009-04-13 15:00:00,Barnsley,1,3,Swansea City
+503,2009-04-13 15:00:00,Birmingham City,1,1,Plymouth Argyle
+504,2009-04-13 15:00:00,Blackpool,2,2,Reading
+505,2009-04-13 15:00:00,Bristol City,1,1,Ipswich Town
+506,2009-04-13 15:00:00,Cardiff City,3,1,Burnley
+507,2009-04-13 15:00:00,Coventry City,0,0,Charlton Athletic
+508,2009-04-13 15:00:00,Derby County,2,3,Wolverhampton Wanderers
+509,2009-04-13 15:00:00,Doncaster Rovers,0,2,Preston North End
+510,2009-04-13 15:00:00,Norwich City,2,0,Watford
+511,2009-04-13 15:00:00,Queens Park Rangers,3,2,Sheffield Wednesday
+512,2009-04-13 15:00:00,Sheffield United,0,0,Nottingham Forest
+513,2009-04-13 15:00:00,Southampton,1,0,Crystal Palace
+514,2009-04-18 15:00:00,Charlton Athletic,2,2,Blackpool
+515,2009-04-18 15:00:00,Crystal Palace,1,0,Derby County
+516,2009-04-18 15:00:00,Nottingham Forest,1,0,Coventry City
+517,2009-04-18 15:00:00,Plymouth Argyle,0,3,Doncaster Rovers
+518,2009-04-18 15:00:00,Preston North End,6,0,Cardiff City
+519,2009-04-18 15:00:00,Reading,0,0,Barnsley
+520,2009-04-18 15:00:00,Sheffield Wednesday,2,0,Southampton
+521,2009-04-18 15:00:00,Swansea City,1,0,Bristol City
+522,2009-04-18 15:00:00,Watford,0,1,Birmingham City
+523,2009-04-18 15:00:00,Wolverhampton Wanderers,1,0,Queens Park Rangers
+524,2009-04-19 12:45:00,Ipswich Town,3,2,Norwich City
+525,2009-04-20 19:45:00,Burnley,1,0,Sheffield United
+526,2009-04-21 19:45:00,Charlton Athletic,2,2,Cardiff City
+527,2009-04-21 19:45:00,Coventry City,1,1,Barnsley
+528,2009-04-21 19:45:00,Derby County,0,2,Reading
+529,2009-04-25 12:30:00,Blackpool,1,1,Nottingham Forest
+530,2009-04-25 15:00:00,Barnsley,1,1,Wolverhampton Wanderers
+531,2009-04-25 15:00:00,Bristol City,1,1,Sheffield Wednesday
+532,2009-04-25 15:00:00,Cardiff City,0,3,Ipswich Town
+533,2009-04-25 15:00:00,Coventry City,2,3,Watford
+534,2009-04-25 15:00:00,Derby County,1,0,Charlton Athletic
+535,2009-04-25 15:00:00,Doncaster Rovers,2,0,Crystal Palace
+536,2009-04-25 15:00:00,Queens Park Rangers,0,0,Plymouth Argyle
+537,2009-04-25 15:00:00,Sheffield United,1,0,Swansea City
+538,2009-04-25 15:00:00,Southampton,2,2,Burnley
+539,2009-04-25 17:20:00,Birmingham City,1,2,Preston North End
+540,2009-04-27 19:45:00,Norwich City,0,2,Reading
+541,2009-05-03 13:15:00,Burnley,4,0,Bristol City
+542,2009-05-03 13:15:00,Charlton Athletic,4,2,Norwich City
+543,2009-05-03 13:15:00,Crystal Palace,0,0,Sheffield United
+544,2009-05-03 13:15:00,Ipswich Town,2,1,Coventry City
+545,2009-05-03 13:15:00,Nottingham Forest,3,1,Southampton
+546,2009-05-03 13:15:00,Plymouth Argyle,1,2,Barnsley
+547,2009-05-03 13:15:00,Preston North End,2,1,Queens Park Rangers
+548,2009-05-03 13:15:00,Reading,1,2,Birmingham City
+549,2009-05-03 13:15:00,Sheffield Wednesday,1,0,Cardiff City
+550,2009-05-03 13:15:00,Swansea City,0,1,Blackpool
+551,2009-05-03 13:15:00,Watford,3,1,Derby County
+552,2009-05-03 13:15:00,Wolverhampton Wanderers,1,0,Doncaster Rovers
+553,2009-05-08 00:00:00,Preston North End,1,1,Sheffield United
+554,2009-05-09 00:00:00,Burnley,1,0,Reading
+555,2009-05-11 00:00:00,Sheffield United,1,0,Preston North End
+556,2009-05-12 00:00:00,Reading,0,2,Burnley
+557,2009-05-25 00:00:00,Burnley,1,0,Sheffield United
