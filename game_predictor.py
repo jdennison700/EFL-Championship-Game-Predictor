@@ -6,6 +6,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import log_loss
 import season_combiner
 
+TRAIN_CUTOFF_SEASON = 2024
+TEST_START_SEASON = TRAIN_CUTOFF_SEASON + 1
+
 def load_data():
     """Load and process championship data."""
 
@@ -168,11 +171,11 @@ def train_logistic_model(X, y, meta):
     y = y[valid_mask]
     meta = meta[valid_mask]
 
-    train_mask = (X['Season'] <= 2023) & meta['y_home_win'].notna()
+    train_mask = (X['Season'] <= TRAIN_CUTOFF_SEASON) & meta['y_home_win'].notna()
     X_train = X[train_mask].drop(columns=['Season'])
     y_train = y[train_mask]
 
-    test_mask = X['Season'] >= 2024
+    test_mask = X['Season'] >= TEST_START_SEASON
     X_test = X[test_mask].drop(columns=['Season'])
     y_test = y[test_mask]
 
@@ -290,7 +293,7 @@ def main():
 
     model, probs, y_true, meta, feature_importance = train_logistic_model(X, y, meta)
 
-    test_meta = meta[X['Season'] >= 2024].copy()
+    test_meta = meta[X['Season'] >= TEST_START_SEASON].copy()
     test_meta['win_prob'] = probs
 
     # Separate upcoming games from played games

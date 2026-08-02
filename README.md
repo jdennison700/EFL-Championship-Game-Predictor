@@ -4,7 +4,7 @@ A machine learning project designed to predict the outcomes of English Football 
 
 ## Overview
 
-This project uses a **Logistic Regression** model trained on historical data (2019-2023) to predict outcomes for the 2024 season and beyond. The model considers:
+This project uses a **Logistic Regression** model trained on historical data (2019-2024) to predict outcomes for the 2025 season and beyond. The model considers:
 
 *   **Elo Ratings**: Dynamic strength ratings updated after every match (including regression to the mean between seasons).
 *   **Team Form**: Rolling averages for wins, goals scored, and goals conceded (both Season-to-Date and Last 5 Games).
